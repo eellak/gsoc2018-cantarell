@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni045F" format="1">
+  <advance width="70"/>
+  <unicode hex="045F"/>
+  <outline>
+    <contour>
+      <point x="330" y="-130" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="495" y="0" type="line"/>
+      <point x="495" y="482" type="line"/>
+      <point x="414" y="482" type="line"/>
+      <point x="414" y="71" type="line"/>
+      <point x="166" y="71" type="line"/>
+      <point x="166" y="482" type="line"/>
+      <point x="85" y="482" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="256" y="0" type="line"/>
+      <point x="256" y="-130" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Dzhe-cy</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflexgrave" format="1">
+  <advance width="788"/>
+  <unicode hex="1ED2"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni0302_gravecomb.case" xOffset="228" yOffset="12"/>
+  </outline>
+</glyph>

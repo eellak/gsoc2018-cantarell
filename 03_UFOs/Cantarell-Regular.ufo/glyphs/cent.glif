@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="1">
+  <advance width="466"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <component base="c"/>
+    <component base="_currencyvstem" xOffset="-105" yOffset="-209"/>
+    <component base="_currencyvstem" xOffset="-102" yOffset="-800"/>
+  </outline>
+</glyph>
