@@ -1,9 +1,6 @@
 ## Timeline
 
-**14.05.2018**<br />
-Fork Cantarell source files; data checkup
-
-**15.05. – 24.05.**<br />
+**14.05. – 24.05.**<br />
 Explore the design space by sketching masters: Regular, Thin, Extra Bold; set the design direction for the Greek addition
 
 **25.05. – 07.06.**<br />
@@ -34,10 +31,10 @@ Design uppercase, Extra Bold; interpolation test and preview for all upper- and 
 Add Polytonic diacritics and finalize upper- and lowercase of masters; get feedback from mentors
 
 **23.07. – 29.07.**<br />
-Fix problems; kerning; interpolate intermediate weights
+Fix problems; kerning
 
 **30.07. – 05.08.**<br />
-Finalize intermediate weights; finish documentation
+Kerning; interpolate intermediate weights; finish documentation
 
 **06.08. – 14.08.2018**<br />
 **Final evaluation period**
