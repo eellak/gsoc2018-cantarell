@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tosf.zero" format="1">
+  <advance width="580"/>
+  <outline>
+    <component base="zero.tosf"/>
+    <component base="_slash.zero.osf" xOffset="75" yOffset="49"/>
+  </outline>
+</glyph>

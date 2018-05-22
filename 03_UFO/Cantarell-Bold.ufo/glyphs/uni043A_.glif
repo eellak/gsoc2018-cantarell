@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043A" format="1">
+  <advance width="80"/>
+  <unicode hex="043A"/>
+  <outline>
+    <contour>
+      <point x="574" y="0" type="line"/>
+      <point x="414" y="278" type="line"/>
+      <point x="417" y="249" type="line"/>
+      <point x="569" y="490" type="line"/>
+      <point x="390" y="490" type="line"/>
+      <point x="247" y="251" type="line"/>
+      <point x="389" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="220" y="0" type="line"/>
+      <point x="220" y="490" type="line"/>
+      <point x="55" y="490" type="line"/>
+      <point x="55" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="297" y="176" type="line"/>
+      <point x="297" y="313" type="line"/>
+      <point x="135" y="313" type="line"/>
+      <point x="135" y="176" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="490" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="452" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Ka-cy</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

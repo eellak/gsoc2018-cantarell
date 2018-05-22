@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <advance width="569"/>
+  <unicode hex="0024"/>
+  <outline>
+    <component base="S"/>
+    <component base="_currencyvstem" xOffset="-94"/>
+    <component base="_currencyvstem" xOffset="-95" yOffset="-840"/>
+  </outline>
+</glyph>

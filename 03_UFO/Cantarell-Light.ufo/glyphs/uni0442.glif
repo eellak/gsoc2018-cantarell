@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0442" format="1">
+  <advance width="80"/>
+  <unicode hex="0442"/>
+  <outline>
+    <contour>
+      <point x="228" y="0" type="line"/>
+      <point x="228" y="476" type="line"/>
+      <point x="207" y="476" type="line"/>
+      <point x="207" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="423" y="463" type="line"/>
+      <point x="423" y="480" type="line"/>
+      <point x="12" y="480" type="line"/>
+      <point x="12" y="463" type="line"/>
+    </contour>
+    <contour>
+      <point x="423" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Te-cy</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030A_acutecomb" format="1">
+  <advance width="401"/>
+  <outline>
+    <component base="uni030A" xOffset="-23"/>
+    <component base="acutecomb" xOffset="132" yOffset="127"/>
+    <contour>
+      <point x="150" y="480" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

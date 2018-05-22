@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0449" format="1">
+  <advance width="80"/>
+  <unicode hex="0449"/>
+  <outline>
+    <contour>
+      <point x="931" y="-135" type="line"/>
+      <point x="931" y="133" type="line"/>
+      <point x="214" y="133" type="line"/>
+      <point x="214" y="490" type="line"/>
+      <point x="54" y="490" type="line"/>
+      <point x="54" y="0" type="line"/>
+      <point x="775" y="0" type="line"/>
+      <point x="775" y="-135" type="line"/>
+    </contour>
+    <contour>
+      <point x="521" y="68" type="line"/>
+      <point x="521" y="490" type="line"/>
+      <point x="361" y="490" type="line"/>
+      <point x="361" y="68" type="line"/>
+    </contour>
+    <contour>
+      <point x="830" y="68" type="line"/>
+      <point x="830" y="490" type="line"/>
+      <point x="671" y="490" type="line"/>
+      <point x="671" y="68" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Shcha-cy</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

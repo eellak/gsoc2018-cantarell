@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="descenderreverse-cy.case" format="1">
+  <advance width="316"/>
+  <outline>
+    <contour>
+      <point x="142" y="-187" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="205" y="151" type="line"/>
+      <point x="-20" y="151" type="line"/>
+      <point x="-20" y="-187" type="line"/>
+    </contour>
+    <contour>
+      <point x="201" y="0" type="move" name="_bottomright"/>
+    </contour>
+  </outline>
+</glyph>

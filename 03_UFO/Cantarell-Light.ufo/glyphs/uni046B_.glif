@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni046B" format="1">
+  <advance width="80"/>
+  <unicode hex="046B"/>
+  <outline>
+    <contour>
+      <point x="328" y="251" type="line"/>
+      <point x="140" y="475" type="line"/>
+      <point x="138" y="469" type="line"/>
+      <point x="537" y="469" type="line"/>
+      <point x="535" y="475" type="line"/>
+      <point x="347" y="252" type="line"/>
+      <point x="368" y="252" type="line"/>
+      <point x="554" y="468" type="line"/>
+      <point x="554" y="486" type="line"/>
+      <point x="120" y="486" type="line"/>
+      <point x="120" y="468" type="line"/>
+      <point x="306" y="251" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="0" type="line"/>
+      <point x="231" y="247" type="line"/>
+      <point x="218" y="240" type="line"/>
+      <point x="327" y="240" type="line"/>
+      <point x="327" y="0" type="line"/>
+      <point x="347" y="0" type="line"/>
+      <point x="347" y="240" type="line"/>
+      <point x="456" y="240" type="line"/>
+      <point x="442" y="247" type="line"/>
+      <point x="629" y="0" type="line"/>
+      <point x="655" y="0" type="line"/>
+      <point x="459" y="258" type="line"/>
+      <point x="215" y="258" type="line"/>
+      <point x="19" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Yusbig-cy</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.dnom" format="1">
+  <advance width="74"/>
+  <note>
+    one
+  </note>
+  <outline>
+    <contour>
+      <point x="162" y="11" type="line"/>
+      <point x="162" y="472" type="line"/>
+      <point x="150" y="472" type="line"/>
+      <point x="34" y="394" type="line"/>
+      <point x="42" y="380" type="line"/>
+      <point x="149" y="449" type="line"/>
+      <point x="141" y="455" type="line"/>
+      <point x="141" y="11" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="0" type="line"/>
+      <point x="256" y="18" type="line"/>
+      <point x="37" y="18" type="line"/>
+      <point x="37" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>one.lf</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
