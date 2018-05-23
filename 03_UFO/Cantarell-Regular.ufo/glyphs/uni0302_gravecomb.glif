@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0302_gravecomb" format="1">
-  <advance width="386"/>
-  <outline>
-    <component base="uni0302.loclVIET"/>
-    <component base="gravecomb.loclVIET" xOffset="151" yOffset="81"/>
-  </outline>
-</glyph>

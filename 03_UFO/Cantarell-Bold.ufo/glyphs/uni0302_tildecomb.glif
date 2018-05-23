@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0302_tildecomb" format="1">
-  <advance width="442"/>
-  <outline>
-    <component base="uni0302.loclVIET" xOffset="18"/>
-    <component base="tildecomb.loclVIET" xOffset="4" yOffset="140"/>
-  </outline>
-</glyph>
