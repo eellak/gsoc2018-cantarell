@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="1">
+  <advance width="75"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="332" y="380" type="line"/>
+      <point x="332" y="608" type="line" smooth="yes"/>
+      <point x="332" y="699"/>
+      <point x="279" y="750"/>
+      <point x="182" y="750" type="curve" smooth="yes"/>
+      <point x="135" y="750"/>
+      <point x="81" y="737"/>
+      <point x="40" y="716" type="curve"/>
+      <point x="57" y="666" type="line"/>
+      <point x="94" y="682"/>
+      <point x="135" y="690"/>
+      <point x="167" y="690" type="curve" smooth="yes"/>
+      <point x="229" y="690"/>
+      <point x="262" y="663"/>
+      <point x="262" y="612" type="curve" smooth="yes"/>
+      <point x="262" y="441" type="line"/>
+      <point x="281" y="380" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="373"/>
+      <point x="284" y="413"/>
+      <point x="305" y="485" type="curve"/>
+      <point x="283" y="498" type="line"/>
+      <point x="264" y="455"/>
+      <point x="223" y="429"/>
+      <point x="176" y="429" type="curve" smooth="yes"/>
+      <point x="133" y="429"/>
+      <point x="102" y="452"/>
+      <point x="102" y="487" type="curve" smooth="yes"/>
+      <point x="102" y="531"/>
+      <point x="152" y="549"/>
+      <point x="275" y="549" type="curve"/>
+      <point x="275" y="591" type="line"/>
+      <point x="106" y="591"/>
+      <point x="31" y="556"/>
+      <point x="31" y="477" type="curve" smooth="yes"/>
+      <point x="31" y="414"/>
+      <point x="79" y="373"/>
+      <point x="153" y="373" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>a</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

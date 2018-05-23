@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0438" format="1">
+  <advance width="80"/>
+  <unicode hex="0438"/>
+  <outline>
+    <contour>
+      <point x="110" y="0" type="line"/>
+      <point x="431" y="460" type="line"/>
+      <point x="429" y="460" type="line"/>
+      <point x="429" y="0" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="448" y="480" type="line"/>
+      <point x="426" y="480" type="line"/>
+      <point x="105" y="19" type="line"/>
+      <point x="107" y="20" type="line"/>
+      <point x="107" y="480" type="line"/>
+      <point x="88" y="480" type="line"/>
+      <point x="88" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="480" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="509" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Ii-cy</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

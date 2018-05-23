@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0447" format="1">
+  <advance width="78"/>
+  <unicode hex="0447"/>
+  <outline>
+    <contour>
+      <point x="264" y="162"/>
+      <point x="324" y="185"/>
+      <point x="366" y="229" type="curve"/>
+      <point x="344" y="331" type="line"/>
+      <point x="322" y="318"/>
+      <point x="285" y="310"/>
+      <point x="258" y="310" type="curve" smooth="yes"/>
+      <point x="217" y="310"/>
+      <point x="184" y="329"/>
+      <point x="184" y="354" type="curve" smooth="yes"/>
+      <point x="184" y="490" type="line"/>
+      <point x="19" y="490" type="line"/>
+      <point x="19" y="315" type="line" smooth="yes"/>
+      <point x="19" y="220"/>
+      <point x="88" y="162"/>
+      <point x="196" y="162" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="493" y="0" type="line"/>
+      <point x="493" y="490" type="line"/>
+      <point x="325" y="490" type="line"/>
+      <point x="325" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="274" y="490" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="429" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Che-cy</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

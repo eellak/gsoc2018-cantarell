@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_bar-cy" format="1">
+  <advance width="919"/>
+  <outline>
+    <contour>
+      <point x="760" y="335" type="line"/>
+      <point x="760" y="351" type="line"/>
+      <point x="160" y="351" type="line"/>
+      <point x="160" y="335" type="line"/>
+    </contour>
+    <contour>
+      <point x="460" y="342" type="move" name="_center"/>
+    </contour>
+  </outline>
+</glyph>

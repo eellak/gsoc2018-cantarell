@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0306_acutecomb" format="1">
+  <advance width="378"/>
+  <outline>
+    <component base="uni0306.loclVIET" xOffset="-21"/>
+    <component base="acutecomb.loclVIET" xOffset="112" yOffset="80"/>
+  </outline>
+</glyph>

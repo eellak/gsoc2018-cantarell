@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030A_acutecomb.case" format="1">
+  <advance width="461"/>
+  <outline>
+    <contour>
+      <point x="447" y="910" type="line"/>
+      <point x="374" y="1059" type="line"/>
+      <point x="171" y="936" type="line"/>
+      <point x="221" y="833" type="line"/>
+    </contour>
+    <component base="uni030A.case" xOffset="-12"/>
+    <contour>
+      <point x="161" y="694" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

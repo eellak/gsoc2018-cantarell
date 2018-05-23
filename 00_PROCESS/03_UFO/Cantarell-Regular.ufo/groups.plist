@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>@MMK_L_acutecomb.loclVIET</key>
+	<array>
+		<string>acutecomb_uni0307</string>
+	</array>
+	<key>@MMK_L_caroncomb.loclVIET</key>
+	<array>
+		<string>uni030C0307</string>
+	</array>
+	<key>@MMK_L_dieresiscomb.loclVIET</key>
+	<array>
+		<string>uni0308_acutecomb</string>
+		<string>uni0308030C</string>
+		<string>uni0308_gravecomb</string>
+		<string>uni03080304</string>
+	</array>
+	<key>@MMK_L_macroncomb.loclVIET</key>
+	<array>
+		<string>uni0304_acutecomb</string>
+		<string>uni0304_gravecomb</string>
+	</array>
+	<key>@MMK_L_tildecomb.loclVIET</key>
+	<array>
+		<string>tildecomb_acutecomb</string>
+		<string>tildecomb_uni0308</string>
+		<string>tildecomb_uni0304</string>
+	</array>
+	<key>@MMK_R_acutecomb.loclVIET</key>
+	<array>
+		<string>acutecomb_uni0307</string>
+	</array>
+	<key>@MMK_R_caroncomb.loclVIET</key>
+	<array>
+		<string>uni030C0307</string>
+	</array>
+	<key>@MMK_R_dieresiscomb.loclVIET</key>
+	<array>
+		<string>uni0308_acutecomb</string>
+		<string>uni0308030C</string>
+		<string>uni0308_gravecomb</string>
+		<string>uni03080304</string>
+	</array>
+	<key>@MMK_R_macroncomb.loclVIET</key>
+	<array>
+		<string>uni0304_acutecomb</string>
+		<string>uni0304_gravecomb</string>
+	</array>
+	<key>@MMK_R_tildecomb.loclVIET</key>
+	<array>
+		<string>tildecomb_acutecomb</string>
+		<string>tildecomb_uni0308</string>
+		<string>tildecomb_uni0304</string>
+	</array>
+</dict>
+</plist>

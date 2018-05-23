@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2034" format="1">
+  <advance width="771"/>
+  <unicode hex="2034"/>
+  <note>
+    uni2034
+  </note>
+  <outline>
+    <component base="quotesingle" xOffset="-96" yxScale="0.192"/>
+    <component base="quotesingle" xOffset="144" yxScale="0.192"/>
+    <component base="quotesingle" xOffset="384" yxScale="0.192"/>
+  </outline>
+</glyph>

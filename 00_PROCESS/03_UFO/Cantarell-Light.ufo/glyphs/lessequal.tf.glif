@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal.tf" format="1">
+  <advance width="580"/>
+  <outline>
+    <component base="greaterequal.tf" xOffset="609" xScale="-1"/>
+  </outline>
+</glyph>

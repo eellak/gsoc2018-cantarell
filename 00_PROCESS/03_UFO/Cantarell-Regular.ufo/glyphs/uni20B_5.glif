@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20B5" format="1">
+  <advance width="669"/>
+  <unicode hex="20B5"/>
+  <outline>
+    <component base="C"/>
+    <component base="_currencyvstem" xOffset="-5"/>
+    <component base="_currencyvstem" xOffset="-5" yOffset="-800"/>
+  </outline>
+</glyph>

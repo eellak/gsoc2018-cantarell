@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minute" format="1">
+  <advance width="323"/>
+  <unicode hex="2032"/>
+  <note>
+    minute
+  </note>
+  <outline>
+    <component base="quotesingle" xOffset="-92" yxScale="0.192"/>
+  </outline>
+</glyph>
