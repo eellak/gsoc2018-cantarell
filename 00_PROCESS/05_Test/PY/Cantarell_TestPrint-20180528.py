@@ -29,7 +29,7 @@ abcdefghijklmnopqrstuvwxyz
 
 Specimen text borrowed from Emilios Theofanous’ GSoC17-project:
 https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170620.py'''
-hyphenation(True)
+#hyphenation(True)
 
 
 
@@ -108,4 +108,4 @@ for pageIndex, page in enumerate(allPages):
 
 
 saveDate = now.strftime("%Y%m%d-%H%M")
-saveImage("~/Desktop/%s_CantarellTest.pdf" % saveDate)
+saveImage("~/Desktop/Cantarell_TestPrint-%s.pdf" % saveDate)
