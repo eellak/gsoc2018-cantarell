@@ -9,13 +9,13 @@ gutter = border * .5
 specimenFont = "Cantarell_Sketch1-Regular_20180527"
 specimenFallbackFont = "Times New Roman Bold"
 
-# characterOverviewPath = '~/Desktop/Cantarell_Specimen-20180528.txt'
+# characterOverviewPath = '~/Desktop/Cantarell_Specimen_20180528.txt'
 # with open(characterOverviewPath, encoding="utf-8") as f:
 #     characterOverview = f.read() 
 characterOverview = '''αβγεηικλμνοπρτυ
 aeklnoptuvy'''
 
-# specimenPath = '~/Desktop/Cantarell_CharacterOverview-20180528.txt'
+# specimenPath = '~/Desktop/Cantarell_CharacterOverview_20180528.txt'
 # with open(specimenPath, encoding="utf-8") as f:
 #     specimenText = f.read()
 specimenPath = '''ABCDEFGHIJKLMNOPQRSTUVWXYZ
@@ -108,4 +108,4 @@ for pageIndex, page in enumerate(allPages):
 
 
 saveDate = now.strftime("%Y%m%d-%H%M")
-saveImage("~/Desktop/Cantarell_TestPrint-%s.pdf" % saveDate)
+saveImage("~/Desktop/Cantarell_Sketch1_%s.pdf" % saveDate)
