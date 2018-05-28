@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0331.narrow" format="1">
+  <advance width="427"/>
+  <outline>
+    <contour>
+      <point x="339" y="-171" type="line"/>
+      <point x="339" y="-106" type="line"/>
+      <point x="88" y="-106" type="line"/>
+      <point x="88" y="-171" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="214" y="-171" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_slash.zero.osf" format="1">
+  <advance width="456"/>
+  <outline>
+    <contour>
+      <point x="377" y="415" type="line"/>
+      <point x="330" y="444" type="line"/>
+      <point x="78" y="69" type="line"/>
+      <point x="121" y="40" type="line"/>
+    </contour>
+    <contour>
+      <point x="223" y="241" type="move" name="_slash"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

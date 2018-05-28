@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.osf" format="1">
+  <advance width="539"/>
+  <outline>
+    <contour>
+      <point x="489" y="0" type="line"/>
+      <point x="489" y="70" type="line"/>
+      <point x="139" y="70" type="line"/>
+      <point x="146" y="48" type="line"/>
+      <point x="367" y="223"/>
+      <point x="460" y="325"/>
+      <point x="460" y="434" type="curve" smooth="yes"/>
+      <point x="460" y="538"/>
+      <point x="380" y="602"/>
+      <point x="252" y="602" type="curve" smooth="yes"/>
+      <point x="173" y="602"/>
+      <point x="94" y="577"/>
+      <point x="44" y="534" type="curve"/>
+      <point x="69" y="478" type="line"/>
+      <point x="118" y="512"/>
+      <point x="182" y="532"/>
+      <point x="238" y="532" type="curve" smooth="yes"/>
+      <point x="322" y="532"/>
+      <point x="377" y="488"/>
+      <point x="377" y="420" type="curve" smooth="yes"/>
+      <point x="377" y="337"/>
+      <point x="299" y="246"/>
+      <point x="56" y="54" type="curve"/>
+      <point x="56" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

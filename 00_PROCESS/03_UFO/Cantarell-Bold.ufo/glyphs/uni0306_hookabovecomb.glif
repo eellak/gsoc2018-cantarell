@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0306_hookabovecomb" format="1">
-  <advance width="601"/>
-  <outline>
-    <component base="uni0306.loclVIET"/>
-    <component base="hookabovecomb.loclVIET" xOffset="72" yOffset="140"/>
-  </outline>
-</glyph>

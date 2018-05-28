@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04AF" format="1">
+  <advance width="508"/>
+  <unicode hex="04AF"/>
+  <outline>
+    <contour>
+      <point x="294" y="-217" type="line"/>
+      <point x="294" y="0" type="line"/>
+      <point x="216" y="0" type="line"/>
+      <point x="216" y="-217" type="line"/>
+    </contour>
+    <component base="v"/>
+    <contour>
+      <point x="253" y="-24" type="move" name="center"/>
+    </contour>
+  </outline>
+</glyph>
