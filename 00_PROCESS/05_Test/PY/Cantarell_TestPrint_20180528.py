@@ -20,7 +20,7 @@ columns = [14, 12, 10]
 
 ###Font used for the info at the top and bottom of the page
 infoFont = "Cantarell-Regular"
-infoFontSize = 10
+infoFontSize = 9
 font(infoFont, infoFontSize)
 infoWidth, infoHeight = textSize("H")
 
