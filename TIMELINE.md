@@ -1,6 +1,6 @@
 ## Timeline
 
-**14.05. – 24.05.**<br />
+**14.05. – 24.05.2018**<br />
 Explore the design space by sketching masters: Regular, Thin, Extra Bold; set the design direction for the Greek addition
 
 **25.05. – 07.06.**<br />
