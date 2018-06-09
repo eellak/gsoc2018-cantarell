@@ -2,13 +2,18 @@
 
 ## Journal
 
+**08.06.**<br />
+- Adjusted some lowercase letters using the last test [PDF](https://github.com/eellak/gsoc2018-cantarell/blob/master/00_PROCESS/05_Test/PDF/Cantarell_20180604-1918.pdf), changed α to an alternative form
+- Committed new test [PDF](https://github.com/eellak/gsoc2018-cantarell/blob/master/00_PROCESS/05_Test/PDF/Cantarell_20180608-2028.pdf) for a feedback from the mentors on lower- and uppercase character set
+<br>
+
 **05.06.–07.06**<br />
 - Completed the uppercase character set
 <br>
 
 **04.06.**<br />
 - Added ζ, ξ, ς to complete the lowercase character set
-- Committed test [PDF](https://github.com/eellak/gsoc2018-cantarell/tree/master/00_PROCESS/05_Test/PDF) 
+- Committed test [PDF](https://github.com/eellak/gsoc2018-cantarell/blob/master/00_PROCESS/05_Test/PDF/Cantarell_20180604-1918.pdf) 
 <br>
 
 **29.5.–03.06.**<br />
