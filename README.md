@@ -10,7 +10,7 @@ The family is currently growing to support additional writing systems. After ini
 
 ---
 
-Process Diary can be found [here](https://github.com/eellak/gsoc2018-cantarell/blob/master/00_PROCESS/Journal.md).
+Process Diary can be found [here](https://github.com/eellak/gsoc2018-cantarell/blob/master/00_PROCESS/JOURNAL.md).
 
 ---
 
