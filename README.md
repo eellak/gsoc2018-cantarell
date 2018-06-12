@@ -6,7 +6,7 @@
 
 The fonts have been redesigned for the [release](https://help.gnome.org/misc/release-notes/3.28/) of GNOME 3.28 in March 2018. Post-script outline quality improved significantly, spacing has been reworked and new weights have been added.
 
-The family is currently growing to support additional writing systems. After initially applying with extending another typeface I was invited to change my project and add Monotonic and Polytonic Greek to the three Roman masters of Cantarell during GSoC 2018.
+The family is currently growing to support additional writing systems. After initially applying with extending another typeface I was invited to change my project and add Monotonic and Polytonic Greek to the three Roman masters of Cantarell during [Google Summer of Code](https://summerofcode.withgoogle.com) 2018.
 
 ---
 
@@ -23,19 +23,19 @@ Summary of the [detailed timeline](https://github.com/eellak/gsoc2018-cantarell/
 Design lowercase and uppercase: Regular
 
 **15.06.**<br />
-Phase 1 evaluation
+Phase 1 evaluation deadline
 
 **16.06. – 22.06.**<br />
 Design lowercase and uppercase: Thin, Extra Bold; Interpolation test
 
 **13.07.**<br />
-Phase 2 evaluation
+Phase 2 evaluation deadline
 
 **14.07. – 13.08.**<br />
 Add Polytonic diacritics: Thin, Regular, Extra Bold; Kerning of the masters; Interpolation of intermediate weights
 
 **14.08.2018**<br />
-Final evaluation
+Final evaluation deadline
 
 ---
 
