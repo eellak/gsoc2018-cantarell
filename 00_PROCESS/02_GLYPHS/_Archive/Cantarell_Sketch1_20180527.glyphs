@@ -88927,7 +88927,7 @@ weightClass = Light;
 },
 {
 interpolationWeight = 80;
-name = Regular_20180527;
+name = Regular;
 },
 {
 customParameters = (
