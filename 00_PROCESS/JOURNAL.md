@@ -2,6 +2,11 @@
 
 ## Journal
 
+**09.06.–19.06.**<br />
+- Received PDF-feedback from Emilios Theofanous 
+- Implemented proposed correction
+- Started designing Extra Bold α, η, ι, ο, π, τ, to determine if the chosen α construction works
+
 **08.06.**<br />
 - Adjusted some lowercase letters using the last test [PDF](https://github.com/eellak/gsoc2018-cantarell/blob/master/00_PROCESS/05_Test/PDF/Cantarell_20180604-1918.pdf), changed α to an alternative form
 - Committed new test [PDF](https://github.com/eellak/gsoc2018-cantarell/blob/master/00_PROCESS/05_Test/PDF/Cantarell_20180608-2028.pdf) for a feedback from the mentors on lower- and uppercase character set
