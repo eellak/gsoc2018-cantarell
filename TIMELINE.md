@@ -13,16 +13,16 @@ Design uppercase, Regular
 **First evaluation period; documentation**
 
 **16.06. – 22.06.**<br />
-Design lowercase, Thin
-
-**23.06. – 29.06.**<br />
 Design lowercase, Extra Bold
 
+**23.06. – 29.06.**<br />
+Design lowercase, Thin
+
 **30.06. – 05.07.**<br />
-Design uppercase, Thin
+Design uppercase, Extra Bold
 
 **06.07. – 12.07.**<br />
-Design uppercase, Extra Bold; interpolation test and preview for all upper- and lowercase sets
+Design uppercase, Thin; interpolation test and preview for all upper- and lowercase sets
 
 **09.07. – 13.07.**<br />
 **Second evaluation period; documentation**
