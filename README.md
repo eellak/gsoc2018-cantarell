@@ -25,8 +25,8 @@ Design lowercase and uppercase: Regular
 **15.06.**<br />
 Phase 1 evaluation deadline
 
-**16.06. – 22.06.**<br />
-Design lowercase and uppercase: Thin, Extra Bold; Interpolation test
+**16.06. – 12.07.**<br />
+Design lowercase and uppercase: Extra Bold, Thin; Interpolation test
 
 **13.07.**<br />
 Phase 2 evaluation deadline
