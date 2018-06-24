@@ -2,6 +2,10 @@
 
 ## Journal
 
+**20.06.–24.06.**
+- Completed the lowercase Extra Bold character set
+- Started designing uppercase Extra Bold characters
+
 **09.06.–19.06.**<br />
 - Received PDF-feedback from Emilios Theofanous 
 - Implemented proposed correction
