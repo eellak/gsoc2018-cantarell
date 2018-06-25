@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_acutecomb" format="2">
+	<advance width="359"/>
+	<outline>
+		<component base="brevecomb.loclVIET" xOffset="-35"/>
+		<component base="acutecomb.loclVIET" xOffset="90" yOffset="98"/>
+	</outline>
+</glyph>

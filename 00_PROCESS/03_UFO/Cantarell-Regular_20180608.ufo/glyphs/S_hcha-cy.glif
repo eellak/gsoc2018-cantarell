@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shcha-cy" format="2">
+	<unicode hex="0429"/>
+	<advance width="1050"/>
+	<outline>
+		<contour>
+			<point x="930" y="-178" type="line"/>
+			<point x="1006" y="-178" type="line"/>
+			<point x="1006" y="71" type="line"/>
+			<point x="188" y="71" type="line"/>
+			<point x="188" y="694" type="line"/>
+			<point x="106" y="694" type="line"/>
+			<point x="106" y="0" type="line"/>
+			<point x="930" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="472" y="30" type="line"/>
+			<point x="554" y="30" type="line"/>
+			<point x="554" y="694" type="line"/>
+			<point x="472" y="694" type="line"/>
+		</contour>
+		<contour>
+			<point x="838" y="30" type="line"/>
+			<point x="920" y="30" type="line"/>
+			<point x="920" y="694" type="line"/>
+			<point x="838" y="694" type="line"/>
+		</contour>
+	</outline>
+</glyph>

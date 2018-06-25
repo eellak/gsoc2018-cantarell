@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="2">
+	<unicode hex="03C4"/>
+	<advance width="485"/>
+	<outline>
+		<contour>
+			<point x="18" y="415" type="line"/>
+			<point x="463" y="415" type="line"/>
+			<point x="463" y="482" type="line"/>
+			<point x="18" y="482" type="line"/>
+		</contour>
+		<component base="iota" xOffset="115"/>
+	</outline>
+	<anchor name="bottom" x="275" y="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>=te-cy</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>
