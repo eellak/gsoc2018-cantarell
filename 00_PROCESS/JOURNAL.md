@@ -2,12 +2,17 @@
 
 ## Journal
 
+**25.06.**
+- Committed feedback JPGs from Emilios Theofanous
+- Committed UFOs converted with @madig’s script glyphs2ufo (glyphsLib); suggested in [Issue #1](https://github.com/eellak/gsoc2018-cantarell/issues/1)
+
 **20.06.–24.06.**
+- Received feedback from Emilios Theofanous ([Cantarell_20180620_FeedbackEmilios](https://github.com/eellak/gsoc2018-cantarell/tree/master/00_PROCESS/01_Resources/01_Feedback))
 - Completed the lowercase Extra Bold character set
 - Started designing uppercase Extra Bold characters
 
 **09.06.–19.06.**<br />
-- Received PDF-feedback from Emilios Theofanous 
+- Received feedback from Emilios Theofanous ([Cantarell_20180609_FeedbackEmilios](https://github.com/eellak/gsoc2018-cantarell/tree/master/00_PROCESS/01_Resources/01_Feedback))
 - Implemented proposed correction
 - Started designing Extra Bold α, η, ι, ο, π, τ, to determine if the chosen α construction works
 
