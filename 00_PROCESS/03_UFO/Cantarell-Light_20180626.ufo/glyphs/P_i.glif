@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pi" format="2">
+	<unicode hex="03A0"/>
+	<advance width="600"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.18,0.16,0.78,1</string>
+		</dict>
+	</lib>
+</glyph>

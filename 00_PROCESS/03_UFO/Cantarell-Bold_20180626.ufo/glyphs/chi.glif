@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chi" format="2">
+	<unicode hex="03C7"/>
+	<advance width="532"/>
+	<outline>
+		<contour>
+			<point x="-24" y="490" type="line"/>
+			<point x="222" y="64" type="line"/>
+			<point x="368" y="-217" type="line"/>
+			<point x="563" y="-217" type="line"/>
+			<point x="317" y="211" type="line"/>
+			<point x="172" y="490" type="line"/>
+		</contour>
+		<contour>
+			<point x="351" y="111" type="line"/>
+			<point x="559" y="490" type="line"/>
+			<point x="374" y="490" type="line"/>
+			<point x="234" y="183" type="line"/>
+		</contour>
+		<contour>
+			<point x="193" y="157" type="line"/>
+			<point x="-28" y="-217" type="line"/>
+			<point x="152" y="-217" type="line"/>
+			<point x="311" y="85" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>=x-20</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=x-20</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

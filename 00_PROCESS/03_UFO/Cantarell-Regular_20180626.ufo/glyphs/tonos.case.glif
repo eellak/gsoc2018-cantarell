@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos.case" format="2">
+	<advance width="257"/>
+	<outline>
+		<component base="tonos.comb" yOffset="-45"/>
+	</outline>
+	<anchor name="_topleft" x="149" y="694"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0.67,0.91,1</string>
+		</dict>
+	</lib>
+</glyph>

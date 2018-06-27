@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos.comb" format="2">
+	<advance width="337"/>
+	<outline>
+		<contour>
+			<point x="206" y="553" type="line"/>
+			<point x="295" y="739" type="line"/>
+			<point x="125" y="739" type="line"/>
+			<point x="90" y="553" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="151" y="490"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0.67,0.91,1</string>
+		</dict>
+	</lib>
+</glyph>

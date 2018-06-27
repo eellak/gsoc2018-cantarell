@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="descenderreversed-cy" format="2">
+	<advance width="316"/>
+	<outline>
+		<contour>
+			<point x="47" y="-136" type="line"/>
+			<point x="203" y="-136" type="line"/>
+			<point x="203" y="0" type="line"/>
+			<point x="252" y="0" type="line"/>
+			<point x="252" y="123" type="line"/>
+			<point x="47" y="123" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_bottomright" x="243" y="0"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>
