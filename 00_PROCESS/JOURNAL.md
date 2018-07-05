@@ -2,9 +2,18 @@
 
 ## Journal
 
+**28.06.–05.07.**
+- Completed the lowercase Thin character set
+- Started designing uppercase Thin characters
+
+**27.06.**
+- Presented the project via video conference at the [FLOSS meetup](https://www.meetup.com/de-DE/Athens-FLOSS-Meetup/events/251747404/) in Athens 
+- Committed UFOs, OTF-fonts and archived a GLYPHS-file
+
 **25.06.**
 - Committed feedback JPGs from Emilios Theofanous
 - Committed UFOs converted with @madig’s script glyphs2ufo (glyphsLib); suggested in [Issue #1](https://github.com/eellak/gsoc2018-cantarell/issues/1)
+- Started designing lowercase Thin characters
 
 **20.06.–24.06.**
 - Received feedback from Emilios Theofanous ([Cantarell_20180620_FeedbackEmilios](https://github.com/eellak/gsoc2018-cantarell/tree/master/00_PROCESS/01_Resources/01_Feedback))
