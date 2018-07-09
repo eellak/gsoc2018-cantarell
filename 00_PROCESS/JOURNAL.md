@@ -2,28 +2,38 @@
 
 ## Journal
 
-**28.06.–05.07.**
+**06.07.–09.07.**<br />
+- Completed the uppercase Thin character set
+- Completed the uppercase Extra Bold character set
+<br>
+
+**28.06.–05.07.**<br />
 - Completed the lowercase Thin character set
 - Started designing uppercase Thin characters
+<br>
 
-**27.06.**
+**27.06.**<br />
 - Presented the project via video conference at the [FLOSS meetup](https://www.meetup.com/de-DE/Athens-FLOSS-Meetup/events/251747404/) in Athens 
 - Committed UFOs, OTF-fonts and archived a GLYPHS-file
+<br>
 
-**25.06.**
+**25.06.**<br />
 - Committed feedback JPGs from Emilios Theofanous
 - Committed UFOs converted with @madig’s script glyphs2ufo (glyphsLib); suggested in [Issue #1](https://github.com/eellak/gsoc2018-cantarell/issues/1)
 - Started designing lowercase Thin characters
+<br>
 
-**20.06.–24.06.**
+**20.06.–24.06.**<br />
 - Received feedback from Emilios Theofanous ([Cantarell_20180620_FeedbackEmilios](https://github.com/eellak/gsoc2018-cantarell/tree/master/00_PROCESS/01_Resources/01_Feedback))
 - Completed the lowercase Extra Bold character set
 - Started designing uppercase Extra Bold characters
+<br>
 
 **09.06.–19.06.**<br />
 - Received feedback from Emilios Theofanous ([Cantarell_20180609_FeedbackEmilios](https://github.com/eellak/gsoc2018-cantarell/tree/master/00_PROCESS/01_Resources/01_Feedback))
 - Implemented proposed correction
 - Started designing Extra Bold α, η, ι, ο, π, τ, to determine if the chosen α construction works
+<br>
 
 **08.06.**<br />
 - Adjusted some lowercase letters using the last test [PDF](https://github.com/eellak/gsoc2018-cantarell/blob/master/00_PROCESS/05_Test/PDF/Cantarell_20180604-1918.pdf), changed α to an alternative form
