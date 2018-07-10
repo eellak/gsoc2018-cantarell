@@ -2,7 +2,7 @@
 
 ## Journal
 
-**06.07.–09.07.**<br />
+**06.07.–10.07.**<br />
 - Completed the uppercase Thin character set
 - Completed the uppercase Extra Bold character set
 <br>
