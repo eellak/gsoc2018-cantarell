@@ -9,10 +9,6 @@ DisplayStrings = (
 "/mu/nu/upsilon u/eta/epsilon e",
 "d/alpha/gamma/epsilon/mu/nu/upsilon/omega",
 "f/kappa yn/lambda nf/pi/kappa/lambda",
-"o/phi/psi",
-"/upsilon/phi/psi",
-"o/delta f/sigma/chi/beta tp/alpha",
-"O/Phi/Psi/Omega",
 "HH/Phi HH OO/Phi OO\012HH/Psi HH OO/Psi OO\012HH/Omega HH OO/Omega OO\012\012/tonos/tonos.comb/alphatonos/epsilontonos/etatonos/iotatonos/omicrontonos/upsilontonos/omegatonos \012/Iota/Upsilon    /Alpha  /Epsilon  /Eta  /Iota  /Omicron  /Upsilon  /Omega \012/Iotadieresis/Upsilondieresis  /tonos.case  /Alphatonos  /Epsilontonos  /Etatonos  /Iotatonos  /Omicrontonos  /Upsilontonos  /Omegatonos",
 "/Phi/Psi/Omega"
 );
@@ -46895,7 +46891,7 @@ position = "{353, 694}";
 },
 {
 name = topleft;
-position = "{140, 694}";
+position = "{100, 694}";
 }
 );
 components = (
@@ -47187,6 +47183,20 @@ layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
 width = 605;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{320, 0}";
+},
+{
+name = top;
+position = "{313, 694}";
+},
+{
+name = topleft;
+position = "{-33, 694}";
+}
+);
 components = (
 {
 name = E;
@@ -47275,6 +47285,20 @@ layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
 width = 749;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{377, 0}";
+},
+{
+name = top;
+position = "{377, 694}";
+},
+{
+name = topleft;
+position = "{-33, 694}";
+}
+);
 components = (
 {
 name = H;
@@ -47408,6 +47432,20 @@ layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
 width = 295;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{155, 0}";
+},
+{
+name = top;
+position = "{155, 694}";
+},
+{
+name = topleft;
+position = "{-33, 694}";
+}
+);
 components = (
 {
 name = I;
@@ -47852,6 +47890,20 @@ layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
 width = 788;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{380, 0}";
+},
+{
+name = top;
+position = "{380, 694}";
+},
+{
+name = topleft;
+position = "{13, 694}";
+}
+);
 components = (
 {
 name = O;
@@ -48137,6 +48189,14 @@ width = 528;
 {
 anchors = (
 {
+name = bottom;
+position = "{311, 0}";
+},
+{
+name = top;
+position = "{311, 694}";
+},
+{
 name = topleft;
 position = "{-46, 694}";
 }
@@ -48158,6 +48218,10 @@ position = "{324, 0}";
 {
 name = top;
 position = "{324, 694}";
+},
+{
+name = topleft;
+position = "{-101, 694}";
 }
 );
 components = (
@@ -48958,7 +49022,7 @@ position = "{394, 694}";
 },
 {
 name = topleft;
-position = "{23, 694}";
+position = "{13, 694}";
 }
 );
 background = {
@@ -49083,8 +49147,17 @@ layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
 width = 699;
 },
 {
+components = (
+{
+name = Alpha;
+},
+{
+name = tonos.case;
+transform = "{1, 0, 0, 1, -104, -45}";
+}
+);
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 600;
+width = 708;
 }
 );
 unicode = 0386;
@@ -49120,8 +49193,17 @@ layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
 width = 605;
 },
 {
+components = (
+{
+name = Epsilon;
+},
+{
+name = tonos.case;
+transform = "{1, 0, 0, 1, -237, -45}";
+}
+);
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 600;
+width = 610;
 }
 );
 unicode = 0388;
@@ -49157,8 +49239,17 @@ layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
 width = 749;
 },
 {
+components = (
+{
+name = Eta;
+},
+{
+name = tonos.case;
+transform = "{1, 0, 0, 1, -237, -45}";
+}
+);
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 600;
+width = 755;
 }
 );
 unicode = 0389;
@@ -49194,8 +49285,17 @@ layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
 width = 295;
 },
 {
+components = (
+{
+name = Iota;
+},
+{
+name = tonos.case;
+transform = "{1, 0, 0, 1, -237, -45}";
+}
+);
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 600;
+width = 310;
 }
 );
 unicode = 038A;
@@ -49231,8 +49331,17 @@ layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
 width = 788;
 },
 {
+components = (
+{
+name = Omicron;
+},
+{
+name = tonos.case;
+transform = "{1, 0, 0, 1, -191, -45}";
+}
+);
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 600;
+width = 760;
 }
 );
 unicode = 038C;
@@ -49268,8 +49377,17 @@ layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
 width = 610;
 },
 {
+components = (
+{
+name = Upsilon;
+},
+{
+name = tonos.case;
+transform = "{1, 0, 0, 1, -305, -45}";
+}
+);
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 600;
+width = 653;
 }
 );
 unicode = 038E;
@@ -49305,8 +49423,17 @@ layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
 width = 799;
 },
 {
+components = (
+{
+name = Omega;
+},
+{
+name = tonos.case;
+transform = "{1, 0, 0, 1, -191, -45}";
+}
+);
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 600;
+width = 751;
 }
 );
 unicode = 038F;
@@ -54580,7 +54707,7 @@ position = "{280, 0}";
 },
 {
 name = top;
-position = "{280, 490}";
+position = "{268, 490}";
 }
 );
 background = {
@@ -55983,7 +56110,7 @@ name = upsilon;
 },
 {
 name = tonos.comb;
-transform = "{1, 0, 0, 1, 129, 0}";
+transform = "{1, 0, 0, 1, 117, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -56029,7 +56156,7 @@ name = upsilon;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 11, 0}";
+transform = "{1, 0, 0, 1, -1, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -56075,7 +56202,7 @@ name = upsilon;
 },
 {
 name = dieresistonos;
-transform = "{1, 0, 0, 1, -8, 0}";
+transform = "{1, 0, 0, 1, -20, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -89557,13 +89684,19 @@ layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
 width = 257;
 },
 {
+anchors = (
+{
+name = _topleft;
+position = "{204, 739}";
+}
+);
 components = (
 {
 name = tonos;
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 600;
+width = 337;
 }
 );
 leftMetricsKey = tonos.comb;
@@ -89742,8 +89875,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"404 739 LINE",
-"251 739 LINE",
+"402 739 LINE",
+"249 739 LINE",
 "236 553 LINE",
 "340 553 LINE"
 );
@@ -89848,8 +89981,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"295 739 LINE",
-"125 739 LINE",
+"275 739 LINE",
+"105 739 LINE",
 "90 553 LINE",
 "206 553 LINE"
 );
@@ -91828,7 +91961,7 @@ interpolationWeight = 20;
 instanceInterpolations = {
 "0B2E441B-685E-400D-9B9B-E078DEED62EF" = 1;
 };
-name = Thin_20180709;
+name = Thin_20180710;
 weightClass = Thin;
 },
 {
@@ -91845,7 +91978,7 @@ interpolationWeight = 80;
 instanceInterpolations = {
 "F333AEC5-BB61-4D5E-9EDD-6124322D28F2" = 1;
 };
-name = Regular_20180709;
+name = Regular_20180710;
 },
 {
 exports = 0;
@@ -91880,7 +92013,7 @@ interpolationWeight = 170;
 instanceInterpolations = {
 "51C2DFEF-3776-4D13-9284-96485B799B57" = 1;
 };
-name = "Extra Bold_20180709";
+name = "Extra Bold_20180710";
 weightClass = ExtraBold;
 }
 );
