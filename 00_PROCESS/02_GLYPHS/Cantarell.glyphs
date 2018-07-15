@@ -7,8 +7,7 @@ DisplayStrings = (
 "/alpha/beta p/gamma/epsilon e/eta/iota/kappa/lambda/mu/nu/omicron/pi n/rho/tau u  ",
 "/tonos/tonos.case/oxia/oxia.case",
 "/eta",
-"/tonos/dieresistonos/psili/koronis/psili/dasia/psilivaria/dasiavaria/psilioxia/dasiaoxia/psiliperispomeni/dasiaperispomeni/dialytikavaria/dialytikaoxia/dialytikaperispomeni/varia/oxia/perispomeni/ypogegrammeni \012/alpha/alphapsili/alphadasia/alphapsilivaria/alphadasiavaria/alphapsilioxia/alphadasiaoxia/alphapsiliperispomeni/alphadasiaperispomeni/alphavaria/alphaoxia/alphaperispomeni/alphavrachy/alphamacron \012/alphaypogegrammeni/alphavariaypogegrammeni/alphaoxiaypogegrammeni/alphapsiliypogegrammeni/alphadasiaypogegrammeni/alphapsilivariaypogegrammeni/alphadasiavariaypogegrammeni/alphapsilioxiaypogegrammeni/alphadasiaoxiaypogegrammeni/alphapsiliperispomeniypogegrammeni/alphadasiaperispomeniypogegrammeni/alphaperispomeniypogegrammeni",
-"/prosgegrammeni/ypogegrammeni"
+"/tonos/acutecomb ´/dieresistonos/psili/koronis/psili/dasia/psilivaria/dasiavaria/psilioxia/dasiaoxia/psiliperispomeni/dasiaperispomeni/dialytikavaria/dialytikaoxia/dialytikaperispomeni/varia/oxia/perispomeni/ypogegrammeni \012/alpha/alphapsili/alphadasia/alphapsilivaria/alphadasiavaria/alphapsilioxia/alphadasiaoxia/alphapsiliperispomeni/alphadasiaperispomeni/alphavaria/alphaoxia/alphaperispomeni/alphavrachy/alphamacron \012/alphaypogegrammeni/alphavariaypogegrammeni/alphaoxiaypogegrammeni/alphapsiliypogegrammeni/alphadasiaypogegrammeni/alphapsilivariaypogegrammeni/alphadasiavariaypogegrammeni/alphapsilioxiaypogegrammeni/alphadasiaoxiaypogegrammeni/alphapsiliperispomeniypogegrammeni/alphadasiaperispomeniypogegrammeni/alphaperispomeniypogegrammeni"
 );
 classes = (
 {
@@ -46837,7 +46836,7 @@ width = 843;
 unicode = 051D;
 },
 {
-color = 4;
+color = 3;
 glyphname = Alpha;
 layers = (
 {
@@ -46913,7 +46912,7 @@ width = 708;
 unicode = 0391;
 },
 {
-color = 4;
+color = 3;
 glyphname = Beta;
 layers = (
 {
@@ -46947,7 +46946,7 @@ width = 652;
 unicode = 0392;
 },
 {
-color = 4;
+color = 3;
 glyphname = Gamma;
 layers = (
 {
@@ -46981,7 +46980,7 @@ width = 553;
 unicode = 0393;
 },
 {
-color = 4;
+color = 3;
 glyphname = Delta;
 layers = (
 {
@@ -47152,7 +47151,7 @@ rightMetricsKey = "=A+15";
 unicode = 0394;
 },
 {
-color = 4;
+color = 3;
 glyphname = Epsilon;
 layers = (
 {
@@ -47228,7 +47227,7 @@ width = 610;
 unicode = 0395;
 },
 {
-color = 4;
+color = 3;
 glyphname = Zeta;
 layers = (
 {
@@ -47262,7 +47261,7 @@ width = 650;
 unicode = 0396;
 },
 {
-color = 4;
+color = 3;
 glyphname = Eta;
 layers = (
 {
@@ -47338,7 +47337,7 @@ width = 755;
 unicode = 0397;
 },
 {
-color = 4;
+color = 3;
 glyphname = Theta;
 layers = (
 {
@@ -47450,7 +47449,7 @@ rightMetricsKey = "=O";
 unicode = 0398;
 },
 {
-color = 4;
+color = 3;
 glyphname = Iota;
 layers = (
 {
@@ -47526,7 +47525,7 @@ width = 310;
 unicode = 0399;
 },
 {
-color = 4;
+color = 3;
 glyphname = Kappa;
 layers = (
 {
@@ -47560,7 +47559,7 @@ width = 686;
 unicode = 039A;
 },
 {
-color = 4;
+color = 3;
 glyphname = Lambda;
 layers = (
 {
@@ -47673,7 +47672,7 @@ rightMetricsKey = "=A";
 unicode = 039B;
 },
 {
-color = 4;
+color = 3;
 glyphname = Mu;
 layers = (
 {
@@ -47707,7 +47706,7 @@ width = 892;
 unicode = 039C;
 },
 {
-color = 4;
+color = 3;
 glyphname = Nu;
 layers = (
 {
@@ -47741,7 +47740,7 @@ width = 780;
 unicode = 039D;
 },
 {
-color = 4;
+color = 3;
 glyphname = Xi;
 layers = (
 {
@@ -47901,7 +47900,7 @@ rightMetricsKey = "=E";
 unicode = 039E;
 },
 {
-color = 4;
+color = 3;
 glyphname = Omicron;
 layers = (
 {
@@ -47977,7 +47976,7 @@ width = 760;
 unicode = 039F;
 },
 {
-color = 4;
+color = 3;
 glyphname = Pi;
 layers = (
 {
@@ -48011,7 +48010,7 @@ width = 736;
 unicode = 03A0;
 },
 {
-color = 4;
+color = 3;
 glyphname = Rho;
 layers = (
 {
@@ -48045,7 +48044,7 @@ width = 626;
 unicode = 03A1;
 },
 {
-color = 4;
+color = 3;
 glyphname = Sigma;
 layers = (
 {
@@ -48187,7 +48186,7 @@ rightMetricsKey = "=Z";
 unicode = 03A3;
 },
 {
-color = 4;
+color = 3;
 glyphname = Tau;
 layers = (
 {
@@ -48221,7 +48220,7 @@ width = 620;
 unicode = 03A4;
 },
 {
-color = 4;
+color = 3;
 glyphname = Upsilon;
 layers = (
 {
@@ -48297,7 +48296,7 @@ width = 653;
 unicode = 03A5;
 },
 {
-color = 4;
+color = 3;
 glyphname = Phi;
 layers = (
 {
@@ -48555,7 +48554,7 @@ rightMetricsKey = "=Ef-cy";
 unicode = 03A6;
 },
 {
-color = 4;
+color = 3;
 glyphname = Chi;
 layers = (
 {
@@ -48589,7 +48588,7 @@ width = 672;
 unicode = 03A7;
 },
 {
-color = 4;
+color = 3;
 glyphname = Psi;
 layers = (
 {
@@ -48874,7 +48873,7 @@ rightMetricsKey = "=U-20";
 unicode = 03A8;
 },
 {
-color = 4;
+color = 3;
 glyphname = Omega;
 layers = (
 {
@@ -49189,7 +49188,7 @@ rightMetricsKey = "=O-10";
 unicode = 03A9;
 },
 {
-color = 4;
+color = 3;
 glyphname = Alphatonos;
 layers = (
 {
@@ -49235,7 +49234,7 @@ width = 708;
 unicode = 0386;
 },
 {
-color = 4;
+color = 3;
 glyphname = Epsilontonos;
 layers = (
 {
@@ -49281,7 +49280,7 @@ width = 610;
 unicode = 0388;
 },
 {
-color = 4;
+color = 3;
 glyphname = Etatonos;
 layers = (
 {
@@ -49327,7 +49326,7 @@ width = 755;
 unicode = 0389;
 },
 {
-color = 4;
+color = 3;
 glyphname = Iotatonos;
 layers = (
 {
@@ -49373,7 +49372,7 @@ width = 310;
 unicode = 038A;
 },
 {
-color = 4;
+color = 3;
 glyphname = Omicrontonos;
 layers = (
 {
@@ -49419,7 +49418,7 @@ width = 760;
 unicode = 038C;
 },
 {
-color = 4;
+color = 3;
 glyphname = Upsilontonos;
 layers = (
 {
@@ -49465,7 +49464,7 @@ width = 653;
 unicode = 038E;
 },
 {
-color = 4;
+color = 3;
 glyphname = Omegatonos;
 layers = (
 {
@@ -49511,7 +49510,7 @@ width = 751;
 unicode = 038F;
 },
 {
-color = 4;
+color = 3;
 glyphname = Iotadieresis;
 layers = (
 {
@@ -49557,7 +49556,7 @@ width = 310;
 unicode = 03AA;
 },
 {
-color = 4;
+color = 3;
 glyphname = Upsilondieresis;
 layers = (
 {
@@ -51432,7 +51431,7 @@ width = 600;
 unicode = 03CF;
 },
 {
-color = 4;
+color = 3;
 glyphname = alpha;
 layers = (
 {
@@ -51878,7 +51877,7 @@ rightMetricsKey = "=l";
 unicode = 03B1;
 },
 {
-color = 4;
+color = 3;
 glyphname = beta;
 layers = (
 {
@@ -52158,7 +52157,7 @@ rightMetricsKey = "=germandbls";
 unicode = 03B2;
 },
 {
-color = 4;
+color = 3;
 glyphname = gamma;
 layers = (
 {
@@ -52331,7 +52330,7 @@ rightMetricsKey = "=nu";
 unicode = 03B3;
 },
 {
-color = 4;
+color = 3;
 glyphname = delta;
 layers = (
 {
@@ -52664,7 +52663,7 @@ rightMetricsKey = "=o";
 unicode = 03B4;
 },
 {
-color = 4;
+color = 3;
 glyphname = epsilon;
 layers = (
 {
@@ -52964,7 +52963,7 @@ rightMetricsKey = "=e-25";
 unicode = 03B5;
 },
 {
-color = 4;
+color = 3;
 glyphname = zeta;
 layers = (
 {
@@ -53363,7 +53362,7 @@ leftMetricsKey = "=o-5";
 unicode = 03B6;
 },
 {
-color = 4;
+color = 3;
 glyphname = eta;
 layers = (
 {
@@ -53527,7 +53526,7 @@ rightMetricsKey = "=n";
 unicode = 03B7;
 },
 {
-color = 4;
+color = 3;
 glyphname = theta;
 layers = (
 {
@@ -53830,7 +53829,7 @@ rightMetricsKey = "=o";
 unicode = 03B8;
 },
 {
-color = 4;
+color = 3;
 glyphname = iota;
 layers = (
 {
@@ -53975,7 +53974,7 @@ rightMetricsKey = "=l";
 unicode = 03B9;
 },
 {
-color = 4;
+color = 3;
 glyphname = kappa;
 layers = (
 {
@@ -54169,7 +54168,7 @@ rightMetricsKey = "=k";
 unicode = 03BA;
 },
 {
-color = 4;
+color = 3;
 glyphname = lambda;
 layers = (
 {
@@ -54347,7 +54346,7 @@ width = 600;
 unicode = 03BB;
 },
 {
-color = 4;
+color = 3;
 glyphname = mu;
 layers = (
 {
@@ -54615,7 +54614,7 @@ rightMetricsKey = "=l";
 unicode = 03BC;
 },
 {
-color = 4;
+color = 3;
 glyphname = nu;
 layers = (
 {
@@ -54799,7 +54798,7 @@ rightMetricsKey = "=v+12";
 unicode = 03BD;
 },
 {
-color = 4;
+color = 3;
 glyphname = xi;
 layers = (
 {
@@ -55152,7 +55151,7 @@ leftMetricsKey = "=o-5";
 unicode = 03BE;
 },
 {
-color = 4;
+color = 3;
 glyphname = omicron;
 layers = (
 {
@@ -55407,7 +55406,7 @@ rightMetricsKey = "=o";
 unicode = 03BF;
 },
 {
-color = 4;
+color = 3;
 glyphname = pi;
 layers = (
 {
@@ -55594,7 +55593,7 @@ rightMetricsKey = "=t";
 unicode = 03C0;
 },
 {
-color = 4;
+color = 3;
 glyphname = rho;
 layers = (
 {
@@ -55811,7 +55810,7 @@ rightMetricsKey = "=o";
 unicode = 03C1;
 },
 {
-color = 4;
+color = 3;
 glyphname = sigmafinal;
 layers = (
 {
@@ -56031,7 +56030,7 @@ rightMetricsKey = "=c";
 unicode = 03C2;
 },
 {
-color = 4;
+color = 3;
 glyphname = sigma;
 layers = (
 {
@@ -56307,7 +56306,7 @@ leftMetricsKey = "=o";
 unicode = 03C3;
 },
 {
-color = 4;
+color = 3;
 glyphname = tau;
 layers = (
 {
@@ -56472,7 +56471,7 @@ rightMetricsKey = "=te-cy";
 unicode = 03C4;
 },
 {
-color = 4;
+color = 3;
 glyphname = upsilon;
 layers = (
 {
@@ -56679,7 +56678,7 @@ rightMetricsKey = "=omega-5";
 unicode = 03C5;
 },
 {
-color = 4;
+color = 3;
 glyphname = phi;
 layers = (
 {
@@ -56994,7 +56993,7 @@ rightMetricsKey = "=p";
 unicode = 03C6;
 },
 {
-color = 4;
+color = 3;
 glyphname = chi;
 layers = (
 {
@@ -57248,7 +57247,7 @@ rightMetricsKey = "=x-15";
 unicode = 03C7;
 },
 {
-color = 4;
+color = 3;
 glyphname = psi;
 layers = (
 {
@@ -57545,7 +57544,7 @@ rightMetricsKey = "=upsilon";
 unicode = 03C8;
 },
 {
-color = 4;
+color = 3;
 glyphname = omega;
 layers = (
 {
@@ -57885,7 +57884,7 @@ width = 310;
 unicode = 03AF;
 },
 {
-color = 4;
+color = 3;
 glyphname = iotadieresis;
 layers = (
 {
@@ -57931,7 +57930,7 @@ width = 310;
 unicode = 03CA;
 },
 {
-color = 4;
+color = 3;
 glyphname = iotadieresistonos;
 layers = (
 {
@@ -58025,7 +58024,7 @@ rightMetricsKey = upsilon;
 unicode = 03CD;
 },
 {
-color = 4;
+color = 3;
 glyphname = upsilondieresis;
 layers = (
 {
@@ -58071,7 +58070,7 @@ width = 562;
 unicode = 03CB;
 },
 {
-color = 4;
+color = 3;
 glyphname = upsilondieresistonos;
 layers = (
 {
@@ -58347,7 +58346,6 @@ width = 579;
 unicode = 03AE;
 },
 {
-color = 3;
 glyphname = alphapsili;
 layers = (
 {
@@ -58375,7 +58373,6 @@ width = 600;
 unicode = 1F00;
 },
 {
-color = 3;
 glyphname = alphadasia;
 layers = (
 {
@@ -58565,7 +58562,6 @@ width = 600;
 unicode = 1F07;
 },
 {
-color = 3;
 glyphname = alphavaria;
 layers = (
 {
@@ -58593,7 +58589,6 @@ width = 600;
 unicode = 1F70;
 },
 {
-color = 3;
 glyphname = alphaoxia;
 layers = (
 {
@@ -58621,7 +58616,6 @@ width = 600;
 unicode = 1F71;
 },
 {
-color = 3;
 glyphname = alphaperispomeni;
 layers = (
 {
@@ -58649,7 +58643,6 @@ width = 600;
 unicode = 1FB6;
 },
 {
-color = 3;
 glyphname = alphavrachy;
 layers = (
 {
@@ -58677,7 +58670,6 @@ width = 600;
 unicode = 1FB0;
 },
 {
-color = 3;
 glyphname = alphamacron;
 layers = (
 {
@@ -94117,7 +94109,7 @@ width = 547;
 );
 },
 {
-color = 3;
+color = 4;
 glyphname = tonos;
 layers = (
 {
@@ -94127,7 +94119,7 @@ name = _top;
 position = "{93, 480}";
 }
 );
-layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
+background = {
 paths = (
 {
 closed = 1;
@@ -94136,6 +94128,19 @@ nodes = (
 "123 739 LINE",
 "89 571 LINE",
 "101 571 LINE"
+);
+}
+);
+};
+layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
+paths = (
+{
+closed = 1;
+nodes = (
+"146 735 LINE",
+"123 739 LINE",
+"90 572 LINE",
+"101 570 LINE"
 );
 }
 );
@@ -94148,7 +94153,7 @@ name = _top;
 position = "{105, 482}";
 }
 );
-layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
+background = {
 paths = (
 {
 closed = 1;
@@ -94157,6 +94162,19 @@ nodes = (
 "107 739 LINE",
 "81 556 LINE",
 "133 556 LINE"
+);
+}
+);
+};
+layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
+paths = (
+{
+closed = 1;
+nodes = (
+"191 734 LINE",
+"108 744 LINE",
+"83 567 LINE",
+"133 560 LINE"
 );
 }
 );
@@ -94169,7 +94187,7 @@ name = _top;
 position = "{151, 490}";
 }
 );
-layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
+background = {
 paths = (
 {
 closed = 1;
@@ -94178,6 +94196,19 @@ nodes = (
 "105 739 LINE",
 "90 553 LINE",
 "206 553 LINE"
+);
+}
+);
+};
+layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
+paths = (
+{
+closed = 1;
+nodes = (
+"267 733 LINE",
+"107 759 LINE",
+"91 561 LINE",
+"198 545 LINE"
 );
 }
 );
@@ -94243,7 +94274,7 @@ leftMetricsKey = tonos;
 rightMetricsKey = tonos;
 },
 {
-color = 4;
+color = 3;
 glyphname = dieresistonos;
 layers = (
 {
@@ -95175,7 +95206,7 @@ width = 600;
 );
 },
 {
-color = 3;
+color = 4;
 glyphname = oxia;
 layers = (
 {
