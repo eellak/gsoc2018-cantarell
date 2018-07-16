@@ -7,7 +7,8 @@ DisplayStrings = (
 "/alpha/beta p/gamma/epsilon e/eta/iota/kappa/lambda/mu/nu/omicron/pi n/rho/tau u  ",
 "/tonos/tonos.case/oxia/oxia.case",
 "/eta",
-"/tonos/acutecomb ´/dieresistonos/psili/koronis/psili/dasia/psilivaria/dasiavaria/psilioxia/dasiaoxia/psiliperispomeni/dasiaperispomeni/dialytikavaria/dialytikaoxia/dialytikaperispomeni/varia/oxia/perispomeni/ypogegrammeni \012/alpha/alphapsili/alphadasia/alphapsilivaria/alphadasiavaria/alphapsilioxia/alphadasiaoxia/alphapsiliperispomeni/alphadasiaperispomeni/alphavaria/alphaoxia/alphaperispomeni/alphavrachy/alphamacron \012/alphaypogegrammeni/alphavariaypogegrammeni/alphaoxiaypogegrammeni/alphapsiliypogegrammeni/alphadasiaypogegrammeni/alphapsilivariaypogegrammeni/alphadasiavariaypogegrammeni/alphapsilioxiaypogegrammeni/alphadasiaoxiaypogegrammeni/alphapsiliperispomeniypogegrammeni/alphadasiaperispomeniypogegrammeni/alphaperispomeniypogegrammeni"
+"/tonos/acutecomb ´/dieresistonos/psili/koronis/psili/dasia/psilivaria/dasiavaria/psilioxia/dasiaoxia/psiliperispomeni/dasiaperispomeni/dialytikavaria/dialytikaoxia/dialytikaperispomeni/varia/oxia/perispomeni/ypogegrammeni \012/alpha/alphapsili/alphadasia/alphapsilivaria/alphadasiavaria/alphapsilioxia/alphadasiaoxia/alphapsiliperispomeni/alphadasiaperispomeni/alphavaria/alphaoxia/alphaperispomeni/alphavrachy/alphamacron \012/alphaypogegrammeni/alphavariaypogegrammeni/alphaoxiaypogegrammeni/alphapsiliypogegrammeni/alphadasiaypogegrammeni/alphapsilivariaypogegrammeni/alphadasiavariaypogegrammeni/alphapsilioxiaypogegrammeni/alphadasiaoxiaypogegrammeni/alphapsiliperispomeniypogegrammeni/alphadasiaperispomeniypogegrammeni/alphaperispomeniypogegrammeni",
+"/tonos/varia  /psili/psilioxia  /psilivaria/dasiavaria/psilioxia/dasiaoxia"
 );
 classes = (
 {
@@ -58359,7 +58360,7 @@ name = alpha;
 },
 {
 name = psili;
-transform = "{1, 0, 0, 1, 163, 0}";
+transform = "{1, 0, 0, 1, 136, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
@@ -58817,7 +58818,7 @@ name = alpha;
 },
 {
 name = psili;
-transform = "{1, 0, 0, 1, 163, 0}";
+transform = "{1, 0, 0, 1, 136, 0}";
 },
 {
 name = ypogegrammeni;
@@ -94109,7 +94110,7 @@ width = 547;
 );
 },
 {
-color = 4;
+color = 1;
 glyphname = tonos;
 layers = (
 {
@@ -94171,7 +94172,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"191 734 LINE",
+"191 733 LINE",
 "108 744 LINE",
 "83 567 LINE",
 "133 560 LINE"
@@ -94274,7 +94275,7 @@ leftMetricsKey = tonos;
 rightMetricsKey = tonos;
 },
 {
-color = 3;
+color = 4;
 glyphname = dieresistonos;
 layers = (
 {
@@ -94380,11 +94381,7 @@ nodes = (
 "85 595 OFFCURVE",
 "121 595 CURVE SMOOTH"
 );
-}
-);
-};
-layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-paths = (
+},
 {
 closed = 1;
 nodes = (
@@ -94393,7 +94390,11 @@ nodes = (
 "230 739 LINE",
 "209 556 LINE"
 );
-},
+}
+);
+};
+layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
+paths = (
 {
 closed = 1;
 nodes = (
@@ -94426,6 +94427,15 @@ nodes = (
 "334 619 OFFCURVE",
 "353 597 OFFCURVE",
 "387 597 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"309 733 LINE",
+"231 744 LINE",
+"210 567 LINE",
+"258 560 LINE"
 );
 }
 );
@@ -94502,7 +94512,7 @@ width = 600;
 anchors = (
 {
 name = _top;
-position = "{103, 482}";
+position = "{130, 482}";
 }
 );
 background = {
@@ -94510,10 +94520,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"200 739 LINE",
-"112 739 LINE",
-"86 556 LINE",
-"138 556 LINE"
+"146 556 LINE",
+"182 601 OFFCURVE",
+"209 672 OFFCURVE",
+"209 739 CURVE",
+"132 739 LINE",
+"132 657 OFFCURVE",
+"113 596 OFFCURVE",
+"98 556 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"208 733 LINE",
+"125 744 LINE",
+"100 567 LINE",
+"150 560 LINE"
 );
 }
 );
@@ -94523,18 +94546,24 @@ paths = (
 {
 closed = 1;
 nodes = (
-"129 556 LINE",
-"165 601 OFFCURVE",
-"192 672 OFFCURVE",
-"192 739 CURVE",
-"115 739 LINE",
-"115 657 OFFCURVE",
-"96 596 OFFCURVE",
-"81 556 CURVE"
+"176 558 LINE",
+"193 590 OFFCURVE",
+"205 622 OFFCURVE",
+"205 653 CURVE SMOOTH",
+"205 696 OFFCURVE",
+"181 732 OFFCURVE",
+"103 749 CURVE",
+"83 683 LINE",
+"125 672 OFFCURVE",
+"142 662 OFFCURVE",
+"142 629 CURVE SMOOTH",
+"142 610 OFFCURVE",
+"138 592 OFFCURVE",
+"131 569 CURVE"
 );
 }
 );
-width = 254;
+width = 271;
 },
 {
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -94661,10 +94690,11 @@ position = "{188, 482}";
 components = (
 {
 name = psili;
+transform = "{1, 0, 0, 1, 10, 0}";
 },
 {
 name = varia;
-transform = "{1, 0, 0, 1, 174, 0}";
+transform = "{1, 0, 0, 1, 164, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
@@ -95167,6 +95197,7 @@ width = 600;
 unicode = 1FEF;
 },
 {
+color = 1;
 glyphname = varia.case;
 layers = (
 {
