@@ -2,6 +2,11 @@
 
 ## Journal
 
+**11.07.–14.07.**<br />
+- Set up sketches for Polytonic diacritics
+- Received feedback from Emilios Theofanous on the completed character sets and sketches for Polytonic diacritics
+<br>
+
 **06.07.–10.07.**<br />
 - Completed the uppercase Thin character set
 - Completed the uppercase Extra Bold character set
