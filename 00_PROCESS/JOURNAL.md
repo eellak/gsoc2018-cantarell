@@ -2,6 +2,20 @@
 
 ## Journal
 
+**24.07.–31.07.**<br />
+- Adjusted lowercase letters in all weights according to the feedback from 14.07. 
+- Started kerning
+<br>
+
+**21.07.–23.07.**<br />
+- Adjusted uppercase letters in all weights according to the feedback from 14.07. 
+<br>
+
+**15.07.–20.07.**<br />
+- Edited /tonos
+- Added Polytonic diacritics
+<br>
+
 **11.07.–14.07.**<br />
 - Set up sketches for Polytonic diacritics
 - Received feedback from Emilios Theofanous on the completed character sets and sketches for Polytonic diacritics
