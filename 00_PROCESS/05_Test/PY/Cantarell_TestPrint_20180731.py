@@ -1,5 +1,6 @@
 ###Drawbot script
 ###Install Cantarell Regular_20180731
+###Change saveImage if you test another font
 
 
 ###Basic page setup
@@ -42,15 +43,15 @@ def createNewPage():
 from urllib.request import urlopen
 
 characterOverviewPath = "https://raw.githubusercontent.com/eellak/gsoc2018-cantarell/master/00_PROCESS/05_Test/TXT/Cantarell_CharacterOverview_20180731.txt"
-response = urlopen(specimenPath, timeout=5)
-specimenText = response.read()
-specimenText = specimenText.decode("utf-8")
+response = urlopen(characterOverviewPath, timeout=5)
+characterOverview = response.read()
+characterOverview = characterOverview.decode("utf-8")
 response.close()
     
-    diacriticsOverviewPath = "https://raw.githubusercontent.com/eellak/gsoc2018-cantarell/master/00_PROCESS/05_Test/TXT/Cantarell_CharacterOverviewDiacritics_20180731.txt"
-response = urlopen(specimenPath, timeout=5)
-specimenText = response.read()
-specimenText = specimenText.decode("utf-8")
+diacriticsOverviewPath = "https://raw.githubusercontent.com/eellak/gsoc2018-cantarell/master/00_PROCESS/05_Test/TXT/Cantarell_CharacterOverviewDiacritics_20180731.txt"
+response = urlopen(diacriticsOverviewPath, timeout=5)
+diacriticsOverview = response.read()
+diacriticsOverview = diacriticsOverview.decode("utf-8")
 response.close()
 
 specimenPath = "https://raw.githubusercontent.com/eellak/gsoc2018-cantarell/master/00_PROCESS/05_Test/TXT/Cantarell_Specimen_20180604.txt"
@@ -58,17 +59,17 @@ response = urlopen(specimenPath, timeout=5)
 specimenText = response.read()
 specimenText = specimenText.decode("utf-8")
 response.close()
-    
-polytonicSpecimenPath = "https://raw.githubusercontent.com/eellak/gsoc2018-cantarell/master/00_PROCESS/05_Test/TXT/Cantarell_SpecimenPolytonic_20180731.txt"
-response = urlopen(specimenPath, timeout=5)
-specimenText = response.read()
-specimenText = specimenText.decode("utf-8")
-response.close()
-    
+
 upperCaseSpecimenPath = "https://raw.githubusercontent.com/eellak/gsoc2018-cantarell/master/00_PROCESS/05_Test/TXT/Cantarell_SpecimenUpperCase_20180731.txt"
-response = urlopen(specimenPath, timeout=5)
-specimenText = response.read()
-specimenText = specimenText.decode("utf-8")
+response = urlopen(upperCaseSpecimenPath, timeout=5)
+upperCaseSpecimenText = response.read()
+upperCaseSpecimenText = upperCaseSpecimenText.decode("utf-8")
+response.close()    
+
+polytonicSpecimenPath = "https://raw.githubusercontent.com/eellak/gsoc2018-cantarell/master/00_PROCESS/05_Test/TXT/Cantarell_SpecimenPolytonic_20180731.txt"
+response = urlopen(polytonicSpecimenPath, timeout=5)
+polytonicSpecimenText = response.read()
+polytonicSpecimenText = polytonicSpecimenText.decode("utf-8")
 response.close()
 
 
