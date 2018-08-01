@@ -171,4 +171,4 @@ for pageIndex, page in enumerate(allPages):
 
 
 saveDate = now.strftime("%Y%m%d-%H%M")
-saveImage("~/Desktop/Cantarell Regular_20180731_%s.pdf" % saveDate)
+saveImage("~/Desktop/Cantarell Regular_%s.pdf" % saveDate)
