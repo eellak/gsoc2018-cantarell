@@ -6,10 +6,7 @@ DisplayStrings = (
 "\012d/alpha/epsilon/eta/iota o/upsilon/omega \012/tonos/alphatonos/epsilontonos/etatonos/iotatonos/omicrontonos/upsilontonos/omegatonos   /dieresistonos  /iotadieresistonos  /upsilondieresistonos  /iotadieresis  /upsilondieresis \012´/acutecomb áé/nacute íóú/wacute   /idieresisacute  /dieresiscomb.loclVIET/dieresiscomb_acutecomb/udieresisacute  ïü\012\012/Iota/Upsilon    /Alpha  /Epsilon  /Eta  /Iota  /Omicron  /Upsilon  /Omega \012/Iotadieresis/Upsilondieresis  /tonos.case  /Alphatonos  /Epsilontonos  /Etatonos  /Iotatonos  /Omicrontonos  /Upsilontonos  /Omegatonos \012",
 "/KaiSymbol/kaiSymbol",
 "/kappa/kaiSymbol",
-"/delta/sigmafinal/upsilon/phi/psi/omega",
-"/Iotadieresis/Upsilondieresis/Alphapsili/Alphadasia/Alphapsilivaria/Alphadasiavaria/Alphapsilioxia/Alphadasiaoxia/Alphapsiliperispomeni/Alphadasiaperispomeni/Alphavaria/Alphaoxia/Alphavrachy/Alphamacron/Alphaprosgegrammeni/Alphapsiliprosgegrammeni/Alphadasiaprosgegrammeni/Alphapsilivariaprosgegrammeni/Alphadasiavariaprosgegrammeni/Alphapsilioxiaprosgegrammeni/Alphadasiaoxiaprosgegrammeni/Alphapsiliperispomeniprosgegrammeni/Alphadasiaperispomeniprosgegrammeni/Epsilonpsili/Epsilondasia/Epsilonpsilivaria/Epsilondasiavaria/Epsilonpsilioxia/Epsilondasiaoxia/Epsilonvaria/Epsilonoxia/Etapsili/Etadasia/Etapsilivaria/Etadasiavaria/Etapsilioxia/Etadasiaoxia/Etapsiliperispomeni/Etadasiaperispomeni/Etavaria/Etaoxia/Etaprosgegrammeni/Etapsiliprosgegrammeni/Etadasiaprosgegrammeni/Etapsilivariaprosgegrammeni/Etadasiavariaprosgegrammeni/Etapsilioxiaprosgegrammeni/Etadasiaoxiaprosgegrammeni/Etapsiliperispomeniprosgegrammeni/Etadasiaperispomeniprosgegrammeni/Iotapsili/Iotadasia/Iotapsilivaria/Iotadasiavaria/Iotapsilioxia/Iotadasiaoxia/Iotapsiliperispomeni/Iotadasiaperispomeni/Iotavaria/Iotaoxia/Iotavrachy/Iotamacron/Omicronpsili/Omicrondasia/Omicronpsilivaria/Omicrondasiavaria/Omicronpsilioxia/Omicrondasiaoxia/Omicronvaria/Omicronoxia/Rhodasia/Upsilondasia/Upsilondasiavaria/Upsilondasiaoxia/Upsilondasiaperispomeni/Upsilonvaria/Upsilonoxia/Upsilonvrachy/Upsilonmacron/Omegapsili/Omegadasia/Omegapsilivaria/Omegadasiavaria/Omegapsilioxia/Omegadasiaoxia/Omegapsiliperispomeni/Omegadasiaperispomeni/Omegavaria/Omegaoxia/Omegaprosgegrammeni/Omegapsiliprosgegrammeni/Omegadasiaprosgegrammeni/Omegapsilivariaprosgegrammeni/Omegadasiavariaprosgegrammeni/Omegapsilioxiaprosgegrammeni/Omegadasiaoxiaprosgegrammeni/Omegapsiliperispomeniprosgegrammeni/Omegadasiaperispomeniprosgegrammeni",
-"",
-"/Alpha/Beta/Gamma/Delta/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu/Xi/Omicron/Pi/Rho/Sigma/Tau/Upsilon/Phi/Chi/Psi/Omega/Alphatonos/Epsilontonos/Etatonos/Iotatonos/Omicrontonos/Upsilontonos/Omegatonos/Iotadieresis/Upsilondieresis/Alphapsili/Alphadasia/Alphapsilivaria/Alphadasiavaria/Alphapsilioxia/Alphadasiaoxia/Alphapsiliperispomeni/Alphadasiaperispomeni/Alphavaria/Alphaoxia/Alphavrachy/Alphamacron/Alphaprosgegrammeni/Alphapsiliprosgegrammeni/Alphadasiaprosgegrammeni/Alphapsilivariaprosgegrammeni/Alphadasiavariaprosgegrammeni/Alphapsilioxiaprosgegrammeni/Alphadasiaoxiaprosgegrammeni/Alphapsiliperispomeniprosgegrammeni/Alphadasiaperispomeniprosgegrammeni/Epsilonpsili/Epsilondasia/Epsilonpsilivaria/Epsilondasiavaria/Epsilonpsilioxia/Epsilondasiaoxia/Epsilonvaria/Epsilonoxia/Etapsili/Etadasia/Etapsilivaria/Etadasiavaria/Etapsilioxia/Etadasiaoxia/Etapsiliperispomeni/Etadasiaperispomeni/Etavaria/Etaoxia/Etaprosgegrammeni/Etapsiliprosgegrammeni/Etadasiaprosgegrammeni/Etapsilivariaprosgegrammeni/Etadasiavariaprosgegrammeni/Etapsilioxiaprosgegrammeni/Etadasiaoxiaprosgegrammeni/Etapsiliperispomeniprosgegrammeni/Etadasiaperispomeniprosgegrammeni/Iotapsili/Iotadasia/Iotapsilivaria/Iotadasiavaria/Iotapsilioxia/Iotadasiaoxia/Iotapsiliperispomeni/Iotadasiaperispomeni/Iotavaria/Iotaoxia/Iotavrachy/Iotamacron/Omicronpsili/Omicrondasia/Omicronpsilivaria/Omicrondasiavaria/Omicronpsilioxia/Omicrondasiaoxia/Omicronvaria/Omicronoxia/Rhodasia/Upsilondasia/Upsilondasiavaria/Upsilondasiaoxia/Upsilondasiaperispomeni/Upsilonvaria/Upsilonoxia/Upsilonvrachy/Upsilonmacron/Omegapsili/Omegadasia/Omegapsilivaria/Omegadasiavaria/Omegapsilioxia/Omegadasiaoxia/Omegapsiliperispomeni/Omegadasiaperispomeni/Omegavaria/Omegaoxia/Omegaprosgegrammeni/Omegapsiliprosgegrammeni/Omegadasiaprosgegrammeni/Omegapsilivariaprosgegrammeni/Omegadasiavariaprosgegrammeni/Omegapsilioxiaprosgegrammeni/Omegadasiaoxiaprosgegrammeni/Omegapsiliperispomeniprosgegrammeni/Omegadasiaperispomeniprosgegrammeni/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/mu/nu/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega/iotatonos/iotadieresis/iotadieresistonos/upsilontonos/upsilondieresis/upsilondieresistonos/omicrontonos/omegatonos/alphatonos/epsilontonos/etatonos/alphapsili/alphadasia/alphapsilivaria/alphadasiavaria/alphapsilioxia/alphadasiaoxia/alphapsiliperispomeni/alphadasiaperispomeni/alphavaria/alphaoxia/alphaperispomeni/alphavrachy/alphamacron/alphaypogegrammeni/alphavariaypogegrammeni/alphaoxiaypogegrammeni/alphapsiliypogegrammeni/alphadasiaypogegrammeni/alphapsilivariaypogegrammeni/alphadasiavariaypogegrammeni/alphapsilioxiaypogegrammeni/alphadasiaoxiaypogegrammeni/alphapsiliperispomeniypogegrammeni/alphadasiaperispomeniypogegrammeni/alphaperispomeniypogegrammeni/epsilonpsili/epsilondasia/epsilonpsilivaria/epsilondasiavaria/epsilonpsilioxia/epsilondasiaoxia/epsilonvaria/epsilonoxia/etapsili/etadasia/etapsilivaria/etadasiavaria/etapsilioxia/etadasiaoxia/etapsiliperispomeni/etadasiaperispomeni/etavaria/etaoxia/etaperispomeni/etaypogegrammeni/etavariaypogegrammeni/etaoxiaypogegrammeni/etapsiliypogegrammeni/etadasiaypogegrammeni/etapsilivariaypogegrammeni/etadasiavariaypogegrammeni/etapsilioxiaypogegrammeni/etadasiaoxiaypogegrammeni/etapsiliperispomeniypogegrammeni/etadasiaperispomeniypogegrammeni/etaperispomeniypogegrammeni/iotapsili/iotadasia/iotapsilivaria/iotadasiavaria/iotapsilioxia/iotadasiaoxia/iotapsiliperispomeni/iotadasiaperispomeni/iotavaria/iotaoxia/iotaperispomeni/iotavrachy/iotamacron/iotadialytikavaria/iotadialytikaoxia/iotadialytikaperispomeni/omicronpsili/omicrondasia/omicronpsilivaria/omicrondasiavaria/omicronpsilioxia/omicrondasiaoxia/omicronvaria/omicronoxia/rhopsili/rhodasia/upsilonpsili/upsilondasia/upsilonpsilivaria/upsilondasiavaria/upsilonpsilioxia/upsilondasiaoxia/upsilonpsiliperispomeni/upsilondasiaperispomeni/upsilonvaria/upsilonoxia/upsilonperispomeni/upsilonvrachy/upsilonmacron/upsilondialytikavaria/upsilondialytikaoxia/upsilondialytikaperispomeni/omegapsili/omegadasia/omegapsilivaria/omegadasiavaria/omegapsilioxia/omegadasiaoxia/omegapsiliperispomeni/omegadasiaperispomeni/omegavaria/omegaoxia/omegaperispomeni/omegaypogegrammeni/omegavariaypogegrammeni/omegaoxiaypogegrammeni/omegapsiliypogegrammeni/omegadasiaypogegrammeni/omegapsilivariaypogegrammeni/omegadasiavariaypogegrammeni/omegapsilioxiaypogegrammeni/omegadasiaoxiaypogegrammeni/omegapsiliperispomeniypogegrammeni/omegadasiaperispomeniypogegrammeni/omegaperispomeniypogegrammeni"
+"/delta/sigmafinal/upsilon/phi/psi/omega"
 );
 classes = (
 {
@@ -47244,6 +47241,8 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 610;
 }
 );
+leftKerningGroup = Eta;
+rightKerningGroup = Epsilon;
 unicode = 0395;
 },
 {
@@ -47585,7 +47584,7 @@ width = 686;
 }
 );
 leftKerningGroup = Eta;
-rightKerningGroup = Kappa;
+rightKerningGroup = Chi;
 unicode = 039A;
 },
 {
@@ -47999,7 +47998,7 @@ position = "{380, 694}";
 },
 {
 name = topleft;
-position = "{-37, 694}";
+position = "{-25, 694}";
 }
 );
 components = (
@@ -48359,6 +48358,8 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 653;
 }
 );
+leftKerningGroup = Upsilon;
+rightKerningGroup = Upsilon;
 unicode = 03A5;
 },
 {
@@ -48615,9 +48616,9 @@ nodes = (
 width = 814;
 }
 );
-leftKerningGroup = Omega;
+leftKerningGroup = Phi;
 leftMetricsKey = "=Ef-cy";
-rightKerningGroup = Omega;
+rightKerningGroup = Phi;
 rightMetricsKey = "=Ef-cy";
 unicode = 03A6;
 },
@@ -48938,9 +48939,9 @@ nodes = (
 width = 801;
 }
 );
-leftKerningGroup = Chi;
+leftKerningGroup = Psi;
 leftMetricsKey = "=U-25";
-rightKerningGroup = Chi;
+rightKerningGroup = Psi;
 rightMetricsKey = "=U-25";
 unicode = 03A8;
 },
@@ -49156,15 +49157,15 @@ width = 793;
 anchors = (
 {
 name = bottom;
-position = "{369, 0}";
+position = "{373, 0}";
 },
 {
 name = top;
-position = "{391, 694}";
+position = "{395, 694}";
 },
 {
 name = topleft;
-position = "{-40, 694}";
+position = "{-34, 694}";
 }
 );
 background = {
@@ -49172,87 +49173,89 @@ paths = (
 {
 closed = 1;
 nodes = (
-"173 703 OFFCURVE",
-"42 557 OFFCURVE",
-"42 383 CURVE SMOOTH",
-"42 251 OFFCURVE",
-"114 149 OFFCURVE",
-"218 64 CURVE",
-"218 72 LINE",
-"26 72 LINE",
-"26 0 LINE",
-"312 0 LINE",
-"312 62 LINE",
-"205 149 OFFCURVE",
-"127 249 OFFCURVE",
-"127 377 CURVE SMOOTH",
-"127 515 OFFCURVE",
-"215 630 OFFCURVE",
-"364 630 CURVE SMOOTH",
-"513 630 OFFCURVE",
-"607 515 OFFCURVE",
-"607 377 CURVE SMOOTH",
-"607 249 OFFCURVE",
-"528 150 OFFCURVE",
-"422 62 CURVE",
-"422 0 LINE",
-"709 0 LINE",
-"709 72 LINE",
-"513 72 LINE",
-"513 65 LINE",
-"613 153 OFFCURVE",
-"692 257 OFFCURVE",
-"692 389 CURVE SMOOTH",
-"692 562 OFFCURVE",
-"563 703 OFFCURVE",
-"369 703 CURVE SMOOTH"
+"177 703 OFFCURVE",
+"46 557 OFFCURVE",
+"46 383 CURVE SMOOTH",
+"46 251 OFFCURVE",
+"118 149 OFFCURVE",
+"222 64 CURVE",
+"222 72 LINE",
+"30 72 LINE",
+"30 0 LINE",
+"316 0 LINE",
+"316 62 LINE",
+"209 149 OFFCURVE",
+"131 249 OFFCURVE",
+"131 377 CURVE SMOOTH",
+"131 515 OFFCURVE",
+"219 630 OFFCURVE",
+"368 630 CURVE SMOOTH",
+"517 630 OFFCURVE",
+"611 515 OFFCURVE",
+"611 377 CURVE SMOOTH",
+"611 249 OFFCURVE",
+"532 150 OFFCURVE",
+"426 62 CURVE",
+"426 0 LINE",
+"713 0 LINE",
+"713 72 LINE",
+"517 72 LINE",
+"517 65 LINE",
+"617 153 OFFCURVE",
+"696 257 OFFCURVE",
+"696 389 CURVE SMOOTH",
+"696 562 OFFCURVE",
+"567 703 OFFCURVE",
+"373 703 CURVE SMOOTH"
 );
 }
 );
 };
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
+leftMetricsKey = "=O-9";
+rightMetricsKey = "=O-9";
 paths = (
 {
 closed = 1;
 nodes = (
-"161 704 OFFCURVE",
-"22 572 OFFCURVE",
-"22 395 CURVE SMOOTH",
-"22 301 OFFCURVE",
-"60 211 OFFCURVE",
-"145 142 CURVE",
-"145 150 LINE",
-"13 150 LINE",
-"13 0 LINE",
-"330 0 LINE",
-"330 131 LINE",
-"237 210 OFFCURVE",
-"202 288 OFFCURVE",
-"202 369 CURVE SMOOTH",
-"202 480 OFFCURVE",
-"267 554 OFFCURVE",
-"368 554 CURVE SMOOTH",
-"476 554 OFFCURVE",
-"542 481 OFFCURVE",
-"542 364 CURVE SMOOTH",
-"542 283 OFFCURVE",
-"501 211 OFFCURVE",
-"408 131 CURVE",
-"408 0 LINE",
-"732 0 LINE",
-"732 150 LINE",
-"591 150 LINE",
-"591 143 LINE",
-"677 212 OFFCURVE",
-"722 310 OFFCURVE",
-"722 404 CURVE SMOOTH",
-"722 575 OFFCURVE",
-"584 704 OFFCURVE",
-"375 704 CURVE SMOOTH"
+"165 704 OFFCURVE",
+"26 572 OFFCURVE",
+"26 395 CURVE SMOOTH",
+"26 301 OFFCURVE",
+"64 211 OFFCURVE",
+"149 142 CURVE",
+"149 150 LINE",
+"17 150 LINE",
+"17 0 LINE",
+"334 0 LINE",
+"334 131 LINE",
+"241 210 OFFCURVE",
+"206 288 OFFCURVE",
+"206 369 CURVE SMOOTH",
+"206 480 OFFCURVE",
+"271 554 OFFCURVE",
+"372 554 CURVE SMOOTH",
+"480 554 OFFCURVE",
+"546 481 OFFCURVE",
+"546 364 CURVE SMOOTH",
+"546 283 OFFCURVE",
+"505 211 OFFCURVE",
+"412 131 CURVE",
+"412 0 LINE",
+"736 0 LINE",
+"736 150 LINE",
+"595 150 LINE",
+"595 143 LINE",
+"681 212 OFFCURVE",
+"726 310 OFFCURVE",
+"726 404 CURVE SMOOTH",
+"726 575 OFFCURVE",
+"588 704 OFFCURVE",
+"379 704 CURVE SMOOTH"
 );
 }
 );
-width = 745;
+width = 753;
 }
 );
 leftKerningGroup = Omega;
@@ -49490,7 +49493,7 @@ name = Omicron;
 },
 {
 name = tonos.case;
-transform = "{1, 0, 0, 1, -250, 0}";
+transform = "{1, 0, 0, 1, -238, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -49550,7 +49553,7 @@ rightKerningGroup = Upsilon;
 unicode = 038E;
 },
 {
-color = 5;
+color = 4;
 glyphname = Omegatonos;
 layers = (
 {
@@ -49586,14 +49589,14 @@ name = Omega;
 },
 {
 name = tonos.case;
-transform = "{1, 0, 0, 1, -253, 0}";
+transform = "{1, 0, 0, 1, -247, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
-leftKerningGroup = Omegatonos;
+leftKerningGroup = Omicrontonos;
 rightKerningGroup = Omega;
 unicode = 038F;
 },
@@ -49826,7 +49829,7 @@ name = Alpha;
 },
 {
 name = psilivaria.case;
-transform = "{1, 0, 0, 1, -301, 0}";
+transform = "{1, 0, 0, 1, -316, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -49922,7 +49925,7 @@ name = Alpha;
 },
 {
 name = psilioxia.case;
-transform = "{1, 0, 0, 1, -324, 0}";
+transform = "{1, 0, 0, 1, -317, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -49970,7 +49973,7 @@ name = Alpha;
 },
 {
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -325, 0}";
+transform = "{1, 0, 0, 1, -321, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -50482,7 +50485,7 @@ name = Alpha;
 },
 {
 name = psilivaria.case;
-transform = "{1, 0, 0, 1, -301, 0}";
+transform = "{1, 0, 0, 1, -316, 0}";
 },
 {
 name = prosgegrammeni;
@@ -50602,7 +50605,7 @@ name = Alpha;
 },
 {
 name = psilioxia.case;
-transform = "{1, 0, 0, 1, -324, 0}";
+transform = "{1, 0, 0, 1, -317, 0}";
 },
 {
 name = prosgegrammeni;
@@ -50662,7 +50665,7 @@ name = Alpha;
 },
 {
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -325, 0}";
+transform = "{1, 0, 0, 1, -321, 0}";
 },
 {
 name = prosgegrammeni;
@@ -50930,7 +50933,7 @@ name = Epsilon;
 },
 {
 name = psilivaria.case;
-transform = "{1, 0, 0, 1, -434, 0}";
+transform = "{1, 0, 0, 1, -449, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -51026,7 +51029,7 @@ name = Epsilon;
 },
 {
 name = psilioxia.case;
-transform = "{1, 0, 0, 1, -457, 0}";
+transform = "{1, 0, 0, 1, -450, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -51074,7 +51077,7 @@ name = Epsilon;
 },
 {
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -458, 0}";
+transform = "{1, 0, 0, 1, -454, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -51314,7 +51317,7 @@ name = Eta;
 },
 {
 name = psilivaria.case;
-transform = "{1, 0, 0, 1, -434, 0}";
+transform = "{1, 0, 0, 1, -449, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -51410,7 +51413,7 @@ name = Eta;
 },
 {
 name = psilioxia.case;
-transform = "{1, 0, 0, 1, -457, 0}";
+transform = "{1, 0, 0, 1, -450, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -51458,7 +51461,7 @@ name = Eta;
 },
 {
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -458, 0}";
+transform = "{1, 0, 0, 1, -454, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -51874,7 +51877,7 @@ name = Eta;
 },
 {
 name = psilivaria.case;
-transform = "{1, 0, 0, 1, -434, 0}";
+transform = "{1, 0, 0, 1, -449, 0}";
 },
 {
 name = prosgegrammeni;
@@ -51994,7 +51997,7 @@ name = Eta;
 },
 {
 name = psilioxia.case;
-transform = "{1, 0, 0, 1, -457, 0}";
+transform = "{1, 0, 0, 1, -450, 0}";
 },
 {
 name = prosgegrammeni;
@@ -52054,7 +52057,7 @@ name = Eta;
 },
 {
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -458, 0}";
+transform = "{1, 0, 0, 1, -454, 0}";
 },
 {
 name = prosgegrammeni;
@@ -52322,7 +52325,7 @@ name = Iota;
 },
 {
 name = psilivaria.case;
-transform = "{1, 0, 0, 1, -434, 0}";
+transform = "{1, 0, 0, 1, -449, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -52418,7 +52421,7 @@ name = Iota;
 },
 {
 name = psilioxia.case;
-transform = "{1, 0, 0, 1, -457, 0}";
+transform = "{1, 0, 0, 1, -450, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -52466,7 +52469,7 @@ name = Iota;
 },
 {
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -458, 0}";
+transform = "{1, 0, 0, 1, -454, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -52802,7 +52805,7 @@ name = Omicron;
 },
 {
 name = psili.case;
-transform = "{1, 0, 0, 1, -246, 0}";
+transform = "{1, 0, 0, 1, -234, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -52850,7 +52853,7 @@ name = Omicron;
 },
 {
 name = dasia.case;
-transform = "{1, 0, 0, 1, -255, 0}";
+transform = "{1, 0, 0, 1, -243, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -52898,7 +52901,7 @@ name = Omicron;
 },
 {
 name = psilivaria.case;
-transform = "{1, 0, 0, 1, -438, 0}";
+transform = "{1, 0, 0, 1, -441, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -52946,7 +52949,7 @@ name = Omicron;
 },
 {
 name = dasiavaria.case;
-transform = "{1, 0, 0, 1, -461, 0}";
+transform = "{1, 0, 0, 1, -449, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -52994,7 +52997,7 @@ name = Omicron;
 },
 {
 name = psilioxia.case;
-transform = "{1, 0, 0, 1, -461, 0}";
+transform = "{1, 0, 0, 1, -442, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -53042,7 +53045,7 @@ name = Omicron;
 },
 {
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -462, 0}";
+transform = "{1, 0, 0, 1, -446, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -53090,7 +53093,7 @@ name = Omicron;
 },
 {
 name = varia.case;
-transform = "{1, 0, 0, 1, -243, 0}";
+transform = "{1, 0, 0, 1, -231, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -53138,7 +53141,7 @@ name = Omicron;
 },
 {
 name = oxia.case;
-transform = "{1, 0, 0, 1, -250, 0}";
+transform = "{1, 0, 0, 1, -238, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -53330,7 +53333,7 @@ name = Upsilon;
 },
 {
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -526, 0}";
+transform = "{1, 0, 0, 1, -522, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -53618,14 +53621,14 @@ name = Omega;
 },
 {
 name = psili.case;
-transform = "{1, 0, 0, 1, -249, 0}";
+transform = "{1, 0, 0, 1, -243, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
-leftKerningGroup = Omegatonos;
+leftKerningGroup = Omicrontonos;
 rightKerningGroup = Omega;
 unicode = 1F68;
 },
@@ -53666,19 +53669,19 @@ name = Omega;
 },
 {
 name = dasia.case;
-transform = "{1, 0, 0, 1, -258, 0}";
+transform = "{1, 0, 0, 1, -252, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
-leftKerningGroup = Omegatonos;
+leftKerningGroup = Omicrontonos;
 rightKerningGroup = Omega;
 unicode = 1F69;
 },
 {
-color = 11;
+color = 10;
 glyphname = Omegapsilivaria;
 layers = (
 {
@@ -53714,14 +53717,14 @@ name = Omega;
 },
 {
 name = psilivaria.case;
-transform = "{1, 0, 0, 1, -441, 0}";
+transform = "{1, 0, 0, 1, -450, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
-leftKerningGroup = Omegapsilivaria;
+leftKerningGroup = Omicronpsilivaria;
 rightKerningGroup = Omega;
 unicode = 1F6A;
 },
@@ -53762,14 +53765,14 @@ name = Omega;
 },
 {
 name = dasiavaria.case;
-transform = "{1, 0, 0, 1, -464, 0}";
+transform = "{1, 0, 0, 1, -458, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
-leftKerningGroup = Omegapsilivaria;
+leftKerningGroup = Omicronpsilivaria;
 rightKerningGroup = Omega;
 unicode = 1F6B;
 },
@@ -53810,14 +53813,14 @@ name = Omega;
 },
 {
 name = psilioxia.case;
-transform = "{1, 0, 0, 1, -464, 0}";
+transform = "{1, 0, 0, 1, -451, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
-leftKerningGroup = Omegapsilivaria;
+leftKerningGroup = Omicronpsilivaria;
 rightKerningGroup = Omega;
 unicode = 1F6C;
 },
@@ -53858,14 +53861,14 @@ name = Omega;
 },
 {
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -465, 0}";
+transform = "{1, 0, 0, 1, -455, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
-leftKerningGroup = Omegapsilivaria;
+leftKerningGroup = Omicronpsilivaria;
 rightKerningGroup = Omega;
 unicode = 1F6D;
 },
@@ -53906,11 +53909,11 @@ name = Omega;
 },
 {
 name = psiliperispomeni.case;
-transform = "{1, 0, 0, 1, -421, -213}";
+transform = "{1, 0, 0, 1, -415, -213}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
 leftKerningGroup = Omegapsiliperispomeni;
@@ -53954,11 +53957,11 @@ name = Omega;
 },
 {
 name = dasiaperispomeni.case;
-transform = "{1, 0, 0, 1, -421, -213}";
+transform = "{1, 0, 0, 1, -415, -213}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
 leftKerningGroup = Omegapsiliperispomeni;
@@ -54002,14 +54005,14 @@ name = Omega;
 },
 {
 name = varia.case;
-transform = "{1, 0, 0, 1, -246, 0}";
+transform = "{1, 0, 0, 1, -240, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
-leftKerningGroup = Omegatonos;
+leftKerningGroup = Omicrontonos;
 rightKerningGroup = Omega;
 unicode = 1FFA;
 },
@@ -54050,14 +54053,14 @@ name = Omega;
 },
 {
 name = oxia.case;
-transform = "{1, 0, 0, 1, -253, 0}";
+transform = "{1, 0, 0, 1, -247, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
-leftKerningGroup = Omegatonos;
+leftKerningGroup = Omicrontonos;
 rightKerningGroup = Omega;
 unicode = 1FFB;
 },
@@ -54098,11 +54101,11 @@ name = Omega;
 },
 {
 name = prosgegrammeni;
-transform = "{1, 0, 0, 1, 107, 0}";
+transform = "{1, 0, 0, 1, 111, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
 leftKerningGroup = Omega;
@@ -54154,18 +54157,18 @@ name = Omega;
 },
 {
 name = psili.case;
-transform = "{1, 0, 0, 1, -249, 0}";
+transform = "{1, 0, 0, 1, -243, 0}";
 },
 {
 name = prosgegrammeni;
-transform = "{1, 0, 0, 1, 107, 0}";
+transform = "{1, 0, 0, 1, 111, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
-leftKerningGroup = Omegatonos;
+leftKerningGroup = Omicrontonos;
 rightKerningGroup = Omega;
 unicode = 1FA8;
 },
@@ -54214,18 +54217,18 @@ name = Omega;
 },
 {
 name = dasia.case;
-transform = "{1, 0, 0, 1, -258, 0}";
+transform = "{1, 0, 0, 1, -252, 0}";
 },
 {
 name = prosgegrammeni;
-transform = "{1, 0, 0, 1, 107, 0}";
+transform = "{1, 0, 0, 1, 111, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
-leftKerningGroup = Omegatonos;
+leftKerningGroup = Omicrontonos;
 rightKerningGroup = Omega;
 unicode = 1FA9;
 },
@@ -54274,18 +54277,18 @@ name = Omega;
 },
 {
 name = psilivaria.case;
-transform = "{1, 0, 0, 1, -441, 0}";
+transform = "{1, 0, 0, 1, -450, 0}";
 },
 {
 name = prosgegrammeni;
-transform = "{1, 0, 0, 1, 107, 0}";
+transform = "{1, 0, 0, 1, 111, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
-leftKerningGroup = Omegapsilivaria;
+leftKerningGroup = Omicronpsilivaria;
 rightKerningGroup = Omega;
 unicode = 1FAA;
 },
@@ -54334,18 +54337,18 @@ name = Omega;
 },
 {
 name = dasiavaria.case;
-transform = "{1, 0, 0, 1, -464, 0}";
+transform = "{1, 0, 0, 1, -458, 0}";
 },
 {
 name = prosgegrammeni;
-transform = "{1, 0, 0, 1, 107, 0}";
+transform = "{1, 0, 0, 1, 111, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
-leftKerningGroup = Omegapsilivaria;
+leftKerningGroup = Omicronpsilivaria;
 rightKerningGroup = Omega;
 unicode = 1FAB;
 },
@@ -54394,18 +54397,18 @@ name = Omega;
 },
 {
 name = psilioxia.case;
-transform = "{1, 0, 0, 1, -464, 0}";
+transform = "{1, 0, 0, 1, -451, 0}";
 },
 {
 name = prosgegrammeni;
-transform = "{1, 0, 0, 1, 107, 0}";
+transform = "{1, 0, 0, 1, 111, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
-leftKerningGroup = Omegapsilivaria;
+leftKerningGroup = Omicronpsilivaria;
 rightKerningGroup = Omega;
 unicode = 1FAC;
 },
@@ -54454,18 +54457,18 @@ name = Omega;
 },
 {
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -465, 0}";
+transform = "{1, 0, 0, 1, -455, 0}";
 },
 {
 name = prosgegrammeni;
-transform = "{1, 0, 0, 1, 107, 0}";
+transform = "{1, 0, 0, 1, 111, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
-leftKerningGroup = Omegapsilivaria;
+leftKerningGroup = Omicronpsilivaria;
 rightKerningGroup = Omega;
 unicode = 1FAD;
 },
@@ -54514,15 +54517,15 @@ name = Omega;
 },
 {
 name = psiliperispomeni.case;
-transform = "{1, 0, 0, 1, -421, -213}";
+transform = "{1, 0, 0, 1, -415, -213}";
 },
 {
 name = prosgegrammeni;
-transform = "{1, 0, 0, 1, 107, 0}";
+transform = "{1, 0, 0, 1, 111, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
 leftKerningGroup = Omegapsiliperispomeni;
@@ -54574,15 +54577,15 @@ name = Omega;
 },
 {
 name = dasiaperispomeni.case;
-transform = "{1, 0, 0, 1, -421, -213}";
+transform = "{1, 0, 0, 1, -415, -213}";
 },
 {
 name = prosgegrammeni;
-transform = "{1, 0, 0, 1, 107, 0}";
+transform = "{1, 0, 0, 1, 111, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 745;
+width = 753;
 }
 );
 leftKerningGroup = Omegapsiliperispomeni;
@@ -61950,7 +61953,7 @@ name = alpha;
 },
 {
 name = psilivaria;
-transform = "{1, 0, 0, 1, -19, 0}";
+transform = "{1, 0, 0, 1, -29, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -62046,7 +62049,7 @@ name = alpha;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, -21, 0}";
+transform = "{1, 0, 0, 1, -19, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -62774,7 +62777,7 @@ name = alpha;
 },
 {
 name = psilivaria;
-transform = "{1, 0, 0, 1, -19, 0}";
+transform = "{1, 0, 0, 1, -29, 0}";
 },
 {
 name = ypogegrammeni;
@@ -62894,7 +62897,7 @@ name = alpha;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, -21, 0}";
+transform = "{1, 0, 0, 1, -19, 0}";
 },
 {
 name = ypogegrammeni;
@@ -63282,7 +63285,7 @@ name = epsilon;
 },
 {
 name = psilivaria;
-transform = "{1, 0, 0, 1, -34, 0}";
+transform = "{1, 0, 0, 1, -44, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -63378,7 +63381,7 @@ name = epsilon;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, -36, 0}";
+transform = "{1, 0, 0, 1, -34, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -63662,7 +63665,7 @@ name = eta;
 },
 {
 name = psilivaria;
-transform = "{1, 0, 0, 1, 17, 0}";
+transform = "{1, 0, 0, 1, 7, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -63754,7 +63757,7 @@ name = eta;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 15, 0}";
+transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -64362,7 +64365,7 @@ name = eta;
 },
 {
 name = psilivaria;
-transform = "{1, 0, 0, 1, 17, 0}";
+transform = "{1, 0, 0, 1, 7, 0}";
 },
 {
 name = ypogegrammeni;
@@ -64478,7 +64481,7 @@ name = eta;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 15, 0}";
+transform = "{1, 0, 0, 1, 17, 0}";
 },
 {
 name = ypogegrammeni;
@@ -64852,7 +64855,7 @@ name = iota;
 },
 {
 name = psilivaria;
-transform = "{1, 0, 0, 1, -149, 0}";
+transform = "{1, 0, 0, 1, -159, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -64952,7 +64955,7 @@ name = iota;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, -151, 0}";
+transform = "{1, 0, 0, 1, -149, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -65611,7 +65614,7 @@ name = omicron;
 },
 {
 name = psilivaria;
-transform = "{1, 0, 0, 1, -1, 0}";
+transform = "{1, 0, 0, 1, -11, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -65707,7 +65710,7 @@ name = omicron;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, -3, 0}";
+transform = "{1, 0, 0, 1, -1, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
@@ -65925,7 +65928,7 @@ transform = "{1, 0, 0, 1, 155, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 525;
+width = 528;
 },
 {
 components = (
@@ -65999,7 +66002,7 @@ transform = "{1, 0, 0, 1, 94, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66047,7 +66050,7 @@ transform = "{1, 0, 0, 1, 96, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66091,11 +66094,11 @@ name = upsilon;
 },
 {
 name = psilivaria;
-transform = "{1, 0, 0, 1, -11, 0}";
+transform = "{1, 0, 0, 1, -21, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66143,7 +66146,7 @@ transform = "{1, 0, 0, 1, -32, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66187,11 +66190,11 @@ name = upsilon;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, -13, 0}";
+transform = "{1, 0, 0, 1, -11, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66239,7 +66242,7 @@ transform = "{1, 0, 0, 1, -14, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66287,7 +66290,7 @@ transform = "{1, 0, 0, 1, 35, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66335,7 +66338,7 @@ transform = "{1, 0, 0, 1, 35, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66383,7 +66386,7 @@ transform = "{1, 0, 0, 1, 79, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66431,7 +66434,7 @@ transform = "{1, 0, 0, 1, 127, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66479,7 +66482,7 @@ transform = "{1, 0, 0, 1, 35, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66527,7 +66530,7 @@ transform = "{1, 0, 0, 1, 52, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66574,7 +66577,7 @@ transform = "{1, 0, 0, 1, 32, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66622,7 +66625,7 @@ transform = "{1, 0, 0, 1, -61, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66670,7 +66673,7 @@ transform = "{1, 0, 0, 1, -20, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66718,7 +66721,7 @@ transform = "{1, 0, 0, 1, 6, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 562;
+width = 564;
 }
 );
 leftKerningGroup = iota;
@@ -66762,11 +66765,11 @@ name = omega;
 },
 {
 name = psili;
-transform = "{1, 0, 0, 1, 191, 0}";
+transform = "{1, 0, 0, 1, 193, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -66810,11 +66813,11 @@ name = omega;
 },
 {
 name = dasia;
-transform = "{1, 0, 0, 1, 193, 0}";
+transform = "{1, 0, 0, 1, 195, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -66858,11 +66861,11 @@ name = omega;
 },
 {
 name = psilivaria;
-transform = "{1, 0, 0, 1, 86, 0}";
+transform = "{1, 0, 0, 1, 78, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -66906,11 +66909,11 @@ name = omega;
 },
 {
 name = dasiavaria;
-transform = "{1, 0, 0, 1, 65, 0}";
+transform = "{1, 0, 0, 1, 67, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -66954,11 +66957,11 @@ name = omega;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 84, 0}";
+transform = "{1, 0, 0, 1, 88, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67002,11 +67005,11 @@ name = omega;
 },
 {
 name = dasiaoxia;
-transform = "{1, 0, 0, 1, 83, 0}";
+transform = "{1, 0, 0, 1, 85, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67050,11 +67053,11 @@ name = omega;
 },
 {
 name = psiliperispomeni;
-transform = "{1, 0, 0, 1, 132, 0}";
+transform = "{1, 0, 0, 1, 134, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67098,11 +67101,11 @@ name = omega;
 },
 {
 name = dasiaperispomeni;
-transform = "{1, 0, 0, 1, 132, 0}";
+transform = "{1, 0, 0, 1, 134, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67146,11 +67149,11 @@ name = omega;
 },
 {
 name = varia;
-transform = "{1, 0, 0, 1, 176, 0}";
+transform = "{1, 0, 0, 1, 178, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67194,11 +67197,11 @@ name = omega;
 },
 {
 name = oxia;
-transform = "{1, 0, 0, 1, 224, 0}";
+transform = "{1, 0, 0, 1, 226, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67242,11 +67245,11 @@ name = omega;
 },
 {
 name = perispomeni;
-transform = "{1, 0, 0, 1, 132, 0}";
+transform = "{1, 0, 0, 1, 134, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67290,11 +67293,11 @@ name = omega;
 },
 {
 name = ypogegrammeni;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 105, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67346,15 +67349,15 @@ name = omega;
 },
 {
 name = varia;
-transform = "{1, 0, 0, 1, 176, 0}";
+transform = "{1, 0, 0, 1, 178, 0}";
 },
 {
 name = ypogegrammeni;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 105, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67406,15 +67409,15 @@ name = omega;
 },
 {
 name = oxia;
-transform = "{1, 0, 0, 1, 224, 0}";
+transform = "{1, 0, 0, 1, 226, 0}";
 },
 {
 name = ypogegrammeni;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 105, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67466,15 +67469,15 @@ name = omega;
 },
 {
 name = psili;
-transform = "{1, 0, 0, 1, 191, 0}";
+transform = "{1, 0, 0, 1, 193, 0}";
 },
 {
 name = ypogegrammeni;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 105, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67526,15 +67529,15 @@ name = omega;
 },
 {
 name = dasia;
-transform = "{1, 0, 0, 1, 193, 0}";
+transform = "{1, 0, 0, 1, 195, 0}";
 },
 {
 name = ypogegrammeni;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 105, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67586,15 +67589,15 @@ name = omega;
 },
 {
 name = psilivaria;
-transform = "{1, 0, 0, 1, 86, 0}";
+transform = "{1, 0, 0, 1, 78, 0}";
 },
 {
 name = ypogegrammeni;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 105, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67646,15 +67649,15 @@ name = omega;
 },
 {
 name = dasiavaria;
-transform = "{1, 0, 0, 1, 65, 0}";
+transform = "{1, 0, 0, 1, 67, 0}";
 },
 {
 name = ypogegrammeni;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 105, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67706,15 +67709,15 @@ name = omega;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 84, 0}";
+transform = "{1, 0, 0, 1, 88, 0}";
 },
 {
 name = ypogegrammeni;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 105, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67766,15 +67769,15 @@ name = omega;
 },
 {
 name = dasiaoxia;
-transform = "{1, 0, 0, 1, 83, 0}";
+transform = "{1, 0, 0, 1, 85, 0}";
 },
 {
 name = ypogegrammeni;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 105, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67826,15 +67829,15 @@ name = omega;
 },
 {
 name = psiliperispomeni;
-transform = "{1, 0, 0, 1, 132, 0}";
+transform = "{1, 0, 0, 1, 134, 0}";
 },
 {
 name = ypogegrammeni;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 105, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67886,15 +67889,15 @@ name = omega;
 },
 {
 name = dasiaperispomeni;
-transform = "{1, 0, 0, 1, 132, 0}";
+transform = "{1, 0, 0, 1, 134, 0}";
 },
 {
 name = ypogegrammeni;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 105, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -67946,15 +67949,15 @@ name = omega;
 },
 {
 name = perispomeni;
-transform = "{1, 0, 0, 1, 132, 0}";
+transform = "{1, 0, 0, 1, 134, 0}";
 },
 {
 name = ypogegrammeni;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 105, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 733;
+width = 737;
 }
 );
 leftKerningGroup = omicron;
@@ -102482,9 +102485,47 @@ width = 427;
 anchors = (
 {
 name = _top;
-position = "{279, 490}";
+position = "{289, 490}";
 }
 );
+background = {
+anchors = (
+{
+name = _top;
+position = "{294, 490}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"229 536 LINE",
+"248 575 OFFCURVE",
+"262 612 OFFCURVE",
+"262 650 CURVE SMOOTH",
+"262 711 OFFCURVE",
+"214 756 OFFCURVE",
+"113 772 CURVE",
+"75 654 LINE",
+"108 646 OFFCURVE",
+"131 627 OFFCURVE",
+"131 601 CURVE SMOOTH",
+"131 587 OFFCURVE",
+"129 575 OFFCURVE",
+"124 554 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"467 553 LINE",
+"453 759 LINE",
+"291 733 LINE",
+"358 538 LINE"
+);
+}
+);
+};
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 paths = (
 {
@@ -102509,14 +102550,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"452 553 LINE",
-"438 759 LINE",
-"276 733 LINE",
-"343 538 LINE"
+"467 553 LINE",
+"453 759 LINE",
+"291 733 LINE",
+"358 538 LINE"
 );
 }
 );
-width = 542;
+width = 557;
 }
 );
 leftMetricsKey = psili;
@@ -102659,10 +102700,6 @@ anchors = (
 {
 name = _topleft;
 position = "{235, 694}";
-},
-{
-name = top;
-position = "{235, 808}";
 }
 );
 components = (
@@ -102829,9 +102866,47 @@ width = 426;
 anchors = (
 {
 name = _top;
-position = "{281, 490}";
+position = "{279, 490}";
 }
 );
+background = {
+anchors = (
+{
+name = _top;
+position = "{278, 490}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"221 536 LINE",
+"240 575 OFFCURVE",
+"254 612 OFFCURVE",
+"254 650 CURVE SMOOTH",
+"254 711 OFFCURVE",
+"206 756 OFFCURVE",
+"105 772 CURVE",
+"67 654 LINE",
+"100 646 OFFCURVE",
+"123 627 OFFCURVE",
+"123 601 CURVE SMOOTH",
+"123 587 OFFCURVE",
+"121 575 OFFCURVE",
+"116 554 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"478 733 LINE",
+"316 759 LINE",
+"302 553 LINE",
+"411 538 LINE"
+);
+}
+);
+};
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 paths = (
 {
@@ -102856,14 +102931,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"481 733 LINE",
-"319 759 LINE",
-"305 553 LINE",
-"414 538 LINE"
+"478 733 LINE",
+"316 759 LINE",
+"302 553 LINE",
+"411 538 LINE"
 );
 }
 );
-width = 552;
+width = 549;
 }
 );
 leftMetricsKey = psili;
@@ -102878,10 +102953,6 @@ anchors = (
 {
 name = _topleft;
 position = "{259, 694}";
-},
-{
-name = top;
-position = "{259, 808}";
 }
 );
 components = (
@@ -102945,7 +103016,7 @@ width = 426;
 anchors = (
 {
 name = _topleft;
-position = "{424, 694}";
+position = "{417, 694}";
 }
 );
 components = (
@@ -102955,7 +103026,7 @@ transform = "{1, 0, 0, 1, 0, -59}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 552;
+width = 549;
 }
 );
 leftMetricsKey = psilioxia;
@@ -103160,7 +103231,7 @@ width = 398;
 anchors = (
 {
 name = _topleft;
-position = "{425, 694}";
+position = "{421, 694}";
 }
 );
 components = (
@@ -104082,10 +104153,6 @@ anchors = (
 {
 name = _topleft;
 position = "{240, 694}";
-},
-{
-name = top;
-position = "{240, 808}";
 }
 );
 components = (
@@ -104117,7 +104184,7 @@ width = 427;
 anchors = (
 {
 name = _topleft;
-position = "{401, 694}";
+position = "{416, 694}";
 }
 );
 components = (
@@ -104127,7 +104194,7 @@ transform = "{1, 0, 0, 1, 0, -59}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 542;
+width = 557;
 }
 );
 leftMetricsKey = psilivaria;
@@ -106176,6 +106243,270 @@ name = "Extra Bold_20180731";
 weightClass = ExtraBold;
 }
 );
+kerning = {
+"51C2DFEF-3776-4D13-9284-96485B799B57" = {
+"@MMK_L_Alpha" = {
+"@MMK_R_Alphapsiliperispomeni" = 100;
+"@MMK_R_Alphapsilivaria" = 90;
+"@MMK_R_Chi" = 0;
+"@MMK_R_Etapsiliperispomeni" = 225;
+"@MMK_R_Etapsilivaria" = 220;
+"@MMK_R_Etatonos" = 25;
+"@MMK_R_Omega" = 0;
+"@MMK_R_Omegapsiliperispomeni" = 260;
+"@MMK_R_Omegapsilivaria" = 0;
+"@MMK_R_Omicron" = -35;
+"@MMK_R_Omicronpsilivaria" = 230;
+"@MMK_R_Omicrontonos" = 40;
+"@MMK_R_Phi" = -50;
+"@MMK_R_Psi" = -75;
+"@MMK_R_Tau" = -85;
+"@MMK_R_Upsilon" = -70;
+"@MMK_R_Upsilondasiaperispomeni" = 295;
+"@MMK_R_Upsilondasiavaria" = 290;
+"@MMK_R_Upsilontonos" = 90;
+};
+"@MMK_L_Beta" = {
+"@MMK_R_Alpha" = -35;
+"@MMK_R_Alphapsiliperispomeni" = 195;
+"@MMK_R_Alphapsilivaria" = 185;
+"@MMK_R_Chi" = -40;
+"@MMK_R_Etapsiliperispomeni" = 325;
+"@MMK_R_Etapsilivaria" = 315;
+"@MMK_R_Etatonos" = 115;
+"@MMK_R_Omegapsiliperispomeni" = 355;
+"@MMK_R_Omicron" = -5;
+"@MMK_R_Omicronpsilivaria" = 330;
+"@MMK_R_Omicrontonos" = 130;
+"@MMK_R_Psi" = -30;
+"@MMK_R_Tau" = -35;
+"@MMK_R_Upsilon" = -65;
+"@MMK_R_Upsilondasiaperispomeni" = 400;
+"@MMK_R_Upsilondasiavaria" = 390;
+"@MMK_R_Upsilontonos" = 185;
+"@MMK_R_Xi" = -15;
+"@MMK_R_Zeta" = -15;
+};
+"@MMK_L_Chi" = {
+"@MMK_R_Alpha" = 0;
+"@MMK_R_Alphapsiliperispomeni" = 235;
+"@MMK_R_Alphapsilivaria" = 240;
+"@MMK_R_Alphatonos" = 30;
+"@MMK_R_Etapsiliperispomeni" = 355;
+"@MMK_R_Etapsilivaria" = 370;
+"@MMK_R_Etatonos" = 170;
+"@MMK_R_Omegapsiliperispomeni" = 380;
+"@MMK_R_Omicron" = -60;
+"@MMK_R_Omicronpsilivaria" = 375;
+"@MMK_R_Omicrontonos" = 165;
+"@MMK_R_Phi" = -70;
+"@MMK_R_Tau" = -10;
+"@MMK_R_Upsilondasiaperispomeni" = 425;
+"@MMK_R_Upsilondasiavaria" = 435;
+"@MMK_R_Upsilontonos" = 220;
+};
+"@MMK_L_Epsilon" = {
+"@MMK_R_Alphapsiliperispomeni" = 245;
+"@MMK_R_Alphapsilivaria" = 235;
+"@MMK_R_Alphatonos" = 30;
+"@MMK_R_Etapsiliperispomeni" = 365;
+"@MMK_R_Etapsilivaria" = 365;
+"@MMK_R_Etatonos" = 165;
+"@MMK_R_Omega" = 0;
+"@MMK_R_Omegapsiliperispomeni" = 390;
+"@MMK_R_Omicron" = -15;
+"@MMK_R_Omicronpsilivaria" = 360;
+"@MMK_R_Omicrontonos" = 155;
+"@MMK_R_Phi" = -15;
+"@MMK_R_Upsilondasiaperispomeni" = 435;
+"@MMK_R_Upsilondasiavaria" = 430;
+"@MMK_R_Upsilontonos" = 225;
+};
+"@MMK_L_Eta" = {
+"@MMK_R_Alphapsiliperispomeni" = 230;
+"@MMK_R_Alphapsilivaria" = 210;
+"@MMK_R_Alphatonos" = 10;
+"@MMK_R_Eta" = 0;
+"@MMK_R_Etapsiliperispomeni" = 345;
+"@MMK_R_Etapsilivaria" = 340;
+"@MMK_R_Etatonos" = 140;
+"@MMK_R_Omegapsiliperispomeni" = 380;
+"@MMK_R_Omicronpsilivaria" = 340;
+"@MMK_R_Omicrontonos" = 135;
+"@MMK_R_Upsilondasiaperispomeni" = 410;
+"@MMK_R_Upsilondasiavaria" = 410;
+"@MMK_R_Upsilontonos" = 210;
+Iotavrachy = 90;
+};
+"@MMK_L_Kappa" = {
+"@MMK_R_Omicron" = -55;
+};
+"@MMK_L_Omega" = {
+"@MMK_R_Alpha" = 0;
+"@MMK_R_Alphapsiliperispomeni" = 215;
+"@MMK_R_Alphapsilivaria" = 215;
+"@MMK_R_Alphatonos" = 10;
+"@MMK_R_Etapsiliperispomeni" = 340;
+"@MMK_R_Etapsilivaria" = 340;
+"@MMK_R_Etatonos" = 140;
+"@MMK_R_Omegapsiliperispomeni" = 375;
+"@MMK_R_Omicronpsilivaria" = 335;
+"@MMK_R_Omicrontonos" = 135;
+"@MMK_R_Tau" = -20;
+"@MMK_R_Upsilon" = -45;
+"@MMK_R_Upsilondasiaperispomeni" = 410;
+"@MMK_R_Upsilondasiavaria" = 410;
+"@MMK_R_Upsilontonos" = 210;
+"@MMK_R_Zeta" = 0;
+};
+"@MMK_L_Omicron" = {
+"@MMK_R_Alpha" = -35;
+"@MMK_R_Alphapsiliperispomeni" = 205;
+"@MMK_R_Alphapsilivaria" = 215;
+"@MMK_R_Chi" = -60;
+"@MMK_R_Etapsiliperispomeni" = 335;
+"@MMK_R_Etapsilivaria" = 335;
+"@MMK_R_Etatonos" = 135;
+"@MMK_R_Omegapsiliperispomeni" = 370;
+"@MMK_R_Omicronpsilivaria" = 330;
+"@MMK_R_Omicrontonos" = 130;
+"@MMK_R_Tau" = -25;
+"@MMK_R_Upsilon" = -45;
+"@MMK_R_Upsilondasiaperispomeni" = 405;
+"@MMK_R_Upsilondasiavaria" = 405;
+"@MMK_R_Upsilontonos" = 205;
+"@MMK_R_Xi" = -15;
+"@MMK_R_Zeta" = -30;
+};
+"@MMK_L_Phi" = {
+"@MMK_R_Alpha" = -50;
+"@MMK_R_Alphapsiliperispomeni" = 190;
+"@MMK_R_Alphapsilivaria" = 180;
+"@MMK_R_Alphatonos" = -20;
+"@MMK_R_Chi" = -70;
+"@MMK_R_Eta" = 0;
+"@MMK_R_Etapsiliperispomeni" = 300;
+"@MMK_R_Etapsilivaria" = 315;
+"@MMK_R_Etatonos" = 115;
+"@MMK_R_Omegapsiliperispomeni" = 320;
+"@MMK_R_Omicronpsilivaria" = 315;
+"@MMK_R_Omicrontonos" = 110;
+"@MMK_R_Tau" = -55;
+"@MMK_R_Upsilon" = -55;
+"@MMK_R_Upsilondasiaperispomeni" = 370;
+"@MMK_R_Upsilondasiavaria" = 380;
+"@MMK_R_Upsilontonos" = 180;
+"@MMK_R_Xi" = -15;
+"@MMK_R_Zeta" = -50;
+};
+"@MMK_L_Psi" = {
+"@MMK_R_Alpha" = -75;
+"@MMK_R_Alphapsiliperispomeni" = 270;
+"@MMK_R_Alphapsilivaria" = 270;
+"@MMK_R_Alphatonos" = 50;
+"@MMK_R_Etapsiliperispomeni" = 385;
+"@MMK_R_Etapsilivaria" = 380;
+"@MMK_R_Etatonos" = 180;
+"@MMK_R_Omegapsiliperispomeni" = 420;
+"@MMK_R_Omicronpsilivaria" = 380;
+"@MMK_R_Omicrontonos" = 175;
+"@MMK_R_Upsilondasiaperispomeni" = 450;
+"@MMK_R_Upsilondasiavaria" = 450;
+"@MMK_R_Upsilontonos" = 250;
+};
+"@MMK_L_Rho" = {
+"@MMK_R_Alpha" = -75;
+"@MMK_R_Alphapsiliperispomeni" = 240;
+"@MMK_R_Alphapsilivaria" = 225;
+"@MMK_R_Alphatonos" = 25;
+"@MMK_R_Chi" = -45;
+"@MMK_R_Etapsiliperispomeni" = 375;
+"@MMK_R_Etapsilivaria" = 360;
+"@MMK_R_Etatonos" = 160;
+"@MMK_R_Omegapsiliperispomeni" = 380;
+"@MMK_R_Omicronpsilivaria" = 360;
+"@MMK_R_Omicrontonos" = 160;
+"@MMK_R_Tau" = 0;
+"@MMK_R_Upsilon" = -25;
+"@MMK_R_Upsilondasiaperispomeni" = 440;
+"@MMK_R_Upsilondasiavaria" = 430;
+"@MMK_R_Upsilontonos" = 225;
+"@MMK_R_Xi" = -15;
+"@MMK_R_Zeta" = -25;
+};
+"@MMK_L_Tau" = {
+"@MMK_R_Alpha" = -85;
+"@MMK_R_Alphapsiliperispomeni" = 275;
+"@MMK_R_Alphapsilivaria" = 265;
+"@MMK_R_Alphatonos" = 60;
+"@MMK_R_Chi" = 0;
+"@MMK_R_Etapsiliperispomeni" = 415;
+"@MMK_R_Etapsilivaria" = 395;
+"@MMK_R_Etatonos" = 195;
+"@MMK_R_Omega" = -20;
+"@MMK_R_Omegapsiliperispomeni" = 410;
+"@MMK_R_Omicron" = -25;
+"@MMK_R_Omicronpsilivaria" = 400;
+"@MMK_R_Omicrontonos" = 190;
+"@MMK_R_Phi" = -55;
+"@MMK_R_Tau" = 15;
+"@MMK_R_Upsilon" = 25;
+"@MMK_R_Upsilondasiaperispomeni" = 470;
+"@MMK_R_Upsilondasiavaria" = 465;
+"@MMK_R_Upsilontonos" = 260;
+};
+"@MMK_L_Upsilon" = {
+"@MMK_R_Alpha" = -70;
+"@MMK_R_Alphapsiliperispomeni" = 250;
+"@MMK_R_Alphapsilivaria" = 255;
+"@MMK_R_Alphatonos" = 60;
+"@MMK_R_Etapsiliperispomeni" = 385;
+"@MMK_R_Etapsilivaria" = 385;
+"@MMK_R_Etatonos" = 180;
+"@MMK_R_Omega" = -45;
+"@MMK_R_Omegapsiliperispomeni" = 390;
+"@MMK_R_Omicron" = -45;
+"@MMK_R_Omicronpsilivaria" = 390;
+"@MMK_R_Omicrontonos" = 190;
+"@MMK_R_Phi" = -55;
+"@MMK_R_Tau" = 25;
+"@MMK_R_Upsilondasiaperispomeni" = 450;
+"@MMK_R_Upsilondasiavaria" = 455;
+"@MMK_R_Upsilontonos" = 255;
+};
+"@MMK_L_Zeta" = {
+"@MMK_R_Alphapsiliperispomeni" = 250;
+"@MMK_R_Alphapsilivaria" = 245;
+"@MMK_R_Alphatonos" = 40;
+"@MMK_R_Etapsiliperispomeni" = 375;
+"@MMK_R_Etapsilivaria" = 380;
+"@MMK_R_Etatonos" = 170;
+"@MMK_R_Omega" = 0;
+"@MMK_R_Omegapsiliperispomeni" = 395;
+"@MMK_R_Omicron" = -30;
+"@MMK_R_Omicronpsilivaria" = 370;
+"@MMK_R_Omicrontonos" = 165;
+"@MMK_R_Phi" = -50;
+"@MMK_R_Upsilondasiaperispomeni" = 445;
+"@MMK_R_Upsilondasiavaria" = 435;
+"@MMK_R_Upsilontonos" = 240;
+};
+Iotavrachy = {
+"@MMK_R_Eta" = 0;
+Iotamacron = 85;
+};
+greaterequal = {
+"@MMK_R_Omicronpsilivaria" = 0;
+"@MMK_R_Tau" = 0;
+};
+less = {
+"@MMK_R_Upsilontonos" = 0;
+};
+lessequal = {
+"@MMK_R_Omegapsiliperispomeni" = -5;
+};
+};
+};
 manufacturerURL = "http://abattis.org";
 unitsPerEm = 1000;
 userData = {
