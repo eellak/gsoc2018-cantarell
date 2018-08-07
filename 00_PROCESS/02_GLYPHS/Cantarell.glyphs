@@ -5,8 +5,8 @@ DisplayStrings = (
 "/alpha \012/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/mu/nu \012/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega \012abcdefghijklm\012npqrstuvwxyz\012\012/eta/eta/delta/eta/eta  /omicron/omicron/delta/omicron/omicron \012/eta/eta/upsilon/phi/eta/eta  /omicron/omicron/phi/omicron/omicron \012/eta/eta/psi/eta/eta  /omicron/omicron/psi/omicron/omicron \012/eta/eta/upsilon/eta/eta  /omicron/omicron/upsilon/omicron/omicron \012nncnn oocoo\012/pe-cy/pe-cy/ze-cy/pe-cy/pe-cy  /o-cy/o-cy/ze-cy/o-cy/o-cy \012\012",
 "\012d/alpha/epsilon/eta/iota o/upsilon/omega \012/tonos/alphatonos/epsilontonos/etatonos/iotatonos/omicrontonos/upsilontonos/omegatonos   /dieresistonos  /iotadieresistonos  /upsilondieresistonos  /iotadieresis  /upsilondieresis \012´/acutecomb áé/nacute íóú/wacute   /idieresisacute  /dieresiscomb.loclVIET/dieresiscomb_acutecomb/udieresisacute  ïü\012\012/Iota/Upsilon    /Alpha  /Epsilon  /Eta  /Iota  /Omicron  /Upsilon  /Omega \012/Iotadieresis/Upsilondieresis  /tonos.case  /Alphatonos  /Epsilontonos  /Etatonos  /Iotatonos  /Omicrontonos  /Upsilontonos  /Omegatonos \012",
 "/KaiSymbol/kaiSymbol",
-"/kappa/kaiSymbol",
-"/delta/sigmafinal/upsilon/phi/psi/omega"
+"/Gamma/Kappa/Tau/Upsilon/Chi \012\012/Gamma/epsilontonos/Kappa/epsilontonos/Tau/epsilontonos/Upsilon/epsilontonos/Chi/epsilontonos",
+"/Gamma/Kappa/Tau/Upsilon/Chi \012/alphatonos/alphapsili/alphadasia/alphapsilivaria/alphadasiavaria/alphapsilioxia/alphadasiaoxia/alphapsiliperispomeni/alphadasiaperispomeni/alphavaria/alphaoxia/alphaperispomeni/alphavrachy/alphamacron/alphaypogegrammeni/alphavariaypogegrammeni/alphaoxiaypogegrammeni/alphapsiliypogegrammeni/alphadasiaypogegrammeni/alphapsilivariaypogegrammeni/alphadasiavariaypogegrammeni/alphapsilioxiaypogegrammeni/alphadasiaoxiaypogegrammeni/alphapsiliperispomeniypogegrammeni/alphadasiaperispomeniypogegrammeni/alphaperispomeniypogegrammeni"
 );
 classes = (
 {
@@ -49580,7 +49580,7 @@ transform = "{1, 0, 0, 1, -129, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -53612,7 +53612,7 @@ transform = "{1, 0, 0, 1, -128, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -53660,7 +53660,7 @@ transform = "{1, 0, 0, 1, -105, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -53708,7 +53708,7 @@ transform = "{1, 0, 0, 1, -281, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -53756,7 +53756,7 @@ transform = "{1, 0, 0, 1, -252, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -53804,7 +53804,7 @@ transform = "{1, 0, 0, 1, -298, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -53852,7 +53852,7 @@ transform = "{1, 0, 0, 1, -271, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -53900,7 +53900,7 @@ transform = "{1, 0, 0, 1, -319, -156}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -53948,7 +53948,7 @@ transform = "{1, 0, 0, 1, -334, -156}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -53996,7 +53996,7 @@ transform = "{1, 0, 0, 1, -111, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -54044,7 +54044,7 @@ transform = "{1, 0, 0, 1, -129, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -54092,7 +54092,7 @@ transform = "{1, 0, 0, 1, 162, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -54148,7 +54148,7 @@ transform = "{1, 0, 0, 1, 162, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -54208,7 +54208,7 @@ transform = "{1, 0, 0, 1, 162, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -54268,7 +54268,7 @@ transform = "{1, 0, 0, 1, 162, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -54328,7 +54328,7 @@ transform = "{1, 0, 0, 1, 162, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -54388,7 +54388,7 @@ transform = "{1, 0, 0, 1, 162, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -54448,7 +54448,7 @@ transform = "{1, 0, 0, 1, 162, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -54508,7 +54508,7 @@ transform = "{1, 0, 0, 1, 162, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -54568,7 +54568,7 @@ transform = "{1, 0, 0, 1, 162, 0}";
 }
 );
 layerId = "F333AEC5-BB61-4D5E-9EDD-6124322D28F2";
-width = 793;
+width = 796;
 },
 {
 components = (
@@ -54612,7 +54612,7 @@ width = 600;
 unicode = 03CF;
 },
 {
-color = 5;
+color = 4;
 glyphname = alpha;
 layers = (
 {
@@ -55008,7 +55008,7 @@ rightMetricsKey = "=l-5";
 unicode = 03B1;
 },
 {
-color = 4;
+color = 5;
 glyphname = beta;
 layers = (
 {
@@ -55343,7 +55343,7 @@ rightMetricsKey = "=germandbls";
 unicode = 03B2;
 },
 {
-color = 4;
+color = 5;
 glyphname = gamma;
 layers = (
 {
@@ -55552,7 +55552,7 @@ rightMetricsKey = "=nu";
 unicode = 03B3;
 },
 {
-color = 4;
+color = 5;
 glyphname = delta;
 layers = (
 {
@@ -56234,7 +56234,7 @@ nodes = (
 width = 472;
 }
 );
-leftKerningGroup = omicron;
+leftKerningGroup = epsilon;
 leftMetricsKey = "=o-5";
 rightKerningGroup = epsilon;
 rightMetricsKey = "=e-25";
@@ -56662,12 +56662,14 @@ nodes = (
 width = 579;
 }
 );
+leftKerningGroup = eta;
 leftMetricsKey = "=n";
+rightKerningGroup = eta;
 rightMetricsKey = "=n";
 unicode = 03B7;
 },
 {
-color = 4;
+color = 5;
 glyphname = theta;
 layers = (
 {
@@ -57922,8 +57924,8 @@ nodes = (
 width = 616;
 }
 );
-leftKerningGroup = mu;
-leftMetricsKey = "=p";
+leftKerningGroup = eta;
+leftMetricsKey = "=n";
 rightKerningGroup = iota;
 rightMetricsKey = "=l-5";
 unicode = 03BC;
@@ -58725,7 +58727,7 @@ rightMetricsKey = "=o";
 unicode = 03BF;
 },
 {
-color = 4;
+color = 5;
 glyphname = pi;
 layers = (
 {
@@ -59872,7 +59874,7 @@ rightMetricsKey = "=te-cy+5";
 unicode = 03C4;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilon;
 layers = (
 {
@@ -60105,7 +60107,7 @@ rightMetricsKey = "=omega-5";
 unicode = 03C5;
 },
 {
-color = 4;
+color = 5;
 glyphname = phi;
 layers = (
 {
@@ -60639,7 +60641,7 @@ rightMetricsKey = "=x-5";
 unicode = 03C7;
 },
 {
-color = 4;
+color = 5;
 glyphname = psi;
 layers = (
 {
@@ -60938,7 +60940,7 @@ rightMetricsKey = "=upsilon";
 unicode = 03C8;
 },
 {
-color = 4;
+color = 5;
 glyphname = omega;
 layers = (
 {
@@ -61297,7 +61299,7 @@ rightMetricsKey = "=o+5";
 unicode = 03C9;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotatonos;
 layers = (
 {
@@ -61340,10 +61342,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 03AF;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotadieresis;
 layers = (
 {
@@ -61386,10 +61390,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 03CA;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotadieresistonos;
 layers = (
 {
@@ -61432,10 +61438,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 0390;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilontonos;
 layers = (
 {
@@ -61485,7 +61493,7 @@ rightMetricsKey = upsilon;
 unicode = 03CD;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilondieresis;
 layers = (
 {
@@ -61533,7 +61541,7 @@ rightKerningGroup = omicron;
 unicode = 03CB;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilondieresistonos;
 layers = (
 {
@@ -61581,7 +61589,7 @@ rightKerningGroup = omicron;
 unicode = 03B0;
 },
 {
-color = 4;
+color = 5;
 glyphname = omicrontonos;
 layers = (
 {
@@ -61629,7 +61637,7 @@ rightKerningGroup = omicron;
 unicode = 03CC;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegatonos;
 layers = (
 {
@@ -61725,7 +61733,7 @@ rightKerningGroup = alpha;
 unicode = 03AC;
 },
 {
-color = 4;
+color = 5;
 glyphname = epsilontonos;
 layers = (
 {
@@ -61768,12 +61776,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 472;
 }
 );
-leftKerningGroup = omicron;
+leftKerningGroup = epsilon;
 rightKerningGroup = epsilon;
 unicode = 03AD;
 },
 {
-color = 4;
+color = 5;
 glyphname = etatonos;
 layers = (
 {
@@ -63153,7 +63161,7 @@ rightKerningGroup = alpha;
 unicode = 1FB7;
 },
 {
-color = 4;
+color = 5;
 glyphname = epsilonpsili;
 layers = (
 {
@@ -63196,12 +63204,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 472;
 }
 );
-leftKerningGroup = omicron;
+leftKerningGroup = epsilon;
 rightKerningGroup = epsilon;
 unicode = 1F10;
 },
 {
-color = 4;
+color = 5;
 glyphname = epsilondasia;
 layers = (
 {
@@ -63244,12 +63252,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 472;
 }
 );
-leftKerningGroup = omicron;
+leftKerningGroup = epsilon;
 rightKerningGroup = epsilon;
 unicode = 1F11;
 },
 {
-color = 4;
+color = 5;
 glyphname = epsilonpsilivaria;
 layers = (
 {
@@ -63292,12 +63300,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 472;
 }
 );
-leftKerningGroup = omicron;
+leftKerningGroup = epsilon;
 rightKerningGroup = epsilon;
 unicode = 1F12;
 },
 {
-color = 4;
+color = 5;
 glyphname = epsilondasiavaria;
 layers = (
 {
@@ -63340,12 +63348,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 472;
 }
 );
-leftKerningGroup = omicron;
+leftKerningGroup = epsilon;
 rightKerningGroup = epsilon;
 unicode = 1F13;
 },
 {
-color = 4;
+color = 5;
 glyphname = epsilonpsilioxia;
 layers = (
 {
@@ -63388,12 +63396,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 472;
 }
 );
-leftKerningGroup = omicron;
+leftKerningGroup = epsilon;
 rightKerningGroup = epsilon;
 unicode = 1F14;
 },
 {
-color = 4;
+color = 5;
 glyphname = epsilondasiaoxia;
 layers = (
 {
@@ -63436,12 +63444,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 472;
 }
 );
-leftKerningGroup = omicron;
+leftKerningGroup = epsilon;
 rightKerningGroup = epsilon;
 unicode = 1F15;
 },
 {
-color = 4;
+color = 5;
 glyphname = epsilonvaria;
 layers = (
 {
@@ -63484,12 +63492,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 472;
 }
 );
-leftKerningGroup = omicron;
+leftKerningGroup = epsilon;
 rightKerningGroup = epsilon;
 unicode = 1F72;
 },
 {
-color = 4;
+color = 5;
 glyphname = epsilonoxia;
 layers = (
 {
@@ -63532,12 +63540,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 472;
 }
 );
-leftKerningGroup = omicron;
+leftKerningGroup = epsilon;
 rightKerningGroup = epsilon;
 unicode = 1F73;
 },
 {
-color = 4;
+color = 5;
 glyphname = etapsili;
 layers = (
 {
@@ -63580,10 +63588,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F20;
 },
 {
-color = 4;
+color = 5;
 glyphname = etadasia;
 layers = (
 {
@@ -63626,10 +63636,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F21;
 },
 {
-color = 4;
+color = 5;
 glyphname = etapsilivaria;
 layers = (
 {
@@ -63672,10 +63684,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F22;
 },
 {
-color = 4;
+color = 5;
 glyphname = etadasiavaria;
 layers = (
 {
@@ -63718,10 +63732,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F23;
 },
 {
-color = 4;
+color = 5;
 glyphname = etapsilioxia;
 layers = (
 {
@@ -63764,10 +63780,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F24;
 },
 {
-color = 4;
+color = 5;
 glyphname = etadasiaoxia;
 layers = (
 {
@@ -63810,10 +63828,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F25;
 },
 {
-color = 4;
+color = 5;
 glyphname = etapsiliperispomeni;
 layers = (
 {
@@ -63856,10 +63876,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F26;
 },
 {
-color = 4;
+color = 5;
 glyphname = etadasiaperispomeni;
 layers = (
 {
@@ -63902,10 +63924,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F27;
 },
 {
-color = 4;
+color = 5;
 glyphname = etavaria;
 layers = (
 {
@@ -63948,10 +63972,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F74;
 },
 {
-color = 4;
+color = 5;
 glyphname = etaoxia;
 layers = (
 {
@@ -63994,10 +64020,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F75;
 },
 {
-color = 4;
+color = 5;
 glyphname = etaperispomeni;
 layers = (
 {
@@ -64040,10 +64068,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1FC6;
 },
 {
-color = 4;
+color = 5;
 glyphname = etaypogegrammeni;
 layers = (
 {
@@ -64086,10 +64116,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1FC3;
 },
 {
-color = 4;
+color = 5;
 glyphname = etavariaypogegrammeni;
 layers = (
 {
@@ -64144,10 +64176,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1FC2;
 },
 {
-color = 4;
+color = 5;
 glyphname = etaoxiaypogegrammeni;
 layers = (
 {
@@ -64202,10 +64236,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1FC4;
 },
 {
-color = 4;
+color = 5;
 glyphname = etapsiliypogegrammeni;
 layers = (
 {
@@ -64260,10 +64296,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F90;
 },
 {
-color = 4;
+color = 5;
 glyphname = etadasiaypogegrammeni;
 layers = (
 {
@@ -64318,10 +64356,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F91;
 },
 {
-color = 4;
+color = 5;
 glyphname = etapsilivariaypogegrammeni;
 layers = (
 {
@@ -64376,10 +64416,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F92;
 },
 {
-color = 4;
+color = 5;
 glyphname = etadasiavariaypogegrammeni;
 layers = (
 {
@@ -64434,10 +64476,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F93;
 },
 {
-color = 4;
+color = 5;
 glyphname = etapsilioxiaypogegrammeni;
 layers = (
 {
@@ -64492,10 +64536,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F94;
 },
 {
-color = 4;
+color = 5;
 glyphname = etadasiaoxiaypogegrammeni;
 layers = (
 {
@@ -64550,10 +64596,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F95;
 },
 {
-color = 4;
+color = 5;
 glyphname = etapsiliperispomeniypogegrammeni;
 layers = (
 {
@@ -64608,10 +64656,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F96;
 },
 {
-color = 4;
+color = 5;
 glyphname = etadasiaperispomeniypogegrammeni;
 layers = (
 {
@@ -64666,10 +64716,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1F97;
 },
 {
-color = 4;
+color = 5;
 glyphname = etaperispomeniypogegrammeni;
 layers = (
 {
@@ -64724,10 +64776,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 579;
 }
 );
+leftKerningGroup = eta;
+rightKerningGroup = eta;
 unicode = 1FC7;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotapsili;
 layers = (
 {
@@ -64770,10 +64824,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1F30;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotadasia;
 layers = (
 {
@@ -64816,10 +64872,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1F31;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotapsilivaria;
 layers = (
 {
@@ -64862,10 +64920,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1F32;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotadasiavaria;
 layers = (
 {
@@ -64908,10 +64968,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1F33;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotapsilioxia;
 layers = (
 {
@@ -64962,10 +65024,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1F34;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotadasiaoxia;
 layers = (
 {
@@ -65019,10 +65083,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1F35;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotapsiliperispomeni;
 layers = (
 {
@@ -65065,10 +65131,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1F36;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotadasiaperispomeni;
 layers = (
 {
@@ -65111,10 +65179,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1F37;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotavaria;
 layers = (
 {
@@ -65157,10 +65227,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1F76;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotaoxia;
 layers = (
 {
@@ -65203,10 +65275,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1F77;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotaperispomeni;
 layers = (
 {
@@ -65249,10 +65323,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1FD6;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotavrachy;
 layers = (
 {
@@ -65295,10 +65371,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1FD0;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotamacron;
 layers = (
 {
@@ -65341,10 +65419,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1FD1;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotadialytikavaria;
 layers = (
 {
@@ -65387,10 +65467,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1FD2;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotadialytikaoxia;
 layers = (
 {
@@ -65433,10 +65515,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1FD3;
 },
 {
-color = 4;
+color = 5;
 glyphname = iotadialytikaperispomeni;
 layers = (
 {
@@ -65479,10 +65563,12 @@ layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
 width = 313;
 }
 );
+leftKerningGroup = iota;
+rightKerningGroup = iota;
 unicode = 1FD7;
 },
 {
-color = 4;
+color = 5;
 glyphname = omicronpsili;
 layers = (
 {
@@ -65530,7 +65616,7 @@ rightKerningGroup = omicron;
 unicode = 1F40;
 },
 {
-color = 4;
+color = 5;
 glyphname = omicrondasia;
 layers = (
 {
@@ -65578,7 +65664,7 @@ rightKerningGroup = omicron;
 unicode = 1F41;
 },
 {
-color = 4;
+color = 5;
 glyphname = omicronpsilivaria;
 layers = (
 {
@@ -65626,7 +65712,7 @@ rightKerningGroup = omicron;
 unicode = 1F42;
 },
 {
-color = 4;
+color = 5;
 glyphname = omicrondasiavaria;
 layers = (
 {
@@ -65674,7 +65760,7 @@ rightKerningGroup = omicron;
 unicode = 1F43;
 },
 {
-color = 4;
+color = 5;
 glyphname = omicronpsilioxia;
 layers = (
 {
@@ -65722,7 +65808,7 @@ rightKerningGroup = omicron;
 unicode = 1F44;
 },
 {
-color = 4;
+color = 5;
 glyphname = omicrondasiaoxia;
 layers = (
 {
@@ -65770,7 +65856,7 @@ rightKerningGroup = omicron;
 unicode = 1F45;
 },
 {
-color = 4;
+color = 5;
 glyphname = omicronvaria;
 layers = (
 {
@@ -65818,7 +65904,7 @@ rightKerningGroup = omicron;
 unicode = 1F78;
 },
 {
-color = 4;
+color = 5;
 glyphname = omicronoxia;
 layers = (
 {
@@ -65866,7 +65952,7 @@ rightKerningGroup = omicron;
 unicode = 1F79;
 },
 {
-color = 4;
+color = 5;
 glyphname = rhopsili;
 layers = (
 {
@@ -65914,7 +66000,7 @@ rightKerningGroup = omicron;
 unicode = 1FE4;
 },
 {
-color = 4;
+color = 5;
 glyphname = rhodasia;
 layers = (
 {
@@ -65962,7 +66048,7 @@ rightKerningGroup = omicron;
 unicode = 1FE5;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilonpsili;
 layers = (
 {
@@ -66010,7 +66096,7 @@ rightKerningGroup = omicron;
 unicode = 1F50;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilondasia;
 layers = (
 {
@@ -66058,7 +66144,7 @@ rightKerningGroup = omicron;
 unicode = 1F51;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilonpsilivaria;
 layers = (
 {
@@ -66106,7 +66192,7 @@ rightKerningGroup = omicron;
 unicode = 1F52;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilondasiavaria;
 layers = (
 {
@@ -66154,7 +66240,7 @@ rightKerningGroup = omicron;
 unicode = 1F53;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilonpsilioxia;
 layers = (
 {
@@ -66202,7 +66288,7 @@ rightKerningGroup = omicron;
 unicode = 1F54;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilondasiaoxia;
 layers = (
 {
@@ -66250,7 +66336,7 @@ rightKerningGroup = omicron;
 unicode = 1F55;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilonpsiliperispomeni;
 layers = (
 {
@@ -66298,7 +66384,7 @@ rightKerningGroup = omicron;
 unicode = 1F56;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilondasiaperispomeni;
 layers = (
 {
@@ -66346,7 +66432,7 @@ rightKerningGroup = omicron;
 unicode = 1F57;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilonvaria;
 layers = (
 {
@@ -66394,7 +66480,7 @@ rightKerningGroup = omicron;
 unicode = 1F7A;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilonoxia;
 layers = (
 {
@@ -66442,7 +66528,7 @@ rightKerningGroup = omicron;
 unicode = 1F7B;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilonperispomeni;
 layers = (
 {
@@ -66490,7 +66576,7 @@ rightKerningGroup = omicron;
 unicode = 1FE6;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilonvrachy;
 layers = (
 {
@@ -66538,7 +66624,7 @@ rightKerningGroup = omicron;
 unicode = 1FE0;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilonmacron;
 layers = (
 {
@@ -66585,7 +66671,7 @@ rightKerningGroup = omicron;
 unicode = 1FE1;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilondialytikavaria;
 layers = (
 {
@@ -66633,7 +66719,7 @@ rightKerningGroup = omicron;
 unicode = 1FE2;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilondialytikaoxia;
 layers = (
 {
@@ -66681,7 +66767,7 @@ rightKerningGroup = omicron;
 unicode = 1FE3;
 },
 {
-color = 4;
+color = 5;
 glyphname = upsilondialytikaperispomeni;
 layers = (
 {
@@ -66729,7 +66815,7 @@ rightKerningGroup = omicron;
 unicode = 1FE7;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegapsili;
 layers = (
 {
@@ -66777,7 +66863,7 @@ rightKerningGroup = omicron;
 unicode = 1F60;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegadasia;
 layers = (
 {
@@ -66825,7 +66911,7 @@ rightKerningGroup = omicron;
 unicode = 1F61;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegapsilivaria;
 layers = (
 {
@@ -66873,7 +66959,7 @@ rightKerningGroup = omicron;
 unicode = 1F62;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegadasiavaria;
 layers = (
 {
@@ -66921,7 +67007,7 @@ rightKerningGroup = omicron;
 unicode = 1F63;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegapsilioxia;
 layers = (
 {
@@ -66969,7 +67055,7 @@ rightKerningGroup = omicron;
 unicode = 1F64;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegadasiaoxia;
 layers = (
 {
@@ -67017,7 +67103,7 @@ rightKerningGroup = omicron;
 unicode = 1F65;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegapsiliperispomeni;
 layers = (
 {
@@ -67065,7 +67151,7 @@ rightKerningGroup = omicron;
 unicode = 1F66;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegadasiaperispomeni;
 layers = (
 {
@@ -67113,7 +67199,7 @@ rightKerningGroup = omicron;
 unicode = 1F67;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegavaria;
 layers = (
 {
@@ -67161,7 +67247,7 @@ rightKerningGroup = omicron;
 unicode = 1F7C;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegaoxia;
 layers = (
 {
@@ -67209,7 +67295,7 @@ rightKerningGroup = omicron;
 unicode = 1F7D;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegaperispomeni;
 layers = (
 {
@@ -67257,7 +67343,7 @@ rightKerningGroup = omicron;
 unicode = 1FF6;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegaypogegrammeni;
 layers = (
 {
@@ -67305,7 +67391,7 @@ rightKerningGroup = omicron;
 unicode = 1FF3;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegavariaypogegrammeni;
 layers = (
 {
@@ -67365,7 +67451,7 @@ rightKerningGroup = omicron;
 unicode = 1FF2;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegaoxiaypogegrammeni;
 layers = (
 {
@@ -67425,7 +67511,7 @@ rightKerningGroup = omicron;
 unicode = 1FF4;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegapsiliypogegrammeni;
 layers = (
 {
@@ -67485,7 +67571,7 @@ rightKerningGroup = omicron;
 unicode = 1FA0;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegadasiaypogegrammeni;
 layers = (
 {
@@ -67545,7 +67631,7 @@ rightKerningGroup = omicron;
 unicode = 1FA1;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegapsilivariaypogegrammeni;
 layers = (
 {
@@ -67605,7 +67691,7 @@ rightKerningGroup = omicron;
 unicode = 1FA2;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegadasiavariaypogegrammeni;
 layers = (
 {
@@ -67665,7 +67751,7 @@ rightKerningGroup = omicron;
 unicode = 1FA3;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegapsilioxiaypogegrammeni;
 layers = (
 {
@@ -67725,7 +67811,7 @@ rightKerningGroup = omicron;
 unicode = 1FA4;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegadasiaoxiaypogegrammeni;
 layers = (
 {
@@ -67785,7 +67871,7 @@ rightKerningGroup = omicron;
 unicode = 1FA5;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegapsiliperispomeniypogegrammeni;
 layers = (
 {
@@ -67845,7 +67931,7 @@ rightKerningGroup = omicron;
 unicode = 1FA6;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegadasiaperispomeniypogegrammeni;
 layers = (
 {
@@ -67905,7 +67991,7 @@ rightKerningGroup = omicron;
 unicode = 1FA7;
 },
 {
-color = 4;
+color = 5;
 glyphname = omegaperispomeniypogegrammeni;
 layers = (
 {
@@ -68073,7 +68159,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 578;
 }
 );
 unicode = 03D7;
@@ -106557,6 +106643,16 @@ kerning = {
 "@MMK_R_Upsilondasiaperispomeni" = 295;
 "@MMK_R_Upsilondasiavaria" = 290;
 "@MMK_R_Upsilontonos" = 90;
+"@MMK_R_chi" = -40;
+"@MMK_R_epsilon" = 0;
+"@MMK_R_iota" = -15;
+"@MMK_R_lambda" = -20;
+"@MMK_R_nu" = -45;
+"@MMK_R_omicron" = -20;
+"@MMK_R_pi" = -35;
+"@MMK_R_tau" = -55;
+psi = -40;
+upsilon = -30;
 };
 "@MMK_L_Beta" = {
 "@MMK_R_Alpha" = -35;
@@ -106578,6 +106674,10 @@ kerning = {
 "@MMK_R_Upsilontonos" = 185;
 "@MMK_R_Xi" = -15;
 "@MMK_R_Zeta" = -15;
+"@MMK_R_chi" = -30;
+"@MMK_R_lambda" = -25;
+"@MMK_R_pi" = -10;
+"@MMK_R_tau" = -20;
 };
 "@MMK_L_Chi" = {
 "@MMK_R_Alpha" = 0;
@@ -106596,6 +106696,43 @@ kerning = {
 "@MMK_R_Upsilondasiaperispomeni" = 425;
 "@MMK_R_Upsilondasiavaria" = 435;
 "@MMK_R_Upsilontonos" = 220;
+"@MMK_R_chi" = -65;
+"@MMK_R_epsilon" = -10;
+"@MMK_R_iota" = -30;
+"@MMK_R_lambda" = -15;
+"@MMK_R_nu" = -50;
+"@MMK_R_omicron" = -40;
+"@MMK_R_pi" = -40;
+"@MMK_R_rho" = -15;
+"@MMK_R_tau" = -60;
+psi = -45;
+theta = -40;
+upsilon = -45;
+xi = -15;
+zeta = -15;
+upsilondialytikaoxia = 0;
+upsilondialytikaperispomeni = 0;
+upsilondialytikavaria = 35;
+upsilondieresis = 0;
+upsilondieresistonos = 0;
+iotadialytikaperispomeni = 105;
+iotadialytikaoxia = 120;
+iotadialytikavaria = 165;
+iotamacron = 50;
+iotavrachy = 60;
+iotaperispomeni = 50;
+iotavaria = 0;
+iotadasiaperispomeni = 0;
+iotapsiliperispomeni = 0;
+iotadasiaoxia = 70;
+iotapsilioxia = 80;
+iotadasiavaria = 90;
+iotapsilivaria = 90;
+iotadasia = 0;
+iotapsili = 0;
+iotadieresistonos = 120;
+iotadieresis = 105;
+iotatonos = -30;
 };
 "@MMK_L_Epsilon" = {
 "@MMK_R_Alphapsiliperispomeni" = 245;
@@ -106613,6 +106750,16 @@ kerning = {
 "@MMK_R_Upsilondasiaperispomeni" = 435;
 "@MMK_R_Upsilondasiavaria" = 430;
 "@MMK_R_Upsilontonos" = 225;
+"@MMK_R_chi" = -5;
+"@MMK_R_epsilon" = -5;
+"@MMK_R_iota" = 0;
+"@MMK_R_nu" = -10;
+"@MMK_R_omicron" = -20;
+"@MMK_R_pi" = -10;
+"@MMK_R_tau" = -15;
+psi = -15;
+upsilon = -20;
+zeta = 0;
 };
 "@MMK_L_Eta" = {
 "@MMK_R_Alphapsiliperispomeni" = 230;
@@ -106628,7 +106775,11 @@ kerning = {
 "@MMK_R_Upsilondasiaperispomeni" = 410;
 "@MMK_R_Upsilondasiavaria" = 410;
 "@MMK_R_Upsilontonos" = 210;
+"@MMK_R_chi" = -10;
+"@MMK_R_lambda" = 10;
+"@MMK_R_omicron" = 0;
 Iotavrachy = 90;
+xi = 20;
 };
 "@MMK_L_Kappa" = {
 "@MMK_R_Omicron" = -55;
@@ -106650,6 +106801,8 @@ Iotavrachy = 90;
 "@MMK_R_Upsilondasiavaria" = 410;
 "@MMK_R_Upsilontonos" = 210;
 "@MMK_R_Zeta" = 0;
+"@MMK_R_omicron" = 5;
+epsilon = 10;
 };
 "@MMK_L_Omicron" = {
 "@MMK_R_Alpha" = -35;
@@ -106669,6 +106822,9 @@ Iotavrachy = 90;
 "@MMK_R_Upsilontonos" = 205;
 "@MMK_R_Xi" = -15;
 "@MMK_R_Zeta" = -30;
+"@MMK_R_chi" = 0;
+"@MMK_R_lambda" = -35;
+"@MMK_R_rho" = -25;
 };
 "@MMK_L_Phi" = {
 "@MMK_R_Alpha" = -50;
@@ -106690,6 +106846,9 @@ Iotavrachy = 90;
 "@MMK_R_Upsilontonos" = 180;
 "@MMK_R_Xi" = -15;
 "@MMK_R_Zeta" = -50;
+"@MMK_R_chi" = 0;
+"@MMK_R_lambda" = -60;
+"@MMK_R_rho" = -15;
 };
 "@MMK_L_Psi" = {
 "@MMK_R_Alpha" = -75;
@@ -106705,6 +106864,11 @@ Iotavrachy = 90;
 "@MMK_R_Upsilondasiaperispomeni" = 450;
 "@MMK_R_Upsilondasiavaria" = 450;
 "@MMK_R_Upsilontonos" = 250;
+"@MMK_R_lambda" = -5;
+"@MMK_R_omicron" = -25;
+"@MMK_R_rho" = -45;
+delta = -5;
+zeta = 0;
 };
 "@MMK_L_Rho" = {
 "@MMK_R_Alpha" = -75;
@@ -106725,6 +106889,12 @@ Iotavrachy = 90;
 "@MMK_R_Upsilontonos" = 225;
 "@MMK_R_Xi" = -15;
 "@MMK_R_Zeta" = -25;
+"@MMK_R_epsilon" = -5;
+"@MMK_R_lambda" = -50;
+"@MMK_R_nu" = 10;
+"@MMK_R_omicron" = -20;
+"@MMK_R_rho" = -45;
+"@MMK_R_tau" = 10;
 };
 "@MMK_L_Tau" = {
 "@MMK_R_Alpha" = -85;
@@ -106746,6 +106916,69 @@ Iotavrachy = 90;
 "@MMK_R_Upsilondasiaperispomeni" = 470;
 "@MMK_R_Upsilondasiavaria" = 465;
 "@MMK_R_Upsilontonos" = 260;
+"@MMK_R_chi" = -55;
+"@MMK_R_epsilon" = -60;
+"@MMK_R_eta" = -70;
+"@MMK_R_iota" = -65;
+"@MMK_R_lambda" = 10;
+"@MMK_R_nu" = -10;
+"@MMK_R_omicron" = -95;
+"@MMK_R_pi" = -40;
+"@MMK_R_rho" = -100;
+"@MMK_R_tau" = -50;
+delta = 0;
+theta = 0;
+xi = 0;
+zeta = 20;
+upsilonpsilivaria = 0;
+upsilondasiavaria = 0;
+upsilonpsilioxia = -10;
+upsilondasiaoxia = -20;
+upsilonperispomeni = -10;
+upsilonvrachy = -20;
+upsilonmacron = 0;
+upsilondialytikavaria = 55;
+upsilondialytikaoxia = 10;
+upsilondialytikaperispomeni = 0;
+omicrondasiaoxia = -40;
+omicronpsilivaria = -20;
+omicrondasiavaria = -20;
+omicronpsilioxia = -30;
+upsilondieresis = 0;
+upsilondieresistonos = 10;
+etapsilivaria = -40;
+etapsilioxia = -50;
+etapsilivariaypogegrammeni = -40;
+etadasiavariaypogegrammeni = -40;
+etapsilioxiaypogegrammeni = -50;
+etadasiavaria = -40;
+etaperispomeniypogegrammeni = -55;
+etaperispomeni = -55;
+etadasiaoxiaypogegrammeni = -60;
+etadasiaoxia = -60;
+epsilonpsilivaria = 0;
+epsilondasiavaria = 0;
+epsilonpsilioxia = -10;
+epsilondasiaoxia = -20;
+iotatonos = -15;
+iotadieresis = 125;
+iotadieresistonos = 150;
+iotapsili = 0;
+iotadasia = 0;
+iotapsilivaria = 110;
+iotadasiavaria = 110;
+iotapsilioxia = 100;
+iotadasiaoxia = 90;
+iotapsiliperispomeni = 0;
+iotadasiaperispomeni = 0;
+iotavaria = 0;
+iotaoxia = -15;
+iotaperispomeni = 90;
+iotavrachy = 65;
+iotamacron = 85;
+iotadialytikavaria = 190;
+iotadialytikaoxia = 150;
+iotadialytikaperispomeni = 125;
 };
 "@MMK_L_Upsilon" = {
 "@MMK_R_Alpha" = -70;
@@ -106765,6 +106998,68 @@ Iotavrachy = 90;
 "@MMK_R_Upsilondasiaperispomeni" = 450;
 "@MMK_R_Upsilondasiavaria" = 455;
 "@MMK_R_Upsilontonos" = 255;
+"@MMK_R_chi" = -55;
+"@MMK_R_epsilon" = -55;
+"@MMK_R_eta" = -65;
+"@MMK_R_iota" = -55;
+"@MMK_R_lambda" = 20;
+"@MMK_R_mu" = -20;
+"@MMK_R_nu" = -30;
+"@MMK_R_omicron" = -75;
+"@MMK_R_pi" = -40;
+"@MMK_R_rho" = -80;
+"@MMK_R_tau" = -45;
+delta = -20;
+theta = -30;
+xi = 0;
+zeta = 15;
+upsilondasiavaria = 0;
+upsilonpsilioxia = -10;
+upsilondasiaoxia = -20;
+upsilonmacron = 0;
+upsilondialytikavaria = 50;
+upsilondialytikaoxia = 10;
+upsilondialytikaperispomeni = 0;
+upsilonvrachy = -10;
+upsilonperispomeni = -40;
+upsilonpsilivaria = 0;
+omicrondasiaoxia = -30;
+omicronpsilivaria = -10;
+omicrondasiavaria = -10;
+omicronpsilioxia = -20;
+upsilondieresistonos = 10;
+upsilondieresis = 0;
+etadasiaoxiaypogegrammeni = -55;
+etapsilioxiaypogegrammeni = -45;
+etadasiavariaypogegrammeni = -35;
+etapsilivariaypogegrammeni = -35;
+etapsilivaria = -35;
+etadasiavaria = -35;
+etapsilioxia = -45;
+etadasiaoxia = -55;
+epsilonpsilivaria = 10;
+epsilondasiavaria = 10;
+epsilonpsilioxia = 0;
+epsilondasiaoxia = 0;
+iotatonos = -45;
+iotadieresis = 115;
+iotadieresistonos = 135;
+iotapsili = 0;
+iotadasia = 0;
+iotapsilivaria = 110;
+iotadasiavaria = 110;
+iotapsilioxia = 100;
+iotadasiaoxia = 90;
+iotapsiliperispomeni = 0;
+iotadasiaperispomeni = 0;
+iotavaria = 20;
+iotaoxia = -45;
+iotaperispomeni = 80;
+iotavrachy = 75;
+iotamacron = 65;
+iotadialytikavaria = 175;
+iotadialytikaoxia = 135;
+iotadialytikaperispomeni = 115;
 };
 "@MMK_L_Zeta" = {
 "@MMK_R_Alphapsiliperispomeni" = 250;
@@ -106782,20 +107077,40 @@ Iotavrachy = 90;
 "@MMK_R_Upsilondasiaperispomeni" = 445;
 "@MMK_R_Upsilondasiavaria" = 435;
 "@MMK_R_Upsilontonos" = 240;
+"@MMK_R_chi" = -20;
+"@MMK_R_nu" = -15;
+"@MMK_R_omicron" = -10;
+"@MMK_R_pi" = -25;
+"@MMK_R_tau" = -35;
+psi = -25;
+theta = -15;
+zeta = 0;
+};
+"@MMK_L_eta" = {
+"@MMK_R_iota" = 5;
+};
+"@MMK_L_iota" = {
+"@MMK_R_Eta" = 0;
+"@MMK_R_eta" = -5;
+"@MMK_R_lambda" = 30;
+};
+"@MMK_L_lambda" = {
+"@MMK_R_omicron" = -35;
+};
+"@MMK_L_omicron" = {
+"@MMK_R_lambda" = -40;
+};
+"@MMK_L_tau" = {
+"@MMK_R_eta" = -5;
+};
+"@MMK_L_zeta" = {
+eta = -40;
 };
 Iotavrachy = {
-"@MMK_R_Eta" = 0;
 Iotamacron = 85;
 };
-greaterequal = {
-"@MMK_R_Omicronpsilivaria" = 0;
+etapsiliperispomeni = {
 "@MMK_R_Tau" = 0;
-};
-less = {
-"@MMK_R_Upsilontonos" = 0;
-};
-lessequal = {
-"@MMK_R_Omegapsiliperispomeni" = -5;
 };
 };
 };
