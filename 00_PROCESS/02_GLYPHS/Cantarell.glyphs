@@ -5,8 +5,9 @@ DisplayStrings = (
 "/alpha \012/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/mu/nu \012/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega \012abcdefghijklm\012npqrstuvwxyz\012\012/eta/eta/delta/eta/eta  /omicron/omicron/delta/omicron/omicron \012/eta/eta/upsilon/phi/eta/eta  /omicron/omicron/phi/omicron/omicron \012/eta/eta/psi/eta/eta  /omicron/omicron/psi/omicron/omicron \012/eta/eta/upsilon/eta/eta  /omicron/omicron/upsilon/omicron/omicron \012nncnn oocoo\012/pe-cy/pe-cy/ze-cy/pe-cy/pe-cy  /o-cy/o-cy/ze-cy/o-cy/o-cy \012\012",
 "\012d/alpha/epsilon/eta/iota o/upsilon/omega \012/tonos/alphatonos/epsilontonos/etatonos/iotatonos/omicrontonos/upsilontonos/omegatonos   /dieresistonos  /iotadieresistonos  /upsilondieresistonos  /iotadieresis  /upsilondieresis \012´/acutecomb áé/nacute íóú/wacute   /idieresisacute  /dieresiscomb.loclVIET/dieresiscomb_acutecomb/udieresisacute  ïü\012\012/Iota/Upsilon    /Alpha  /Epsilon  /Eta  /Iota  /Omicron  /Upsilon  /Omega \012/Iotadieresis/Upsilondieresis  /tonos.case  /Alphatonos  /Epsilontonos  /Etatonos  /Iotatonos  /Omicrontonos  /Upsilontonos  /Omegatonos \012",
 "/KaiSymbol/kaiSymbol",
-"/Gamma/Tau/Upsilon/Kappa/Chi \012\012/Gamma/alphapsilivaria/Gamma/alphadasiavaria/Gamma/alphapsilioxia/Gamma/alphadasiaoxia \012/Gamma/alphapsilivariaypogegrammeni/Gamma/alphadasiavariaypogegrammeni/Gamma/alphapsilioxiaypogegrammeni/Gamma/alphadasiaoxiaypogegrammeni \012/Gamma/alphaperispomeni/Gamma/alphavrachy/Gamma/alphamacron/Gamma/alphaperispomeniypogegrammeni \012/Gamma/alphapsiliperispomeni/Gamma/alphadasiaperispomeni/Gamma/alphapsiliperispomeniypogegrammeni/Gamma/alphadasiaperispomeniypogegrammeni \012\012/Tau/alphapsilivariaypogegrammeni/Tau/alphadasiavariaypogegrammeni/Tau/alphapsilioxiaypogegrammeni/Tau/alphadasiaoxiaypogegrammeni \012/Tau/alphaperispomeni/Tau/alphavrachy/Tau/alphamacron/Tau/alphaperispomeniypogegrammeni \012\012\012/Gamma/iota/Gamma/iotatonos/Gamma/iotapsili/Gamma/iotadasia/Gamma/iotavaria/Gamma/iotaoxia \012/Gamma/iotapsilivaria/Gamma/iotadasiavaria/Gamma/iotapsilioxia/Gamma/iotadasiaoxia \012/Gamma/iotaperispomeni/Gamma/iotavrachy/Gamma/iotamacron/Gamma/iotapsiliperispomeni/Gamma/iotadasiaperispomeni \012/Gamma/iotadialytikavaria/Gamma/iotadialytikaoxia/Gamma/iotadialytikaperispomeni/Gamma/iotadieresis/Gamma/iotadieresistonos \012\012/Tau/iota/Tau/iotatonos/Tau/iotapsili/Tau/iotadasia/Tau/iotavaria/Tau/iotaoxia \012/Tau/iotapsilivaria/Tau/iotadasiavaria/Tau/iotapsilioxia/Tau/iotadasiaoxia \012/Tau/iotaperispomeni/Tau/iotavrachy/Tau/iotamacron/Tau/iotapsiliperispomeni/Tau/iotadasiaperispomeni \012/Tau/iotadialytikavaria/Tau/iotadialytikaoxia/Tau/iotadialytikaperispomeni/Tau/iotadieresis/Tau/iotadieresistonos \012\012\012\012",
-"/Gamma/omicron/Gamma/omicrontonos/Gamma/omicronpsili/Gamma/omicrondasia/Gamma/omicronvaria/Gamma/omicronoxia \012/Gamma/omicronpsilivaria/Gamma/omicrondasiavaria/Gamma/omicronpsilioxia/Gamma/omicrondasiaoxia \012\012/Tau/omicron/Tau/omicrontonos/Tau/omicronpsili/Tau/omicrondasia/Tau/omicronvaria/Tau/omicronoxia \012/Tau/omicronpsilivaria/Tau/omicrondasiavaria/Tau/omicronpsilioxia/Tau/omicrondasiaoxia \012\012/Kappa/omicron/Kappa/omicrontonos/Kappa/omicronpsili/Kappa/omicrondasia/Kappa/omicronvaria/Kappa/omicronoxia \012/Kappa/omicronpsilivaria/Kappa/omicrondasiavaria/Kappa/omicronpsilioxia/Kappa/omicrondasiaoxia \012\012/Upsilon/omicron/Upsilon/omicrontonos/Upsilon/omicronpsili/Upsilon/omicrondasia/Upsilon/omicronvaria/Upsilon/omicronoxia \012/Upsilon/omicronpsilivaria/Upsilon/omicrondasiavaria/Upsilon/omicronpsilioxia/Upsilon/omicrondasiaoxia \012\012/Chi/omicron/Chi/omicrontonos/Chi/omicronpsili/Chi/omicrondasia/Chi/omicronvaria/Chi/omicronoxia \012/Chi/omicronpsilivaria/Chi/omicrondasiavaria/Chi/omicronpsilioxia/Chi/omicrondasiaoxia"
+"/xi/omicron/pi/rho/sigmafinal/omicron",
+"\012__Letter:\012/Eta/Eta/Omicron/Eta/Alpha/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Beta/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Gamma/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Delta/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilon/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Zeta/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Eta/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Theta/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iota/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Kappa/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Lambda/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Mu/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Nu/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Xi/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicron/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Pi/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Rho/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Sigma/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Tau/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilon/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Phi/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Chi/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Psi/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omega/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphatonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilontonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etatonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotatonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrontonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilontonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegatonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadieresis/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondieresis/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsili/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilivaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilioxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsiliperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphavrachy/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphamacron/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsiliprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilivariaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiavariaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilioxiaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaoxiaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsiliperispomeniprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaperispomeniprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonpsili/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilondasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonpsilivaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilondasiavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonpsilioxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilondasiaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonvaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsili/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilivaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilioxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsiliperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsiliprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilivariaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiavariaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilioxiaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaoxiaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsiliperispomeniprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaperispomeniprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsili/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsilivaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasiavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsilioxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasiaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsiliperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasiaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotavrachy/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotamacron/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronpsili/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrondasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronpsilivaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrondasiavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronpsilioxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrondasiaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronvaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Rhodasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasiavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasiaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasiaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonvaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonvrachy/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonmacron/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsili/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilivaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilioxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsiliperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsiliprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilivariaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiavariaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilioxiaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaoxiaprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsiliperispomeniprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaperispomeniprosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/KaiSymbol/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alpha/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/beta/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/gamma/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/delta/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/epsilon/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/zeta/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/eta/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/theta/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iota/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/kappa/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/lambda/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/mu/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/nu/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/xi/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omicron/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/pi/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/rho/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/sigmafinal/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/sigma/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/tau/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilon/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/phi/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/chi/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/psi/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omega/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotatonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotadieresis/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotadieresistonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilontonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilondieresis/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilondieresistonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omicrontonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegatonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphatonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/epsilontonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etatonos/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphapsili/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphadasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphapsilivaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphadasiavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphapsilioxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphadasiaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphapsiliperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphadasiaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphavrachy/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphamacron/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphavariaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphaoxiaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphapsiliypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphadasiaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphapsilivariaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphadasiavariaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphapsilioxiaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphadasiaoxiaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphapsiliperispomeniypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphadasiaperispomeniypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/alphaperispomeniypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/epsilonpsili/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/epsilondasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/epsilonpsilivaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/epsilondasiavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/epsilonpsilioxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/epsilondasiaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/epsilonvaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/epsilonoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etapsili/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etadasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etapsilivaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etadasiavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etapsilioxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etadasiaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etapsiliperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etadasiaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etavariaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etaoxiaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etapsiliypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etadasiaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etapsilivariaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etadasiavariaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etapsilioxiaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etadasiaoxiaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etapsiliperispomeniypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etadasiaperispomeniypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/etaperispomeniypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotapsili/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotadasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotapsilivaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotadasiavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotapsilioxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotadasiaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotapsiliperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotadasiaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotavrachy/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotamacron/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotadialytikavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotadialytikaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/iotadialytikaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omicronpsili/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omicrondasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omicronpsilivaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omicrondasiavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omicronpsilioxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omicrondasiaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omicronvaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omicronoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/rhopsili/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/rhodasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilonpsili/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilondasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilonpsilivaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilondasiavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilonpsilioxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilondasiaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilonpsiliperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilondasiaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilonvaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilonoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilonperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilonvrachy/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilonmacron/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilondialytikavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilondialytikaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/upsilondialytikaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegapsili/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegadasia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegapsilivaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegadasiavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegapsilioxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegadasiaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegapsiliperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegadasiaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegavaria/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegaoxia/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegaperispomeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegavariaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegaoxiaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegapsiliypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegadasiaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegapsilivariaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegadasiavariaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegapsilioxiaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegadasiaoxiaypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegapsiliperispomeniypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegadasiaperispomeniypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/omegaperispomeniypogegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/prosgegrammeni/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/kaiSymbol/iota/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iota/ypogegrammeni/iota/eta/omicron/omicron/iota",
+"\012__Letter:\012/Eta/Eta/Omicron/Eta/Alpha/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Beta/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Gamma/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Delta/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilon/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Zeta/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Eta/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Theta/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iota/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Kappa/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Lambda/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Mu/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Nu/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Xi/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicron/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Pi/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Rho/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Sigma/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Tau/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilon/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Phi/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Chi/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Psi/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omega/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphatonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilontonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etatonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotatonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrontonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilontonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegatonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadieresis/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondieresis/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsili/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilivaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilioxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsiliperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphavrachy/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphamacron/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsiliprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilivariaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiavariaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilioxiaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaoxiaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsiliperispomeniprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaperispomeniprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonpsili/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilondasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonpsilivaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilondasiavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonpsilioxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilondasiaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonvaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsili/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilivaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilioxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsiliperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsiliprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilivariaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiavariaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilioxiaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaoxiaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsiliperispomeniprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaperispomeniprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsili/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsilivaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasiavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsilioxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasiaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsiliperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasiaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotavrachy/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotamacron/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronpsili/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrondasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronpsilivaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrondasiavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronpsilioxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrondasiaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronvaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Rhodasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasiavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasiaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasiaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonvaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonvrachy/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonmacron/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsili/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilivaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilioxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsiliperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsiliprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilivariaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiavariaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilioxiaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaoxiaprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsiliperispomeniprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaperispomeniprosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/KaiSymbol/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alpha/rho/eta/alpha/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/beta/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/gamma/rho/eta/omicron/gamma/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/delta/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/epsilon/rho/eta/alpha/rho/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/zeta/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/eta/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/theta/rho/eta/omicron/theta/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iota/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/kappa/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/lambda/rho/eta/omicron/lambda/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/mu/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/nu/rho/eta/omicron/nu/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/xi/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omicron/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/pi/rho/eta/omicron/pi/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/rho/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/sigmafinal/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/sigma/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/tau/rho/eta/omicron/tau/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilon/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/phi/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/chi/rho/eta/omicron/chi/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/psi/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omega/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotatonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotadieresis/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotadieresistonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilontonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilondieresis/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilondieresistonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omicrontonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegatonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphatonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/epsilontonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etatonos/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphapsili/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphadasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphapsilivaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphadasiavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphapsilioxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphadasiaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphapsiliperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphadasiaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphavrachy/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphamacron/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphavariaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphaoxiaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphapsiliypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphadasiaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphapsilivariaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphadasiavariaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphapsilioxiaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphadasiaoxiaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphapsiliperispomeniypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphadasiaperispomeniypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/alphaperispomeniypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/epsilonpsili/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/epsilondasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/epsilonpsilivaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/epsilondasiavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/epsilonpsilioxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/epsilondasiaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/epsilonvaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/epsilonoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etapsili/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etadasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etapsilivaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etadasiavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etapsilioxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etadasiaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etapsiliperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etadasiaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etavariaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etaoxiaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etapsiliypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etadasiaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etapsilivariaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etadasiavariaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etapsilioxiaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etadasiaoxiaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etapsiliperispomeniypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etadasiaperispomeniypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/etaperispomeniypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotapsili/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotadasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotapsilivaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotadasiavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotapsilioxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotadasiaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotapsiliperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotadasiaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotavrachy/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotamacron/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotadialytikavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotadialytikaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/iotadialytikaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omicronpsili/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omicrondasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omicronpsilivaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omicrondasiavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omicronpsilioxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omicrondasiaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omicronvaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omicronoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/rhopsili/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/rhodasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilonpsili/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilondasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilonpsilivaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilondasiavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilonpsilioxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilondasiaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilonpsiliperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilondasiaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilonvaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilonoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilonperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilonvrachy/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilonmacron/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilondialytikavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilondialytikaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/upsilondialytikaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegapsili/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegadasia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegapsilivaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegadasiavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegapsilioxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegadasiaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegapsiliperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegadasiaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegavaria/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegaoxia/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegaperispomeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegavariaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegaoxiaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegapsiliypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegadasiaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegapsilivariaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegadasiavariaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegapsilioxiaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegadasiaoxiaypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegapsiliperispomeniypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegadasiaperispomeniypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/omegaperispomeniypogegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/prosgegrammeni/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/kaiSymbol/rho/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/rho/ypogegrammeni/rho/eta/omicron/omicron/iota"
 );
 classes = (
 {
@@ -54612,7 +54613,7 @@ width = 600;
 unicode = 03CF;
 },
 {
-color = 5;
+color = 4;
 glyphname = alpha;
 layers = (
 {
@@ -54741,7 +54742,7 @@ nodes = (
 );
 }
 );
-width = 588;
+width = 589;
 },
 {
 anchors = (
@@ -54998,17 +54999,17 @@ nodes = (
 );
 }
 );
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
 leftMetricsKey = "=d";
 rightKerningGroup = alpha;
-rightMetricsKey = "=l-5";
+rightMetricsKey = "=l-4";
 unicode = 03B1;
 },
 {
-color = 5;
+color = 0;
 glyphname = beta;
 layers = (
 {
@@ -55336,6 +55337,7 @@ nodes = (
 width = 621;
 }
 );
+leftKerningGroup = beta;
 leftMetricsKey = "=germandbls";
 rightKerningGroup = omicron;
 rightMetricsKey = "=germandbls";
@@ -55551,7 +55553,7 @@ rightMetricsKey = "=nu";
 unicode = 03B3;
 },
 {
-color = 5;
+color = 0;
 glyphname = delta;
 layers = (
 {
@@ -55886,7 +55888,7 @@ rightMetricsKey = "=o";
 unicode = 03B4;
 },
 {
-color = 5;
+color = 4;
 glyphname = epsilon;
 layers = (
 {
@@ -56240,7 +56242,7 @@ rightMetricsKey = "=e-25";
 unicode = 03B5;
 },
 {
-color = 5;
+color = 0;
 glyphname = zeta;
 layers = (
 {
@@ -56417,91 +56419,93 @@ paths = (
 {
 closed = 1;
 nodes = (
-"191 198 OFFCURVE",
-"236 164 OFFCURVE",
-"314 134 CURVE SMOOTH",
-"425 91 OFFCURVE",
-"464 32 OFFCURVE",
-"464 -47 CURVE SMOOTH",
-"464 -110 OFFCURVE",
-"411 -186 OFFCURVE",
-"353 -232 CURVE",
-"270 -167 LINE",
-"299 -131 OFFCURVE",
-"315 -105 OFFCURVE",
-"315 -84 CURVE SMOOTH",
-"315 -50 OFFCURVE",
-"288 -16 OFFCURVE",
-"206 14 CURVE SMOOTH",
-"89 57 OFFCURVE",
-"12 106 OFFCURVE",
-"12 227 CURVE SMOOTH",
-"12 344 OFFCURVE",
-"91 442 OFFCURVE",
-"177 532 CURVE SMOOTH",
-"327 690 LINE",
-"311 607 LINE",
-"13 591 LINE",
-"13 739 LINE",
-"449 739 LINE",
-"449 636 LINE",
-"318 477 LINE SMOOTH",
-"247 390 OFFCURVE",
-"191 318 OFFCURVE",
-"191 252 CURVE SMOOTH"
+"196 198 OFFCURVE",
+"241 164 OFFCURVE",
+"319 134 CURVE SMOOTH",
+"430 91 OFFCURVE",
+"469 32 OFFCURVE",
+"469 -47 CURVE SMOOTH",
+"469 -110 OFFCURVE",
+"416 -186 OFFCURVE",
+"358 -232 CURVE",
+"275 -167 LINE",
+"304 -131 OFFCURVE",
+"320 -105 OFFCURVE",
+"320 -84 CURVE SMOOTH",
+"320 -50 OFFCURVE",
+"293 -16 OFFCURVE",
+"211 14 CURVE SMOOTH",
+"94 57 OFFCURVE",
+"17 106 OFFCURVE",
+"17 227 CURVE SMOOTH",
+"17 344 OFFCURVE",
+"96 442 OFFCURVE",
+"182 532 CURVE SMOOTH",
+"332 690 LINE",
+"316 607 LINE",
+"18 591 LINE",
+"18 739 LINE",
+"454 739 LINE",
+"454 636 LINE",
+"323 477 LINE SMOOTH",
+"252 390 OFFCURVE",
+"196 318 OFFCURVE",
+"196 252 CURVE SMOOTH"
 );
 }
 );
 };
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
+leftMetricsKey = "=o";
 paths = (
 {
 closed = 1;
 nodes = (
-"189 202 OFFCURVE",
-"234 164 OFFCURVE",
-"311 130 CURVE SMOOTH",
-"422 81 OFFCURVE",
-"449 31 OFFCURVE",
-"449 -43 CURVE SMOOTH",
-"449 -104 OFFCURVE",
-"395 -182 OFFCURVE",
-"340 -232 CURVE",
-"240 -155 LINE",
-"270 -119 OFFCURVE",
-"291 -95 OFFCURVE",
-"291 -69 CURVE SMOOTH",
-"291 -45 OFFCURVE",
-"279 -16 OFFCURVE",
-"199 19 CURVE SMOOTH",
-"84 69 OFFCURVE",
-"13 123 OFFCURVE",
-"13 232 CURVE SMOOTH",
-"13 349 OFFCURVE",
-"100 443 OFFCURVE",
-"208 546 CURVE SMOOTH",
-"360 690 LINE",
-"329 604 LINE",
-"13 604 LINE",
-"13 739 LINE",
-"468 739 LINE",
-"468 636 LINE",
-"340 490 LINE SMOOTH",
-"254 391 OFFCURVE",
-"189 318 OFFCURVE",
-"189 253 CURVE SMOOTH"
+"194 202 OFFCURVE",
+"239 164 OFFCURVE",
+"316 130 CURVE SMOOTH",
+"427 81 OFFCURVE",
+"454 31 OFFCURVE",
+"454 -43 CURVE SMOOTH",
+"454 -104 OFFCURVE",
+"400 -182 OFFCURVE",
+"345 -232 CURVE",
+"245 -155 LINE",
+"275 -119 OFFCURVE",
+"296 -95 OFFCURVE",
+"296 -69 CURVE SMOOTH",
+"296 -45 OFFCURVE",
+"284 -16 OFFCURVE",
+"204 19 CURVE SMOOTH",
+"89 69 OFFCURVE",
+"18 123 OFFCURVE",
+"18 232 CURVE SMOOTH",
+"18 349 OFFCURVE",
+"105 443 OFFCURVE",
+"213 546 CURVE SMOOTH",
+"365 690 LINE",
+"334 604 LINE",
+"18 604 LINE",
+"18 739 LINE",
+"473 739 LINE",
+"473 636 LINE",
+"345 490 LINE SMOOTH",
+"259 391 OFFCURVE",
+"194 318 OFFCURVE",
+"194 253 CURVE SMOOTH"
 );
 }
 );
-width = 468;
+width = 473;
 }
 );
 leftKerningGroup = omicron;
 leftMetricsKey = "=o-5";
+rightKerningGroup = zeta;
 unicode = 03B6;
 },
 {
-color = 5;
+color = 4;
 glyphname = eta;
 layers = (
 {
@@ -56972,7 +56976,7 @@ rightMetricsKey = "=o+5";
 unicode = 03B8;
 },
 {
-color = 5;
+color = 4;
 glyphname = iota;
 layers = (
 {
@@ -57395,7 +57399,7 @@ rightMetricsKey = "=k+5";
 unicode = 03BA;
 },
 {
-color = 5;
+color = 3;
 glyphname = lambda;
 layers = (
 {
@@ -57573,6 +57577,8 @@ nodes = (
 width = 548;
 }
 );
+leftKerningGroup = lambda;
+rightKerningGroup = lambda;
 unicode = 03BB;
 },
 {
@@ -57695,7 +57701,7 @@ nodes = (
 );
 }
 );
-width = 548;
+width = 553;
 },
 {
 anchors = (
@@ -57820,7 +57826,7 @@ nodes = (
 );
 }
 );
-width = 575;
+width = 580;
 },
 {
 anchors = (
@@ -57918,13 +57924,13 @@ nodes = (
 );
 }
 );
-width = 616;
+width = 621;
 }
 );
 leftKerningGroup = eta;
 leftMetricsKey = "=n";
 rightKerningGroup = iota;
-rightMetricsKey = "=l-5";
+rightMetricsKey = "=iota";
 unicode = 03BC;
 },
 {
@@ -58115,7 +58121,7 @@ rightMetricsKey = "=v+15";
 unicode = 03BD;
 },
 {
-color = 5;
+color = 0;
 glyphname = xi;
 layers = (
 {
@@ -58469,10 +58475,11 @@ width = 474;
 );
 leftKerningGroup = omicron;
 leftMetricsKey = "=o-5";
+rightKerningGroup = xi;
 unicode = 03BE;
 },
 {
-color = 5;
+color = 4;
 glyphname = omicron;
 layers = (
 {
@@ -58717,9 +58724,9 @@ width = 559;
 }
 );
 leftKerningGroup = omicron;
-leftMetricsKey = "=o";
+leftMetricsKey = o;
 rightKerningGroup = omicron;
-rightMetricsKey = "=o";
+rightMetricsKey = o;
 unicode = 03BF;
 },
 {
@@ -58962,11 +58969,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{263, 0}";
+position = "{253, 0}";
 },
 {
 name = top;
-position = "{263, 480}";
+position = "{253, 480}";
 }
 );
 background = {
@@ -58974,36 +58981,36 @@ paths = (
 {
 closed = 1;
 nodes = (
-"55 -217 LINE",
-"140 -217 LINE",
-"133 49 LINE",
-"135 49 LINE",
-"135 248 LINE SMOOTH",
-"135 371 OFFCURVE",
-"195 422 OFFCURVE",
-"272 422 CURVE SMOOTH",
-"350 422 OFFCURVE",
-"415 361 OFFCURVE",
-"415 240 CURVE SMOOTH",
-"415 132 OFFCURVE",
-"360 60 OFFCURVE",
-"273 60 CURVE SMOOTH",
-"200 60 OFFCURVE",
-"139 107 OFFCURVE",
-"122 178 CURVE",
-"89 123 LINE",
-"111 39 OFFCURVE",
-"184 -10 OFFCURVE",
-"270 -10 CURVE SMOOTH",
-"404 -10 OFFCURVE",
-"495 94 OFFCURVE",
-"495 250 CURVE SMOOTH",
-"495 400 OFFCURVE",
-"416 492 OFFCURVE",
-"277 492 CURVE SMOOTH",
-"156 492 OFFCURVE",
-"55 413 OFFCURVE",
-"55 248 CURVE SMOOTH"
+"45 -217 LINE",
+"130 -217 LINE",
+"123 49 LINE",
+"125 49 LINE",
+"125 248 LINE SMOOTH",
+"125 371 OFFCURVE",
+"185 422 OFFCURVE",
+"262 422 CURVE SMOOTH",
+"340 422 OFFCURVE",
+"405 361 OFFCURVE",
+"405 240 CURVE SMOOTH",
+"405 132 OFFCURVE",
+"350 60 OFFCURVE",
+"263 60 CURVE SMOOTH",
+"190 60 OFFCURVE",
+"129 107 OFFCURVE",
+"112 178 CURVE",
+"79 123 LINE",
+"101 39 OFFCURVE",
+"174 -10 OFFCURVE",
+"260 -10 CURVE SMOOTH",
+"394 -10 OFFCURVE",
+"485 94 OFFCURVE",
+"485 250 CURVE SMOOTH",
+"485 400 OFFCURVE",
+"406 492 OFFCURVE",
+"267 492 CURVE SMOOTH",
+"146 492 OFFCURVE",
+"45 413 OFFCURVE",
+"45 248 CURVE SMOOTH"
 );
 }
 );
@@ -59013,57 +59020,57 @@ paths = (
 {
 closed = 1;
 nodes = (
-"78 -217 LINE",
-"102 -217 LINE",
-"96 79 LINE",
-"99 79 LINE",
-"99 259 LINE SMOOTH",
-"99 392 OFFCURVE",
-"171 468 OFFCURVE",
-"272 468 CURVE SMOOTH",
-"386 468 OFFCURVE",
-"450 378 OFFCURVE",
-"450 237 CURVE SMOOTH",
-"450 97 OFFCURVE",
-"375 8 OFFCURVE",
-"262 8 CURVE SMOOTH",
-"182 8 OFFCURVE",
-"119 53 OFFCURVE",
-"89 126 CURVE",
-"86 96 LINE",
-"119 29 OFFCURVE",
-"180 -10 OFFCURVE",
-"260 -10 CURVE SMOOTH",
-"386 -10 OFFCURVE",
-"471 90 OFFCURVE",
-"471 240 CURVE SMOOTH",
-"471 389 OFFCURVE",
-"398 486 OFFCURVE",
-"274 486 CURVE SMOOTH",
-"160 486 OFFCURVE",
-"78 405 OFFCURVE",
-"78 262 CURVE SMOOTH"
+"68 -217 LINE",
+"92 -217 LINE",
+"86 79 LINE",
+"89 79 LINE",
+"89 259 LINE SMOOTH",
+"89 392 OFFCURVE",
+"161 468 OFFCURVE",
+"262 468 CURVE SMOOTH",
+"376 468 OFFCURVE",
+"440 378 OFFCURVE",
+"440 237 CURVE SMOOTH",
+"440 97 OFFCURVE",
+"365 8 OFFCURVE",
+"252 8 CURVE SMOOTH",
+"172 8 OFFCURVE",
+"109 53 OFFCURVE",
+"79 126 CURVE",
+"76 96 LINE",
+"109 29 OFFCURVE",
+"170 -10 OFFCURVE",
+"250 -10 CURVE SMOOTH",
+"376 -10 OFFCURVE",
+"461 90 OFFCURVE",
+"461 240 CURVE SMOOTH",
+"461 389 OFFCURVE",
+"388 486 OFFCURVE",
+"264 486 CURVE SMOOTH",
+"150 486 OFFCURVE",
+"68 405 OFFCURVE",
+"68 262 CURVE SMOOTH"
 );
 }
 );
-width = 528;
+width = 518;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{283, 0}";
+position = "{273, 0}";
 },
 {
 name = top;
-position = "{283, 482}";
+position = "{273, 482}";
 }
 );
 background = {
 components = (
 {
 name = p;
-transform = "{1, 0, 0, 1, -10, 0}";
+transform = "{1, 0, 0, 1, -20, 0}";
 }
 );
 };
@@ -59072,57 +59079,57 @@ paths = (
 {
 closed = 1;
 nodes = (
-"75 -217 LINE",
-"159 -217 LINE",
-"152 49 LINE",
-"155 49 LINE",
-"155 251 LINE SMOOTH",
-"155 371 OFFCURVE",
-"215 422 OFFCURVE",
-"292 422 CURVE SMOOTH",
-"371 422 OFFCURVE",
-"439 361 OFFCURVE",
-"439 239 CURVE SMOOTH",
-"439 130 OFFCURVE",
-"382 60 OFFCURVE",
-"294 60 CURVE SMOOTH",
-"221 60 OFFCURVE",
-"159 107 OFFCURVE",
-"142 178 CURVE",
-"109 123 LINE",
-"131 40 OFFCURVE",
-"205 -10 OFFCURVE",
-"290 -10 CURVE SMOOTH",
-"425 -10 OFFCURVE",
-"519 92 OFFCURVE",
-"519 249 CURVE SMOOTH",
-"519 400 OFFCURVE",
-"437 492 OFFCURVE",
-"297 492 CURVE SMOOTH",
-"176 492 OFFCURVE",
-"75 412 OFFCURVE",
-"75 254 CURVE SMOOTH"
+"65 -217 LINE",
+"149 -217 LINE",
+"142 49 LINE",
+"145 49 LINE",
+"145 251 LINE SMOOTH",
+"145 371 OFFCURVE",
+"205 422 OFFCURVE",
+"282 422 CURVE SMOOTH",
+"361 422 OFFCURVE",
+"429 361 OFFCURVE",
+"429 239 CURVE SMOOTH",
+"429 130 OFFCURVE",
+"372 60 OFFCURVE",
+"284 60 CURVE SMOOTH",
+"211 60 OFFCURVE",
+"149 107 OFFCURVE",
+"132 178 CURVE",
+"99 123 LINE",
+"121 40 OFFCURVE",
+"195 -10 OFFCURVE",
+"280 -10 CURVE SMOOTH",
+"415 -10 OFFCURVE",
+"509 92 OFFCURVE",
+"509 249 CURVE SMOOTH",
+"509 400 OFFCURVE",
+"427 492 OFFCURVE",
+"287 492 CURVE SMOOTH",
+"166 492 OFFCURVE",
+"65 412 OFFCURVE",
+"65 254 CURVE SMOOTH"
 );
 }
 );
-width = 572;
+width = 562;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{283, 0}";
+position = "{273, 0}";
 },
 {
 name = top;
-position = "{283, 490}";
+position = "{273, 490}";
 }
 );
 background = {
 components = (
 {
 name = p;
-transform = "{1, 0, 0, 1, -5, 0}";
+transform = "{1, 0, 0, 1, -15, 0}";
 }
 );
 };
@@ -59131,44 +59138,44 @@ paths = (
 {
 closed = 1;
 nodes = (
-"44 -217 LINE",
-"222 -217 LINE",
-"205 51 LINE",
-"217 51 LINE",
-"217 239 LINE SMOOTH",
-"217 321 OFFCURVE",
-"248 356 OFFCURVE",
-"297 356 CURVE SMOOTH",
-"341 356 OFFCURVE",
-"377 317 OFFCURVE",
-"377 249 CURVE SMOOTH",
-"377 177 OFFCURVE",
-"344 134 OFFCURVE",
-"289 134 CURVE SMOOTH",
-"255 134 OFFCURVE",
-"219 151 OFFCURVE",
-"201 181 CURVE",
-"162 87 LINE",
-"195 25 OFFCURVE",
-"253 -10 OFFCURVE",
-"325 -10 CURVE SMOOTH",
-"454 -10 OFFCURVE",
-"553 93 OFFCURVE",
-"553 254 CURVE SMOOTH",
-"553 395 OFFCURVE",
-"471 500 OFFCURVE",
-"298 500 CURVE SMOOTH",
-"141 500 OFFCURVE",
-"44 410 OFFCURVE",
-"44 241 CURVE SMOOTH"
+"34 -217 LINE",
+"212 -217 LINE",
+"195 51 LINE",
+"207 51 LINE",
+"207 239 LINE SMOOTH",
+"207 321 OFFCURVE",
+"238 356 OFFCURVE",
+"287 356 CURVE SMOOTH",
+"331 356 OFFCURVE",
+"367 317 OFFCURVE",
+"367 249 CURVE SMOOTH",
+"367 177 OFFCURVE",
+"334 134 OFFCURVE",
+"279 134 CURVE SMOOTH",
+"245 134 OFFCURVE",
+"209 151 OFFCURVE",
+"191 181 CURVE",
+"152 87 LINE",
+"185 25 OFFCURVE",
+"243 -10 OFFCURVE",
+"315 -10 CURVE SMOOTH",
+"444 -10 OFFCURVE",
+"543 93 OFFCURVE",
+"543 254 CURVE SMOOTH",
+"543 395 OFFCURVE",
+"461 500 OFFCURVE",
+"288 500 CURVE SMOOTH",
+"131 500 OFFCURVE",
+"34 410 OFFCURVE",
+"34 241 CURVE SMOOTH"
 );
 }
 );
-width = 571;
+width = 561;
 }
 );
 leftKerningGroup = rho;
-leftMetricsKey = "=p-10";
+leftMetricsKey = "=p-20";
 rightKerningGroup = omicron;
 rightMetricsKey = "=o";
 unicode = 03C1;
@@ -59391,6 +59398,7 @@ width = 457;
 );
 leftKerningGroup = omicron;
 leftMetricsKey = "=c";
+rightKerningGroup = sigmafinal;
 rightMetricsKey = "=c";
 unicode = 03C2;
 },
@@ -60024,11 +60032,11 @@ width = 547;
 anchors = (
 {
 name = bottom;
-position = "{280, 0}";
+position = "{277, 0}";
 },
 {
 name = top;
-position = "{268, 490}";
+position = "{265, 490}";
 }
 );
 background = {
@@ -60036,63 +60044,64 @@ paths = (
 {
 closed = 1;
 nodes = (
-"444 -10 OFFCURVE",
-"544 83 OFFCURVE",
-"544 241 CURVE SMOOTH",
-"544 333 OFFCURVE",
-"520 417 OFFCURVE",
-"496 490 CURVE",
-"322 490 LINE",
-"346 420 OFFCURVE",
-"370 318 OFFCURVE",
-"370 249 CURVE SMOOTH",
-"370 180 OFFCURVE",
-"344 137 OFFCURVE",
-"289 137 CURVE SMOOTH",
-"237 137 OFFCURVE",
-"217 169 OFFCURVE",
-"217 229 CURVE SMOOTH",
-"217 490 LINE",
-"44 490 LINE",
-"44 207 LINE SMOOTH",
-"44 62 OFFCURVE",
-"137 -10 OFFCURVE",
-"285 -10 CURVE SMOOTH"
+"441 -10 OFFCURVE",
+"541 83 OFFCURVE",
+"541 241 CURVE SMOOTH",
+"541 333 OFFCURVE",
+"517 417 OFFCURVE",
+"493 490 CURVE",
+"319 490 LINE",
+"343 420 OFFCURVE",
+"367 318 OFFCURVE",
+"367 249 CURVE SMOOTH",
+"367 180 OFFCURVE",
+"341 137 OFFCURVE",
+"286 137 CURVE SMOOTH",
+"234 137 OFFCURVE",
+"214 169 OFFCURVE",
+"214 229 CURVE SMOOTH",
+"214 490 LINE",
+"41 490 LINE",
+"41 207 LINE SMOOTH",
+"41 62 OFFCURVE",
+"134 -10 OFFCURVE",
+"282 -10 CURVE SMOOTH"
 );
 }
 );
 };
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
+leftMetricsKey = "=u-3";
 paths = (
 {
 closed = 1;
 nodes = (
-"441 -10 OFFCURVE",
-"546 84 OFFCURVE",
-"546 241 CURVE SMOOTH",
-"546 333 OFFCURVE",
-"523 415 OFFCURVE",
-"497 490 CURVE",
-"321 490 LINE",
-"346 418 OFFCURVE",
-"370 318 OFFCURVE",
-"370 249 CURVE SMOOTH",
-"370 180 OFFCURVE",
-"344 137 OFFCURVE",
-"292 137 CURVE SMOOTH",
-"238 137 OFFCURVE",
-"217 173 OFFCURVE",
-"217 234 CURVE SMOOTH",
-"217 490 LINE",
-"44 490 LINE",
-"44 214 LINE SMOOTH",
-"44 70 OFFCURVE",
-"138 -10 OFFCURVE",
-"283 -10 CURVE SMOOTH"
+"438 -10 OFFCURVE",
+"543 84 OFFCURVE",
+"543 241 CURVE SMOOTH",
+"543 333 OFFCURVE",
+"520 415 OFFCURVE",
+"494 490 CURVE",
+"318 490 LINE",
+"343 418 OFFCURVE",
+"367 318 OFFCURVE",
+"367 249 CURVE SMOOTH",
+"367 180 OFFCURVE",
+"341 137 OFFCURVE",
+"289 137 CURVE SMOOTH",
+"235 137 OFFCURVE",
+"214 173 OFFCURVE",
+"214 234 CURVE SMOOTH",
+"214 490 LINE",
+"41 490 LINE",
+"41 214 LINE SMOOTH",
+"41 70 OFFCURVE",
+"135 -10 OFFCURVE",
+"280 -10 CURVE SMOOTH"
 );
 }
 );
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -60205,7 +60214,7 @@ nodes = (
 );
 }
 );
-width = 661;
+width = 659;
 },
 {
 background = {
@@ -60307,7 +60316,7 @@ nodes = (
 );
 }
 );
-width = 710;
+width = 708;
 },
 {
 background = {
@@ -60315,47 +60324,42 @@ paths = (
 {
 closed = 1;
 nodes = (
-"298 137 LINE",
-"251 137 OFFCURVE",
-"222 184 OFFCURVE",
-"222 254 CURVE SMOOTH",
-"222 335 OFFCURVE",
-"244 405 OFFCURVE",
-"277 490 CURVE",
-"102 490 LINE",
-"69 403 OFFCURVE",
-"48 339 OFFCURVE",
-"48 246 CURVE SMOOTH",
-"48 104 OFFCURVE",
-"141 -8 OFFCURVE",
-"294 -8 CURVE"
+"390 -217 LINE",
+"390 370 LINE",
+"340 490 LINE",
+"225 490 LINE",
+"225 -217 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"440 -8 LINE",
-"589 -8 OFFCURVE",
-"701 100 OFFCURVE",
-"701 265 CURVE SMOOTH",
-"701 412 OFFCURVE",
-"626 500 OFFCURVE",
-"495 500 CURVE SMOOTH",
-"348 500 OFFCURVE",
-"283 401 OFFCURVE",
-"283 235 CURVE SMOOTH",
-"283 -217 LINE",
-"456 -217 LINE",
-"456 246 LINE SMOOTH",
-"456 328 OFFCURVE",
-"467 355 OFFCURVE",
-"491 355 CURVE SMOOTH",
-"513 355 OFFCURVE",
-"527 330 OFFCURVE",
-"527 261 CURVE SMOOTH",
-"527 182 OFFCURVE",
-"489 137 OFFCURVE",
-"446 137 CURVE"
+"628 -10 OFFCURVE",
+"725 101 OFFCURVE",
+"725 251 CURVE SMOOTH",
+"725 396 OFFCURVE",
+"634 500 OFFCURVE",
+"508 500 CURVE SMOOTH",
+"424 500 OFFCURVE",
+"360 452 OFFCURVE",
+"328 372 CURVE",
+"374 305 LINE",
+"390 337 OFFCURVE",
+"421 356 OFFCURVE",
+"458 356 CURVE SMOOTH",
+"514 356 OFFCURVE",
+"549 314 OFFCURVE",
+"549 242 CURVE SMOOTH",
+"549 174 OFFCURVE",
+"517 134 OFFCURVE",
+"462 134 CURVE SMOOTH",
+"426 134 OFFCURVE",
+"395 152 OFFCURVE",
+"377 182 CURVE",
+"338 88 LINE",
+"371 26 OFFCURVE",
+"427 -10 OFFCURVE",
+"499 -10 CURVE SMOOTH"
 );
 }
 );
@@ -60409,13 +60413,13 @@ nodes = (
 );
 }
 );
-width = 746;
+width = 744;
 }
 );
 leftKerningGroup = omicron;
 leftMetricsKey = "=omega";
 rightKerningGroup = omicron;
-rightMetricsKey = "=p";
+rightMetricsKey = "=p-2";
 unicode = 03C6;
 },
 {
@@ -60629,7 +60633,9 @@ nodes = (
 width = 562;
 }
 );
+leftKerningGroup = chi;
 leftMetricsKey = "=x-5";
+rightKerningGroup = chi;
 rightMetricsKey = "=x-5";
 unicode = 03C7;
 },
@@ -60835,44 +60841,44 @@ paths = (
 {
 closed = 1;
 nodes = (
-"486 -217 LINE",
-"486 642 LINE",
-"313 642 LINE",
-"313 -217 LINE"
+"483 -217 LINE",
+"483 642 LINE",
+"310 642 LINE",
+"310 -217 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"271 137 OFFCURVE",
-"249 178 OFFCURVE",
-"249 252 CURVE SMOOTH",
-"249 490 LINE",
-"76 490 LINE",
-"76 225 LINE SMOOTH",
-"76 73 OFFCURVE",
-"179 -8 OFFCURVE",
-"321 -8 CURVE",
-"325 137 LINE"
+"268 137 OFFCURVE",
+"246 178 OFFCURVE",
+"246 252 CURVE SMOOTH",
+"246 490 LINE",
+"73 490 LINE",
+"73 225 LINE SMOOTH",
+"73 73 OFFCURVE",
+"176 -8 OFFCURVE",
+"318 -8 CURVE",
+"322 137 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"635 -8 OFFCURVE",
-"734 102 OFFCURVE",
-"734 246 CURVE SMOOTH",
-"734 343 OFFCURVE",
-"719 410 OFFCURVE",
-"696 490 CURVE",
-"524 490 LINE",
-"544 410 OFFCURVE",
-"560 338 OFFCURVE",
-"560 259 CURVE SMOOTH",
-"560 178 OFFCURVE",
-"529 137 OFFCURVE",
-"479 137 CURVE",
-"473 -8 LINE"
+"632 -8 OFFCURVE",
+"731 102 OFFCURVE",
+"731 246 CURVE SMOOTH",
+"731 343 OFFCURVE",
+"716 410 OFFCURVE",
+"693 490 CURVE",
+"521 490 LINE",
+"541 410 OFFCURVE",
+"557 338 OFFCURVE",
+"557 259 CURVE SMOOTH",
+"557 178 OFFCURVE",
+"526 137 OFFCURVE",
+"476 137 CURVE",
+"470 -8 LINE"
 );
 }
 );
@@ -60882,48 +60888,48 @@ paths = (
 {
 closed = 1;
 nodes = (
-"486 -217 LINE",
-"486 646 LINE",
-"313 646 LINE",
-"313 -217 LINE"
+"483 -217 LINE",
+"483 646 LINE",
+"310 646 LINE",
+"310 -217 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"258 134 OFFCURVE",
-"217 188 OFFCURVE",
-"217 269 CURVE SMOOTH",
-"217 490 LINE",
-"44 490 LINE",
-"44 244 LINE SMOOTH",
-"44 90 OFFCURVE",
-"169 -8 OFFCURVE",
-"323 -8 CURVE",
-"330 134 LINE"
+"255 134 OFFCURVE",
+"214 188 OFFCURVE",
+"214 269 CURVE SMOOTH",
+"214 490 LINE",
+"41 490 LINE",
+"41 244 LINE SMOOTH",
+"41 90 OFFCURVE",
+"166 -8 OFFCURVE",
+"320 -8 CURVE",
+"327 134 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"644 -8 OFFCURVE",
-"766 108 OFFCURVE",
-"766 252 CURVE SMOOTH",
-"766 349 OFFCURVE",
-"749 410 OFFCURVE",
-"722 490 CURVE",
-"546 490 LINE",
-"572 410 OFFCURVE",
-"590 338 OFFCURVE",
-"590 267 CURVE SMOOTH",
-"590 179 OFFCURVE",
-"542 134 OFFCURVE",
-"476 134 CURVE",
-"469 -8 LINE"
+"641 -8 OFFCURVE",
+"763 108 OFFCURVE",
+"763 252 CURVE SMOOTH",
+"763 349 OFFCURVE",
+"746 410 OFFCURVE",
+"719 490 CURVE",
+"543 490 LINE",
+"569 410 OFFCURVE",
+"587 338 OFFCURVE",
+"587 267 CURVE SMOOTH",
+"587 179 OFFCURVE",
+"539 134 OFFCURVE",
+"473 134 CURVE",
+"466 -8 LINE"
 );
 }
 );
-width = 784;
+width = 781;
 }
 );
 leftKerningGroup = iota;
@@ -61292,7 +61298,6 @@ rightMetricsKey = "=o+5";
 unicode = 03C9;
 },
 {
-color = 5;
 glyphname = iotatonos;
 layers = (
 {
@@ -61340,7 +61345,6 @@ rightKerningGroup = iota;
 unicode = 03AF;
 },
 {
-color = 5;
 glyphname = iotadieresis;
 layers = (
 {
@@ -61388,7 +61392,6 @@ rightKerningGroup = iota;
 unicode = 03CA;
 },
 {
-color = 5;
 glyphname = iotadieresistonos;
 layers = (
 {
@@ -61436,7 +61439,6 @@ rightKerningGroup = iota;
 unicode = 0390;
 },
 {
-color = 5;
 glyphname = upsilontonos;
 layers = (
 {
@@ -61472,11 +61474,11 @@ name = upsilon;
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, 127, 0}";
+transform = "{1, 0, 0, 1, 124, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -61486,7 +61488,6 @@ rightMetricsKey = upsilon;
 unicode = 03CD;
 },
 {
-color = 5;
 glyphname = upsilondieresis;
 layers = (
 {
@@ -61522,11 +61523,11 @@ name = upsilon;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, -1, 0}";
+transform = "{1, 0, 0, 1, -4, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -61534,7 +61535,6 @@ rightKerningGroup = omicron;
 unicode = 03CB;
 },
 {
-color = 5;
 glyphname = upsilondieresistonos;
 layers = (
 {
@@ -61570,11 +61570,11 @@ name = upsilon;
 },
 {
 name = dieresistonos;
-transform = "{1, 0, 0, 1, -20, 0}";
+transform = "{1, 0, 0, 1, -23, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -61582,7 +61582,6 @@ rightKerningGroup = omicron;
 unicode = 03B0;
 },
 {
-color = 5;
 glyphname = omicrontonos;
 layers = (
 {
@@ -61630,7 +61629,6 @@ rightKerningGroup = omicron;
 unicode = 03CC;
 },
 {
-color = 5;
 glyphname = omegatonos;
 layers = (
 {
@@ -61678,7 +61676,6 @@ rightKerningGroup = omicron;
 unicode = 03CE;
 },
 {
-color = 5;
 glyphname = alphatonos;
 layers = (
 {
@@ -61692,7 +61689,7 @@ transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -61718,7 +61715,7 @@ transform = "{1, 0, 0, 1, 119, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -61726,7 +61723,6 @@ rightKerningGroup = alpha;
 unicode = 03AC;
 },
 {
-color = 5;
 glyphname = epsilontonos;
 layers = (
 {
@@ -61774,7 +61770,6 @@ rightKerningGroup = epsilon;
 unicode = 03AD;
 },
 {
-color = 5;
 glyphname = etatonos;
 layers = (
 {
@@ -61822,7 +61817,6 @@ rightKerningGroup = eta;
 unicode = 03AE;
 },
 {
-color = 5;
 glyphname = alphapsili;
 layers = (
 {
@@ -61836,7 +61830,7 @@ transform = "{1, 0, 0, 1, 146, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -61862,7 +61856,7 @@ transform = "{1, 0, 0, 1, 86, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -61870,7 +61864,6 @@ rightKerningGroup = alpha;
 unicode = 1F00;
 },
 {
-color = 5;
 glyphname = alphadasia;
 layers = (
 {
@@ -61884,7 +61877,7 @@ transform = "{1, 0, 0, 1, 136, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -61910,7 +61903,7 @@ transform = "{1, 0, 0, 1, 88, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -61918,7 +61911,6 @@ rightKerningGroup = alpha;
 unicode = 1F01;
 },
 {
-color = 5;
 glyphname = alphapsilivaria;
 layers = (
 {
@@ -61932,7 +61924,7 @@ transform = "{1, 0, 0, 1, 75, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -61958,7 +61950,7 @@ transform = "{1, 0, 0, 1, -29, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -61966,7 +61958,6 @@ rightKerningGroup = alpha;
 unicode = 1F02;
 },
 {
-color = 5;
 glyphname = alphadasiavaria;
 layers = (
 {
@@ -61980,7 +61971,7 @@ transform = "{1, 0, 0, 1, 74, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62006,7 +61997,7 @@ transform = "{1, 0, 0, 1, -40, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62014,7 +62005,6 @@ rightKerningGroup = alpha;
 unicode = 1F03;
 },
 {
-color = 5;
 glyphname = alphapsilioxia;
 layers = (
 {
@@ -62028,7 +62018,7 @@ transform = "{1, 0, 0, 1, 93, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62054,7 +62044,7 @@ transform = "{1, 0, 0, 1, -19, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62062,7 +62052,6 @@ rightKerningGroup = alpha;
 unicode = 1F04;
 },
 {
-color = 5;
 glyphname = alphadasiaoxia;
 layers = (
 {
@@ -62076,7 +62065,7 @@ transform = "{1, 0, 0, 1, 89, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62102,7 +62091,7 @@ transform = "{1, 0, 0, 1, -22, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62110,7 +62099,6 @@ rightKerningGroup = alpha;
 unicode = 1F05;
 },
 {
-color = 5;
 glyphname = alphapsiliperispomeni;
 layers = (
 {
@@ -62124,7 +62112,7 @@ transform = "{1, 0, 0, 1, 27, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62150,7 +62138,7 @@ transform = "{1, 0, 0, 1, 27, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62158,7 +62146,6 @@ rightKerningGroup = alpha;
 unicode = 1F06;
 },
 {
-color = 5;
 glyphname = alphadasiaperispomeni;
 layers = (
 {
@@ -62172,7 +62159,7 @@ transform = "{1, 0, 0, 1, 27, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62198,7 +62185,7 @@ transform = "{1, 0, 0, 1, 27, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62206,7 +62193,6 @@ rightKerningGroup = alpha;
 unicode = 1F07;
 },
 {
-color = 5;
 glyphname = alphavaria;
 layers = (
 {
@@ -62220,7 +62206,7 @@ transform = "{1, 0, 0, 1, 113, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62246,7 +62232,7 @@ transform = "{1, 0, 0, 1, 71, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62254,7 +62240,6 @@ rightKerningGroup = alpha;
 unicode = 1F70;
 },
 {
-color = 5;
 glyphname = alphaoxia;
 layers = (
 {
@@ -62268,7 +62253,7 @@ transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62294,7 +62279,7 @@ transform = "{1, 0, 0, 1, 119, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62302,7 +62287,6 @@ rightKerningGroup = alpha;
 unicode = 1F71;
 },
 {
-color = 5;
 glyphname = alphaperispomeni;
 layers = (
 {
@@ -62316,7 +62300,7 @@ transform = "{1, 0, 0, 1, 27, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62342,7 +62326,7 @@ transform = "{1, 0, 0, 1, 27, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62350,7 +62334,6 @@ rightKerningGroup = alpha;
 unicode = 1FB6;
 },
 {
-color = 5;
 glyphname = alphavrachy;
 layers = (
 {
@@ -62364,7 +62347,7 @@ transform = "{1, 0, 0, 1, 58, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62390,7 +62373,7 @@ transform = "{1, 0, 0, 1, 44, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62398,7 +62381,6 @@ rightKerningGroup = alpha;
 unicode = 1FB0;
 },
 {
-color = 5;
 glyphname = alphamacron;
 layers = (
 {
@@ -62412,7 +62394,7 @@ transform = "{1, 0, 0, 1, 13, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62438,7 +62420,7 @@ transform = "{1, 0, 0, 1, 24, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62446,7 +62428,6 @@ rightKerningGroup = alpha;
 unicode = 1FB1;
 },
 {
-color = 5;
 glyphname = alphaypogegrammeni;
 layers = (
 {
@@ -62460,7 +62441,7 @@ transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62486,7 +62467,7 @@ transform = "{1, 0, 0, 1, -28, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62494,7 +62475,6 @@ rightKerningGroup = alpha;
 unicode = 1FB3;
 },
 {
-color = 5;
 glyphname = alphavariaypogegrammeni;
 layers = (
 {
@@ -62512,7 +62492,7 @@ transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62546,7 +62526,7 @@ transform = "{1, 0, 0, 1, -28, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62554,7 +62534,6 @@ rightKerningGroup = alpha;
 unicode = 1FB2;
 },
 {
-color = 5;
 glyphname = alphaoxiaypogegrammeni;
 layers = (
 {
@@ -62572,7 +62551,7 @@ transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62606,7 +62585,7 @@ transform = "{1, 0, 0, 1, -28, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62614,7 +62593,6 @@ rightKerningGroup = alpha;
 unicode = 1FB4;
 },
 {
-color = 5;
 glyphname = alphapsiliypogegrammeni;
 layers = (
 {
@@ -62632,7 +62610,7 @@ transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62666,7 +62644,7 @@ transform = "{1, 0, 0, 1, -28, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62674,7 +62652,6 @@ rightKerningGroup = alpha;
 unicode = 1F80;
 },
 {
-color = 5;
 glyphname = alphadasiaypogegrammeni;
 layers = (
 {
@@ -62692,7 +62669,7 @@ transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62726,7 +62703,7 @@ transform = "{1, 0, 0, 1, -28, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62734,7 +62711,6 @@ rightKerningGroup = alpha;
 unicode = 1F81;
 },
 {
-color = 5;
 glyphname = alphapsilivariaypogegrammeni;
 layers = (
 {
@@ -62752,7 +62728,7 @@ transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62786,7 +62762,7 @@ transform = "{1, 0, 0, 1, -28, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62794,7 +62770,6 @@ rightKerningGroup = alpha;
 unicode = 1F82;
 },
 {
-color = 5;
 glyphname = alphadasiavariaypogegrammeni;
 layers = (
 {
@@ -62812,7 +62787,7 @@ transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62846,7 +62821,7 @@ transform = "{1, 0, 0, 1, -28, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62854,7 +62829,6 @@ rightKerningGroup = alpha;
 unicode = 1F83;
 },
 {
-color = 5;
 glyphname = alphapsilioxiaypogegrammeni;
 layers = (
 {
@@ -62872,7 +62846,7 @@ transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62906,7 +62880,7 @@ transform = "{1, 0, 0, 1, -28, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62914,7 +62888,6 @@ rightKerningGroup = alpha;
 unicode = 1F84;
 },
 {
-color = 5;
 glyphname = alphadasiaoxiaypogegrammeni;
 layers = (
 {
@@ -62932,7 +62905,7 @@ transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -62966,7 +62939,7 @@ transform = "{1, 0, 0, 1, -28, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -62974,7 +62947,6 @@ rightKerningGroup = alpha;
 unicode = 1F85;
 },
 {
-color = 5;
 glyphname = alphapsiliperispomeniypogegrammeni;
 layers = (
 {
@@ -62992,7 +62964,7 @@ transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -63026,7 +62998,7 @@ transform = "{1, 0, 0, 1, -28, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -63034,7 +63006,6 @@ rightKerningGroup = alpha;
 unicode = 1F86;
 },
 {
-color = 5;
 glyphname = alphadasiaperispomeniypogegrammeni;
 layers = (
 {
@@ -63052,7 +63023,7 @@ transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -63086,7 +63057,7 @@ transform = "{1, 0, 0, 1, -28, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -63094,7 +63065,6 @@ rightKerningGroup = alpha;
 unicode = 1F87;
 },
 {
-color = 5;
 glyphname = alphaperispomeniypogegrammeni;
 layers = (
 {
@@ -63112,7 +63082,7 @@ transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 588;
+width = 589;
 },
 {
 components = (
@@ -63146,7 +63116,7 @@ transform = "{1, 0, 0, 1, -28, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 596;
+width = 597;
 }
 );
 leftKerningGroup = omicron;
@@ -63154,7 +63124,6 @@ rightKerningGroup = alpha;
 unicode = 1FB7;
 },
 {
-color = 5;
 glyphname = epsilonpsili;
 layers = (
 {
@@ -63202,7 +63171,6 @@ rightKerningGroup = epsilon;
 unicode = 1F10;
 },
 {
-color = 5;
 glyphname = epsilondasia;
 layers = (
 {
@@ -63250,7 +63218,6 @@ rightKerningGroup = epsilon;
 unicode = 1F11;
 },
 {
-color = 5;
 glyphname = epsilonpsilivaria;
 layers = (
 {
@@ -63298,7 +63265,6 @@ rightKerningGroup = epsilon;
 unicode = 1F12;
 },
 {
-color = 5;
 glyphname = epsilondasiavaria;
 layers = (
 {
@@ -63346,7 +63312,6 @@ rightKerningGroup = epsilon;
 unicode = 1F13;
 },
 {
-color = 5;
 glyphname = epsilonpsilioxia;
 layers = (
 {
@@ -63394,7 +63359,6 @@ rightKerningGroup = epsilon;
 unicode = 1F14;
 },
 {
-color = 5;
 glyphname = epsilondasiaoxia;
 layers = (
 {
@@ -63442,7 +63406,6 @@ rightKerningGroup = epsilon;
 unicode = 1F15;
 },
 {
-color = 5;
 glyphname = epsilonvaria;
 layers = (
 {
@@ -63490,7 +63453,6 @@ rightKerningGroup = epsilon;
 unicode = 1F72;
 },
 {
-color = 5;
 glyphname = epsilonoxia;
 layers = (
 {
@@ -63538,7 +63500,6 @@ rightKerningGroup = epsilon;
 unicode = 1F73;
 },
 {
-color = 5;
 glyphname = etapsili;
 layers = (
 {
@@ -63586,7 +63547,6 @@ rightKerningGroup = eta;
 unicode = 1F20;
 },
 {
-color = 5;
 glyphname = etadasia;
 layers = (
 {
@@ -63634,7 +63594,6 @@ rightKerningGroup = eta;
 unicode = 1F21;
 },
 {
-color = 5;
 glyphname = etapsilivaria;
 layers = (
 {
@@ -63682,7 +63641,6 @@ rightKerningGroup = eta;
 unicode = 1F22;
 },
 {
-color = 5;
 glyphname = etadasiavaria;
 layers = (
 {
@@ -63730,7 +63688,6 @@ rightKerningGroup = eta;
 unicode = 1F23;
 },
 {
-color = 5;
 glyphname = etapsilioxia;
 layers = (
 {
@@ -63778,7 +63735,6 @@ rightKerningGroup = eta;
 unicode = 1F24;
 },
 {
-color = 5;
 glyphname = etadasiaoxia;
 layers = (
 {
@@ -63826,7 +63782,6 @@ rightKerningGroup = eta;
 unicode = 1F25;
 },
 {
-color = 5;
 glyphname = etapsiliperispomeni;
 layers = (
 {
@@ -63874,7 +63829,6 @@ rightKerningGroup = eta;
 unicode = 1F26;
 },
 {
-color = 5;
 glyphname = etadasiaperispomeni;
 layers = (
 {
@@ -63922,7 +63876,6 @@ rightKerningGroup = eta;
 unicode = 1F27;
 },
 {
-color = 5;
 glyphname = etavaria;
 layers = (
 {
@@ -63970,7 +63923,6 @@ rightKerningGroup = eta;
 unicode = 1F74;
 },
 {
-color = 5;
 glyphname = etaoxia;
 layers = (
 {
@@ -64018,7 +63970,6 @@ rightKerningGroup = eta;
 unicode = 1F75;
 },
 {
-color = 5;
 glyphname = etaperispomeni;
 layers = (
 {
@@ -64066,7 +64017,6 @@ rightKerningGroup = eta;
 unicode = 1FC6;
 },
 {
-color = 5;
 glyphname = etaypogegrammeni;
 layers = (
 {
@@ -64114,7 +64064,6 @@ rightKerningGroup = eta;
 unicode = 1FC3;
 },
 {
-color = 5;
 glyphname = etavariaypogegrammeni;
 layers = (
 {
@@ -64174,7 +64123,6 @@ rightKerningGroup = eta;
 unicode = 1FC2;
 },
 {
-color = 5;
 glyphname = etaoxiaypogegrammeni;
 layers = (
 {
@@ -64234,7 +64182,6 @@ rightKerningGroup = eta;
 unicode = 1FC4;
 },
 {
-color = 5;
 glyphname = etapsiliypogegrammeni;
 layers = (
 {
@@ -64294,7 +64241,6 @@ rightKerningGroup = eta;
 unicode = 1F90;
 },
 {
-color = 5;
 glyphname = etadasiaypogegrammeni;
 layers = (
 {
@@ -64354,7 +64300,6 @@ rightKerningGroup = eta;
 unicode = 1F91;
 },
 {
-color = 5;
 glyphname = etapsilivariaypogegrammeni;
 layers = (
 {
@@ -64414,7 +64359,6 @@ rightKerningGroup = eta;
 unicode = 1F92;
 },
 {
-color = 5;
 glyphname = etadasiavariaypogegrammeni;
 layers = (
 {
@@ -64474,7 +64418,6 @@ rightKerningGroup = eta;
 unicode = 1F93;
 },
 {
-color = 5;
 glyphname = etapsilioxiaypogegrammeni;
 layers = (
 {
@@ -64534,7 +64477,6 @@ rightKerningGroup = eta;
 unicode = 1F94;
 },
 {
-color = 5;
 glyphname = etadasiaoxiaypogegrammeni;
 layers = (
 {
@@ -64594,7 +64536,6 @@ rightKerningGroup = eta;
 unicode = 1F95;
 },
 {
-color = 5;
 glyphname = etapsiliperispomeniypogegrammeni;
 layers = (
 {
@@ -64654,7 +64595,6 @@ rightKerningGroup = eta;
 unicode = 1F96;
 },
 {
-color = 5;
 glyphname = etadasiaperispomeniypogegrammeni;
 layers = (
 {
@@ -64714,7 +64654,6 @@ rightKerningGroup = eta;
 unicode = 1F97;
 },
 {
-color = 5;
 glyphname = etaperispomeniypogegrammeni;
 layers = (
 {
@@ -64774,7 +64713,6 @@ rightKerningGroup = eta;
 unicode = 1FC7;
 },
 {
-color = 5;
 glyphname = iotapsili;
 layers = (
 {
@@ -64822,7 +64760,6 @@ rightKerningGroup = iota;
 unicode = 1F30;
 },
 {
-color = 5;
 glyphname = iotadasia;
 layers = (
 {
@@ -64870,7 +64807,6 @@ rightKerningGroup = iota;
 unicode = 1F31;
 },
 {
-color = 5;
 glyphname = iotapsilivaria;
 layers = (
 {
@@ -64918,7 +64854,6 @@ rightKerningGroup = iota;
 unicode = 1F32;
 },
 {
-color = 5;
 glyphname = iotadasiavaria;
 layers = (
 {
@@ -64966,7 +64901,6 @@ rightKerningGroup = iota;
 unicode = 1F33;
 },
 {
-color = 5;
 glyphname = iotapsilioxia;
 layers = (
 {
@@ -65022,7 +64956,6 @@ rightKerningGroup = iota;
 unicode = 1F34;
 },
 {
-color = 5;
 glyphname = iotadasiaoxia;
 layers = (
 {
@@ -65081,7 +65014,6 @@ rightKerningGroup = iota;
 unicode = 1F35;
 },
 {
-color = 5;
 glyphname = iotapsiliperispomeni;
 layers = (
 {
@@ -65129,7 +65061,6 @@ rightKerningGroup = iota;
 unicode = 1F36;
 },
 {
-color = 5;
 glyphname = iotadasiaperispomeni;
 layers = (
 {
@@ -65177,7 +65108,6 @@ rightKerningGroup = iota;
 unicode = 1F37;
 },
 {
-color = 5;
 glyphname = iotavaria;
 layers = (
 {
@@ -65225,7 +65155,6 @@ rightKerningGroup = iota;
 unicode = 1F76;
 },
 {
-color = 5;
 glyphname = iotaoxia;
 layers = (
 {
@@ -65273,7 +65202,6 @@ rightKerningGroup = iota;
 unicode = 1F77;
 },
 {
-color = 5;
 glyphname = iotaperispomeni;
 layers = (
 {
@@ -65321,7 +65249,6 @@ rightKerningGroup = iota;
 unicode = 1FD6;
 },
 {
-color = 5;
 glyphname = iotavrachy;
 layers = (
 {
@@ -65369,7 +65296,6 @@ rightKerningGroup = iota;
 unicode = 1FD0;
 },
 {
-color = 5;
 glyphname = iotamacron;
 layers = (
 {
@@ -65417,7 +65343,6 @@ rightKerningGroup = iota;
 unicode = 1FD1;
 },
 {
-color = 5;
 glyphname = iotadialytikavaria;
 layers = (
 {
@@ -65465,7 +65390,6 @@ rightKerningGroup = iota;
 unicode = 1FD2;
 },
 {
-color = 5;
 glyphname = iotadialytikaoxia;
 layers = (
 {
@@ -65513,7 +65437,6 @@ rightKerningGroup = iota;
 unicode = 1FD3;
 },
 {
-color = 5;
 glyphname = iotadialytikaperispomeni;
 layers = (
 {
@@ -65561,7 +65484,6 @@ rightKerningGroup = iota;
 unicode = 1FD7;
 },
 {
-color = 5;
 glyphname = omicronpsili;
 layers = (
 {
@@ -65609,7 +65531,6 @@ rightKerningGroup = omicron;
 unicode = 1F40;
 },
 {
-color = 5;
 glyphname = omicrondasia;
 layers = (
 {
@@ -65657,7 +65578,6 @@ rightKerningGroup = omicron;
 unicode = 1F41;
 },
 {
-color = 5;
 glyphname = omicronpsilivaria;
 layers = (
 {
@@ -65705,7 +65625,6 @@ rightKerningGroup = omicron;
 unicode = 1F42;
 },
 {
-color = 5;
 glyphname = omicrondasiavaria;
 layers = (
 {
@@ -65753,7 +65672,6 @@ rightKerningGroup = omicron;
 unicode = 1F43;
 },
 {
-color = 5;
 glyphname = omicronpsilioxia;
 layers = (
 {
@@ -65801,7 +65719,6 @@ rightKerningGroup = omicron;
 unicode = 1F44;
 },
 {
-color = 5;
 glyphname = omicrondasiaoxia;
 layers = (
 {
@@ -65849,7 +65766,6 @@ rightKerningGroup = omicron;
 unicode = 1F45;
 },
 {
-color = 5;
 glyphname = omicronvaria;
 layers = (
 {
@@ -65897,7 +65813,6 @@ rightKerningGroup = omicron;
 unicode = 1F78;
 },
 {
-color = 5;
 glyphname = omicronoxia;
 layers = (
 {
@@ -65945,7 +65860,6 @@ rightKerningGroup = omicron;
 unicode = 1F79;
 },
 {
-color = 5;
 glyphname = rhopsili;
 layers = (
 {
@@ -65955,11 +65869,11 @@ name = rho;
 },
 {
 name = psili;
-transform = "{1, 0, 0, 1, 165, 0}";
+transform = "{1, 0, 0, 1, 155, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 528;
+width = 518;
 },
 {
 components = (
@@ -65981,11 +65895,11 @@ name = rho;
 },
 {
 name = psili;
-transform = "{1, 0, 0, 1, 109, 0}";
+transform = "{1, 0, 0, 1, 99, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 571;
+width = 561;
 }
 );
 leftKerningGroup = rho;
@@ -65993,7 +65907,6 @@ rightKerningGroup = omicron;
 unicode = 1FE4;
 },
 {
-color = 5;
 glyphname = rhodasia;
 layers = (
 {
@@ -66003,11 +65916,11 @@ name = rho;
 },
 {
 name = dasia;
-transform = "{1, 0, 0, 1, 155, 0}";
+transform = "{1, 0, 0, 1, 145, 0}";
 }
 );
 layerId = "0B2E441B-685E-400D-9B9B-E078DEED62EF";
-width = 528;
+width = 518;
 },
 {
 components = (
@@ -66029,11 +65942,11 @@ name = rho;
 },
 {
 name = dasia;
-transform = "{1, 0, 0, 1, 111, 0}";
+transform = "{1, 0, 0, 1, 101, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 571;
+width = 561;
 }
 );
 leftKerningGroup = rho;
@@ -66041,7 +65954,6 @@ rightKerningGroup = omicron;
 unicode = 1FE5;
 },
 {
-color = 5;
 glyphname = upsilonpsili;
 layers = (
 {
@@ -66077,11 +65989,11 @@ name = upsilon;
 },
 {
 name = psili;
-transform = "{1, 0, 0, 1, 94, 0}";
+transform = "{1, 0, 0, 1, 91, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66089,7 +66001,6 @@ rightKerningGroup = omicron;
 unicode = 1F50;
 },
 {
-color = 5;
 glyphname = upsilondasia;
 layers = (
 {
@@ -66125,11 +66036,11 @@ name = upsilon;
 },
 {
 name = dasia;
-transform = "{1, 0, 0, 1, 96, 0}";
+transform = "{1, 0, 0, 1, 93, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66137,7 +66048,6 @@ rightKerningGroup = omicron;
 unicode = 1F51;
 },
 {
-color = 5;
 glyphname = upsilonpsilivaria;
 layers = (
 {
@@ -66173,11 +66083,11 @@ name = upsilon;
 },
 {
 name = psilivaria;
-transform = "{1, 0, 0, 1, -21, 0}";
+transform = "{1, 0, 0, 1, -24, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66185,7 +66095,6 @@ rightKerningGroup = omicron;
 unicode = 1F52;
 },
 {
-color = 5;
 glyphname = upsilondasiavaria;
 layers = (
 {
@@ -66221,11 +66130,11 @@ name = upsilon;
 },
 {
 name = dasiavaria;
-transform = "{1, 0, 0, 1, -32, 0}";
+transform = "{1, 0, 0, 1, -35, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66233,7 +66142,6 @@ rightKerningGroup = omicron;
 unicode = 1F53;
 },
 {
-color = 5;
 glyphname = upsilonpsilioxia;
 layers = (
 {
@@ -66269,11 +66177,11 @@ name = upsilon;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, -11, 0}";
+transform = "{1, 0, 0, 1, -14, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66281,7 +66189,6 @@ rightKerningGroup = omicron;
 unicode = 1F54;
 },
 {
-color = 5;
 glyphname = upsilondasiaoxia;
 layers = (
 {
@@ -66317,11 +66224,11 @@ name = upsilon;
 },
 {
 name = dasiaoxia;
-transform = "{1, 0, 0, 1, -14, 0}";
+transform = "{1, 0, 0, 1, -17, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66329,7 +66236,6 @@ rightKerningGroup = omicron;
 unicode = 1F55;
 },
 {
-color = 5;
 glyphname = upsilonpsiliperispomeni;
 layers = (
 {
@@ -66365,11 +66271,11 @@ name = upsilon;
 },
 {
 name = psiliperispomeni;
-transform = "{1, 0, 0, 1, 35, 0}";
+transform = "{1, 0, 0, 1, 32, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66377,7 +66283,6 @@ rightKerningGroup = omicron;
 unicode = 1F56;
 },
 {
-color = 5;
 glyphname = upsilondasiaperispomeni;
 layers = (
 {
@@ -66413,11 +66318,11 @@ name = upsilon;
 },
 {
 name = dasiaperispomeni;
-transform = "{1, 0, 0, 1, 35, 0}";
+transform = "{1, 0, 0, 1, 32, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66425,7 +66330,6 @@ rightKerningGroup = omicron;
 unicode = 1F57;
 },
 {
-color = 5;
 glyphname = upsilonvaria;
 layers = (
 {
@@ -66461,11 +66365,11 @@ name = upsilon;
 },
 {
 name = varia;
-transform = "{1, 0, 0, 1, 79, 0}";
+transform = "{1, 0, 0, 1, 76, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66473,7 +66377,6 @@ rightKerningGroup = omicron;
 unicode = 1F7A;
 },
 {
-color = 5;
 glyphname = upsilonoxia;
 layers = (
 {
@@ -66509,11 +66412,11 @@ name = upsilon;
 },
 {
 name = oxia;
-transform = "{1, 0, 0, 1, 127, 0}";
+transform = "{1, 0, 0, 1, 124, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66521,7 +66424,6 @@ rightKerningGroup = omicron;
 unicode = 1F7B;
 },
 {
-color = 5;
 glyphname = upsilonperispomeni;
 layers = (
 {
@@ -66557,11 +66459,11 @@ name = upsilon;
 },
 {
 name = perispomeni;
-transform = "{1, 0, 0, 1, 35, 0}";
+transform = "{1, 0, 0, 1, 32, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66569,7 +66471,6 @@ rightKerningGroup = omicron;
 unicode = 1FE6;
 },
 {
-color = 5;
 glyphname = upsilonvrachy;
 layers = (
 {
@@ -66605,11 +66506,11 @@ name = upsilon;
 },
 {
 name = vrachy;
-transform = "{1, 0, 0, 1, 52, 0}";
+transform = "{1, 0, 0, 1, 49, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66617,7 +66518,6 @@ rightKerningGroup = omicron;
 unicode = 1FE0;
 },
 {
-color = 5;
 glyphname = upsilonmacron;
 layers = (
 {
@@ -66652,11 +66552,11 @@ name = upsilon;
 },
 {
 name = macron;
-transform = "{1, 0, 0, 1, 32, 0}";
+transform = "{1, 0, 0, 1, 29, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66664,7 +66564,6 @@ rightKerningGroup = omicron;
 unicode = 1FE1;
 },
 {
-color = 5;
 glyphname = upsilondialytikavaria;
 layers = (
 {
@@ -66700,11 +66599,11 @@ name = upsilon;
 },
 {
 name = dialytikavaria;
-transform = "{1, 0, 0, 1, -61, 0}";
+transform = "{1, 0, 0, 1, -64, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66712,7 +66611,6 @@ rightKerningGroup = omicron;
 unicode = 1FE2;
 },
 {
-color = 5;
 glyphname = upsilondialytikaoxia;
 layers = (
 {
@@ -66748,11 +66646,11 @@ name = upsilon;
 },
 {
 name = dialytikaoxia;
-transform = "{1, 0, 0, 1, -20, 0}";
+transform = "{1, 0, 0, 1, -23, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66760,7 +66658,6 @@ rightKerningGroup = omicron;
 unicode = 1FE3;
 },
 {
-color = 5;
 glyphname = upsilondialytikaperispomeni;
 layers = (
 {
@@ -66796,11 +66693,11 @@ name = upsilon;
 },
 {
 name = dialytikaperispomeni;
-transform = "{1, 0, 0, 1, 6, 0}";
+transform = "{1, 0, 0, 1, 3, 0}";
 }
 );
 layerId = "51C2DFEF-3776-4D13-9284-96485B799B57";
-width = 564;
+width = 561;
 }
 );
 leftKerningGroup = iota;
@@ -66808,7 +66705,6 @@ rightKerningGroup = omicron;
 unicode = 1FE7;
 },
 {
-color = 5;
 glyphname = omegapsili;
 layers = (
 {
@@ -66856,7 +66752,6 @@ rightKerningGroup = omicron;
 unicode = 1F60;
 },
 {
-color = 5;
 glyphname = omegadasia;
 layers = (
 {
@@ -66904,7 +66799,6 @@ rightKerningGroup = omicron;
 unicode = 1F61;
 },
 {
-color = 5;
 glyphname = omegapsilivaria;
 layers = (
 {
@@ -66952,7 +66846,6 @@ rightKerningGroup = omicron;
 unicode = 1F62;
 },
 {
-color = 5;
 glyphname = omegadasiavaria;
 layers = (
 {
@@ -67000,7 +66893,6 @@ rightKerningGroup = omicron;
 unicode = 1F63;
 },
 {
-color = 5;
 glyphname = omegapsilioxia;
 layers = (
 {
@@ -67048,7 +66940,6 @@ rightKerningGroup = omicron;
 unicode = 1F64;
 },
 {
-color = 5;
 glyphname = omegadasiaoxia;
 layers = (
 {
@@ -67096,7 +66987,6 @@ rightKerningGroup = omicron;
 unicode = 1F65;
 },
 {
-color = 5;
 glyphname = omegapsiliperispomeni;
 layers = (
 {
@@ -67144,7 +67034,6 @@ rightKerningGroup = omicron;
 unicode = 1F66;
 },
 {
-color = 5;
 glyphname = omegadasiaperispomeni;
 layers = (
 {
@@ -67192,7 +67081,6 @@ rightKerningGroup = omicron;
 unicode = 1F67;
 },
 {
-color = 5;
 glyphname = omegavaria;
 layers = (
 {
@@ -67240,7 +67128,6 @@ rightKerningGroup = omicron;
 unicode = 1F7C;
 },
 {
-color = 5;
 glyphname = omegaoxia;
 layers = (
 {
@@ -67288,7 +67175,6 @@ rightKerningGroup = omicron;
 unicode = 1F7D;
 },
 {
-color = 5;
 glyphname = omegaperispomeni;
 layers = (
 {
@@ -67336,7 +67222,6 @@ rightKerningGroup = omicron;
 unicode = 1FF6;
 },
 {
-color = 5;
 glyphname = omegaypogegrammeni;
 layers = (
 {
@@ -67384,7 +67269,6 @@ rightKerningGroup = omicron;
 unicode = 1FF3;
 },
 {
-color = 5;
 glyphname = omegavariaypogegrammeni;
 layers = (
 {
@@ -67444,7 +67328,6 @@ rightKerningGroup = omicron;
 unicode = 1FF2;
 },
 {
-color = 5;
 glyphname = omegaoxiaypogegrammeni;
 layers = (
 {
@@ -67504,7 +67387,6 @@ rightKerningGroup = omicron;
 unicode = 1FF4;
 },
 {
-color = 5;
 glyphname = omegapsiliypogegrammeni;
 layers = (
 {
@@ -67564,7 +67446,6 @@ rightKerningGroup = omicron;
 unicode = 1FA0;
 },
 {
-color = 5;
 glyphname = omegadasiaypogegrammeni;
 layers = (
 {
@@ -67624,7 +67505,6 @@ rightKerningGroup = omicron;
 unicode = 1FA1;
 },
 {
-color = 5;
 glyphname = omegapsilivariaypogegrammeni;
 layers = (
 {
@@ -67684,7 +67564,6 @@ rightKerningGroup = omicron;
 unicode = 1FA2;
 },
 {
-color = 5;
 glyphname = omegadasiavariaypogegrammeni;
 layers = (
 {
@@ -67744,7 +67623,6 @@ rightKerningGroup = omicron;
 unicode = 1FA3;
 },
 {
-color = 5;
 glyphname = omegapsilioxiaypogegrammeni;
 layers = (
 {
@@ -67804,7 +67682,6 @@ rightKerningGroup = omicron;
 unicode = 1FA4;
 },
 {
-color = 5;
 glyphname = omegadasiaoxiaypogegrammeni;
 layers = (
 {
@@ -67864,7 +67741,6 @@ rightKerningGroup = omicron;
 unicode = 1FA5;
 },
 {
-color = 5;
 glyphname = omegapsiliperispomeniypogegrammeni;
 layers = (
 {
@@ -67924,7 +67800,6 @@ rightKerningGroup = omicron;
 unicode = 1FA6;
 },
 {
-color = 5;
 glyphname = omegadasiaperispomeniypogegrammeni;
 layers = (
 {
@@ -67984,7 +67859,6 @@ rightKerningGroup = omicron;
 unicode = 1FA7;
 },
 {
-color = 5;
 glyphname = omegaperispomeniypogegrammeni;
 layers = (
 {
@@ -68152,9 +68026,11 @@ nodes = (
 );
 }
 );
-width = 578;
+width = 559;
 }
 );
+leftMetricsKey = "=kappe-17";
+rightMetricsKey = kappa;
 unicode = 03D7;
 },
 {
@@ -106667,14 +106543,17 @@ zeta = -25;
 "@MMK_R_eta" = -110;
 "@MMK_R_iota" = -100;
 "@MMK_R_nu" = -70;
-"@MMK_R_omicron" = -110;
+"@MMK_R_omicron" = -95;
 "@MMK_R_pi" = -95;
 "@MMK_R_rho" = -140;
 "@MMK_R_tau" = -100;
 alphadasiavaria = -110;
 alphadasiavariaypogegrammeni = -110;
+alphamacron = -100;
+alphaperispomeni = -95;
 alphapsilivaria = -100;
 alphapsilivariaypogegrammeni = -100;
+alphavrachy = -90;
 beta = -30;
 chi = -70;
 delta = -50;
@@ -106683,9 +106562,9 @@ epsilondasiavaria = -90;
 epsilonpsilioxia = -100;
 epsilonpsilivaria = -90;
 iotadasia = -25;
-iotadasiaoxia = 10;
+iotadasiaoxia = 15;
 iotadasiaperispomeni = 0;
-iotadasiavaria = 30;
+iotadasiavaria = 35;
 iotadialytikaoxia = 20;
 iotadialytikaperispomeni = 60;
 iotadialytikavaria = 55;
@@ -106695,9 +106574,9 @@ iotamacron = 55;
 iotaoxia = -65;
 iotaperispomeni = 50;
 iotapsili = -35;
-iotapsilioxia = 20;
+iotapsilioxia = 25;
 iotapsiliperispomeni = -15;
-iotapsilivaria = 30;
+iotapsilivaria = 35;
 iotatonos = -65;
 iotavaria = -15;
 iotavrachy = 45;
@@ -106715,8 +106594,6 @@ upsilonpsilivaria = -80;
 upsilonvrachy = -85;
 xi = -40;
 zeta = -50;
-alphaperispomeni = -110;
-alphavrachy = -105;
 };
 "@MMK_L_Upsilon" = {
 "@MMK_R_Alpha" = -70;
@@ -106806,6 +106683,12 @@ upsilon = -20;
 "@MMK_L_omicron" = {
 "@MMK_R_eta" = 0;
 };
+"@MMK_L_sigmafinal" = {
+"@MMK_R_omicron" = -10;
+};
+"@MMK_L_xi" = {
+"@MMK_R_omicron" = 0;
+};
 "@MMK_L_zeta" = {
 "@MMK_R_eta" = -30;
 eta = -30;
@@ -106868,7 +106751,7 @@ lambda = 0;
 "@MMK_R_iota" = -15;
 "@MMK_R_lambda" = -20;
 "@MMK_R_nu" = -30;
-"@MMK_R_omicron" = -20;
+"@MMK_R_omicron" = -25;
 "@MMK_R_pi" = -35;
 "@MMK_R_tau" = -55;
 chi = -40;
@@ -106962,7 +106845,7 @@ upsilonpsili = -35;
 upsilontonos = -35;
 upsilonvaria = -35;
 xi = -15;
-zeta = -15;
+zeta = -25;
 };
 "@MMK_L_Epsilon" = {
 "@MMK_R_Alphapsiliperispomeni" = 245;
@@ -107000,11 +106883,13 @@ zeta = 0;
 "@MMK_R_Etapsilivaria" = 340;
 "@MMK_R_Etatonos" = 140;
 "@MMK_R_Omegapsiliperispomeni" = 380;
+"@MMK_R_Omicron" = 0;
 "@MMK_R_Omicronpsilivaria" = 340;
 "@MMK_R_Omicrontonos" = 135;
 "@MMK_R_Upsilondasiaperispomeni" = 410;
 "@MMK_R_Upsilondasiavaria" = 410;
 "@MMK_R_Upsilontonos" = 210;
+"@MMK_R_omicron" = 0;
 Iotavrachy = 90;
 xi = 20;
 };
@@ -107028,7 +106913,7 @@ xi = 20;
 "@MMK_R_Upsilondasiavaria" = 410;
 "@MMK_R_Upsilontonos" = 210;
 "@MMK_R_Zeta" = 0;
-"@MMK_R_omicron" = 5;
+"@MMK_R_omicron" = 0;
 epsilon = 10;
 };
 "@MMK_L_Omicron" = {
@@ -107050,9 +106935,24 @@ epsilon = 10;
 "@MMK_R_Xi" = -15;
 "@MMK_R_Zeta" = -30;
 "@MMK_R_chi" = 0;
+"@MMK_R_eta" = 0;
+"@MMK_R_iota" = 0;
 "@MMK_R_lambda" = -35;
-"@MMK_R_rho" = -25;
-lambda = -35;
+"@MMK_R_rho" = -10;
+"@MMK_R_tau" = 15;
+iotadasiaoxia = 30;
+iotadasiavaria = 50;
+iotadialytikaoxia = 85;
+iotadialytikaperispomeni = 55;
+iotadialytikavaria = 125;
+iotadieresis = 50;
+iotadieresistonos = 85;
+iotamacron = 25;
+iotaperispomeni = 40;
+iotapsilioxia = 20;
+iotapsilivaria = 30;
+iotavrachy = 15;
+lambda = -30;
 };
 "@MMK_L_Phi" = {
 "@MMK_R_Alpha" = -50;
@@ -107147,6 +107047,7 @@ lambda = -40;
 "@MMK_R_Upsilondasiaperispomeni" = 470;
 "@MMK_R_Upsilondasiavaria" = 465;
 "@MMK_R_Upsilontonos" = 260;
+"@MMK_R_beta" = -15;
 "@MMK_R_chi" = -40;
 "@MMK_R_epsilon" = -60;
 "@MMK_R_eta" = -70;
@@ -107223,7 +107124,7 @@ upsilonpsilioxia = -10;
 upsilonpsilivaria = 0;
 upsilonvrachy = -20;
 xi = 0;
-zeta = 20;
+zeta = 15;
 };
 "@MMK_L_Upsilon" = {
 "@MMK_R_Alpha" = -70;
@@ -107243,7 +107144,7 @@ zeta = 20;
 "@MMK_R_Upsilondasiaperispomeni" = 450;
 "@MMK_R_Upsilondasiavaria" = 455;
 "@MMK_R_Upsilontonos" = 255;
-"@MMK_R_beta" = -20;
+"@MMK_R_beta" = -25;
 "@MMK_R_chi" = -55;
 "@MMK_R_epsilon" = -55;
 "@MMK_R_eta" = -65;
@@ -107255,7 +107156,6 @@ zeta = 20;
 "@MMK_R_pi" = -40;
 "@MMK_R_rho" = -80;
 "@MMK_R_tau" = -45;
-beta = -20;
 chi = -50;
 delta = -20;
 epsilondasiaoxia = 0;
@@ -107336,25 +107236,239 @@ psi = -25;
 theta = -15;
 zeta = 0;
 };
+"@MMK_L_alpha" = {
+"@MMK_R_chi" = 20;
+"@MMK_R_epsilon" = 10;
+"@MMK_R_iota" = -5;
+"@MMK_R_nu" = 20;
+"@MMK_R_omicron" = -10;
+"@MMK_R_pi" = 10;
+"@MMK_R_rho" = 0;
+"@MMK_R_tau" = 15;
+omega = -5;
+phi = -5;
+psi = -10;
+lambda = 30;
+xi = 0;
+};
+"@MMK_L_chi" = {
+"@MMK_R_chi" = 0;
+"@MMK_R_epsilon" = -10;
+"@MMK_R_lambda" = -50;
+"@MMK_R_nu" = 35;
+"@MMK_R_omicron" = -35;
+"@MMK_R_pi" = 25;
+"@MMK_R_tau" = 30;
+delta = -35;
+omega = -15;
+phi = -10;
+xi = -15;
+};
+"@MMK_L_epsilon" = {
+"@MMK_R_Omicron" = -5;
+"@MMK_R_chi" = -10;
+"@MMK_R_lambda" = 15;
+"@MMK_R_nu" = -5;
+"@MMK_R_omicron" = -15;
+"@MMK_R_pi" = 0;
+"@MMK_R_rho" = -10;
+"@MMK_R_tau" = 0;
+};
 "@MMK_L_eta" = {
-"@MMK_R_iota" = 5;
+"@MMK_R_chi" = -5;
+"@MMK_R_eta" = 0;
+"@MMK_R_iota" = 0;
+"@MMK_R_lambda" = -5;
+"@MMK_R_nu" = -20;
+"@MMK_R_tau" = -10;
 };
 "@MMK_L_iota" = {
-"@MMK_R_Eta" = 0;
-"@MMK_R_eta" = -5;
-"@MMK_R_lambda" = 30;
+"@MMK_R_Omicron" = -15;
+"@MMK_R_chi" = -20;
+"@MMK_R_iota" = -10;
+"@MMK_R_lambda" = 25;
+"@MMK_R_nu" = -15;
+"@MMK_R_omicron" = -15;
+"@MMK_R_pi" = -10;
+"@MMK_R_tau" = -25;
+beta = 0;
+psi = -15;
+};
+"@MMK_L_kappa" = {
+"@MMK_R_Omicron" = 10;
+"@MMK_R_chi" = 20;
+"@MMK_R_epsilon" = 0;
+"@MMK_R_iota" = 0;
+"@MMK_R_lambda" = -10;
+"@MMK_R_nu" = 20;
+"@MMK_R_omicron" = -5;
+"@MMK_R_pi" = 20;
+"@MMK_R_rho" = 0;
+"@MMK_R_tau" = 25;
+iotapsilivaria = 0;
+lambda = 0;
 };
 "@MMK_L_lambda" = {
-"@MMK_R_omicron" = -35;
+"@MMK_R_Omicron" = -30;
+"@MMK_R_chi" = -55;
+"@MMK_R_eta" = 0;
+"@MMK_R_iota" = -10;
+"@MMK_R_nu" = -40;
+"@MMK_R_omicron" = -30;
+"@MMK_R_pi" = -15;
+"@MMK_R_rho" = 0;
+"@MMK_R_tau" = -50;
+omega = -25;
+psi = -40;
+upsilon = -40;
+xi = -20;
+};
+"@MMK_L_nu" = {
+"@MMK_R_chi" = 10;
+"@MMK_R_lambda" = -50;
+"@MMK_R_nu" = 20;
+"@MMK_R_omicron" = -15;
+"@MMK_R_pi" = 10;
+"@MMK_R_rho" = -20;
+"@MMK_R_tau" = 20;
+delta = -20;
+omega = -10;
+phi = 0;
 };
 "@MMK_L_omicron" = {
+"@MMK_R_Omicron" = 0;
+"@MMK_R_chi" = -35;
 "@MMK_R_lambda" = -40;
+"@MMK_R_nu" = -20;
+"@MMK_R_pi" = -10;
+"@MMK_R_tau" = -10;
+"@MMK_R_iota" = 0;
+"@MMK_R_eta" = 0;
+theta = 0;
+"@MMK_R_omicron" = 0;
+"@MMK_R_rho" = 0;
+};
+"@MMK_L_pi" = {
+"@MMK_R_chi" = 0;
+"@MMK_R_nu" = 0;
+"@MMK_R_omicron" = -15;
+"@MMK_R_pi" = 15;
+"@MMK_R_rho" = -10;
+"@MMK_R_tau" = 20;
+phi = -10;
+};
+"@MMK_L_sigma" = {
+"@MMK_R_Omicron" = 15;
+"@MMK_R_chi" = 25;
+"@MMK_R_epsilon" = 5;
+"@MMK_R_lambda" = -40;
+"@MMK_R_nu" = 25;
+"@MMK_R_omicron" = -10;
+"@MMK_R_pi" = 30;
+"@MMK_R_rho" = -20;
+"@MMK_R_tau" = 35;
+omega = -5;
+phi = 10;
 };
 "@MMK_L_tau" = {
+"@MMK_R_Omicron" = 15;
+"@MMK_R_chi" = 20;
 "@MMK_R_eta" = -5;
+"@MMK_R_nu" = 20;
+"@MMK_R_omicron" = -10;
+"@MMK_R_pi" = 35;
+"@MMK_R_rho" = -10;
+"@MMK_R_tau" = 35;
+omega = -5;
+phi = 10;
+};
+"@MMK_L_xi" = {
+"@MMK_R_Omicron" = -10;
+"@MMK_R_chi" = -20;
+"@MMK_R_epsilon" = -30;
+"@MMK_R_eta" = -25;
+"@MMK_R_iota" = -20;
+"@MMK_R_lambda" = 25;
+"@MMK_R_nu" = -20;
+"@MMK_R_omicron" = -20;
+"@MMK_R_pi" = 0;
+"@MMK_R_rho" = -15;
+"@MMK_R_tau" = 0;
+delta = -10;
+xi = 10;
+zeta = 20;
 };
 "@MMK_L_zeta" = {
-eta = -40;
+"@MMK_R_Omicron" = -35;
+"@MMK_R_beta" = -40;
+"@MMK_R_chi" = -40;
+"@MMK_R_epsilon" = -45;
+"@MMK_R_eta" = -45;
+"@MMK_R_iota" = -55;
+"@MMK_R_lambda" = 25;
+"@MMK_R_nu" = -50;
+"@MMK_R_omicron" = -80;
+"@MMK_R_pi" = -60;
+"@MMK_R_rho" = -20;
+"@MMK_R_tau" = -75;
+alphadasiaoxia = -40;
+alphadasiaoxiaypogegrammeni = -40;
+alphadasiavaria = -20;
+alphadasiavariaypogegrammeni = -20;
+alphamacron = -40;
+alphaperispomeni = -45;
+alphaperispomeniypogegrammeni = -40;
+alphapsilioxia = -25;
+alphapsilioxiaypogegrammeni = -25;
+alphapsilivaria = -15;
+alphapsilivariaypogegrammeni = -15;
+alphavrachy = -35;
+delta = -40;
+epsilondasiaoxia = -25;
+epsilondasiavaria = -5;
+epsilonpsilioxia = -10;
+epsilonpsilivaria = 0;
+iotadasia = -15;
+iotadasiaoxia = 90;
+iotadasiaperispomeni = 0;
+iotadasiavaria = 105;
+iotadieresis = 120;
+iotadieresistonos = 145;
+iotaoxia = -45;
+iotaperispomeni = 80;
+iotapsili = 0;
+iotapsilioxia = 105;
+iotapsiliperispomeni = 15;
+iotapsilivaria = 115;
+iotatonos = -45;
+iotavaria = 15;
+iotavrachy = 95;
+mu = -35;
+omicrondasiaoxia = -55;
+omicrondasiavaria = -40;
+omicronpsilioxia = -40;
+omicronpsilivaria = -35;
+psi = -75;
+upsilon = -70;
+upsilondasiaoxia = -45;
+upsilondasiavaria = -25;
+upsilondialytikaoxia = 15;
+upsilondialytikaperispomeni = -10;
+upsilondialytikavaria = 50;
+upsilondieresis = -15;
+upsilondieresistonos = 10;
+upsilonmacron = -40;
+upsilonperispomeni = -50;
+upsilonpsilioxia = -30;
+upsilonpsilivaria = -20;
+upsilonvrachy = -35;
+xi = 10;
+zeta = 20;
+iotadialytikaperispomeni = 120;
+iotadialytikaoxia = 145;
+iotadialytikavaria = 185;
+iotamacron = 85;
+lambda = 25;
 };
 Iotavrachy = {
 Iotamacron = 85;
@@ -107362,8 +107476,174 @@ Iotamacron = 85;
 etapsiliperispomeni = {
 "@MMK_R_Tau" = 0;
 };
-zeta = {
-"@MMK_R_eta" = -40;
+iotadasiavaria = {
+"@MMK_R_Omicron" = -20;
+};
+iotadialytikaoxia = {
+"@MMK_R_Omicron" = 80;
+beta = 50;
+};
+iotadialytikaperispomeni = {
+"@MMK_R_Omicron" = 10;
+};
+iotadialytikavaria = {
+"@MMK_R_Omicron" = 35;
+beta = 10;
+};
+iotadieresis = {
+"@MMK_R_Omicron" = 5;
+};
+iotadieresistonos = {
+"@MMK_R_Omicron" = 75;
+beta = 50;
+};
+iotamacron = {
+"@MMK_R_Omicron" = -20;
+};
+iotaperispomeni = {
+"@MMK_R_Omicron" = -30;
+};
+iotapsilivaria = {
+"@MMK_R_Omicron" = -20;
+};
+delta = {
+"@MMK_R_nu" = -20;
+"@MMK_R_pi" = -10;
+"@MMK_R_tau" = -25;
+"@MMK_R_lambda" = -20;
+};
+phi = {
+nu = -15;
+"@MMK_R_tau" = -5;
+"@MMK_R_chi" = -30;
+};
+Eta = {
+"@MMK_R_iota" = 0;
+psi = 0;
+};
+psi = {
+nu = 0;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+"@MMK_R_chi" = -15;
+"@MMK_R_nu" = -5;
+};
+omega = {
+nu = -15;
+"@MMK_R_nu" = -15;
+"@MMK_R_chi" = -20;
+"@MMK_R_tau" = -10;
+lambda = -40;
+};
+upsilon = {
+"@MMK_R_nu" = 0;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+"@MMK_R_chi" = -20;
+};
+mu = {
+"@MMK_R_nu" = -20;
+"@MMK_R_tau" = -30;
+"@MMK_R_chi" = -30;
+};
+upsilondieresistonos = {
+"@MMK_R_omicron" = 5;
+"@MMK_R_chi" = -25;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+beta = {
+"@MMK_R_lambda" = -20;
+};
+upsilonpsili = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilondasia = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilonpsilivaria = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilondasiavaria = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilonpsilioxia = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilondasiaoxia = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilonpsiliperispomeni = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilondasiaperispomeni = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilonvaria = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilonoxia = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilonperispomeni = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilonvrachy = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilonmacron = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilondialytikavaria = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilondialytikaoxia = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilondialytikaperispomeni = {
+"@MMK_R_chi" = -20;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilondieresis = {
+"@MMK_R_chi" = -25;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
+};
+upsilontonos = {
+"@MMK_R_chi" = -25;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
 };
 };
 };
