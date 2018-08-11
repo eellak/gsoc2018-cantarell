@@ -1,11 +1,19 @@
 {
 .appVersion = "1141";
 DisplayStrings = (
-"A/Alpha/Beta/Gamma/Delta E/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda A/Mu/Nu/Xi/Omicron O/Pi/Rho/Sigma/Tau/Upsilon/Phi/Chi/Psi/Omega \012/Eta/Eta/Omega/Eta/Eta  /Omicron/Omicron/Omega/Omicron/Omicron \012",
-"/alpha \012/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/mu/nu \012/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega \012abcdefghijklm\012npqrstuvwxyz\012\012/eta/eta/delta/eta/eta  /omicron/omicron/delta/omicron/omicron \012/eta/eta/upsilon/phi/eta/eta  /omicron/omicron/phi/omicron/omicron \012/eta/eta/psi/eta/eta  /omicron/omicron/psi/omicron/omicron \012/eta/eta/upsilon/eta/eta  /omicron/omicron/upsilon/omicron/omicron \012nncnn oocoo\012/pe-cy/pe-cy/ze-cy/pe-cy/pe-cy  /o-cy/o-cy/ze-cy/o-cy/o-cy \012\012",
-"\012d/alpha/epsilon/eta/iota o/upsilon/omega \012/tonos/alphatonos/epsilontonos/etatonos/iotatonos/omicrontonos/upsilontonos/omegatonos   /dieresistonos  /iotadieresistonos  /upsilondieresistonos  /iotadieresis  /upsilondieresis \012´/acutecomb áé/nacute íóú/wacute   /idieresisacute  /dieresiscomb.loclVIET/dieresiscomb_acutecomb/udieresisacute  ïü\012\012/Iota/Upsilon    /Alpha  /Epsilon  /Eta  /Iota  /Omicron  /Upsilon  /Omega \012/Iotadieresis/Upsilondieresis  /tonos.case  /Alphatonos  /Epsilontonos  /Etatonos  /Iotatonos  /Omicrontonos  /Upsilontonos  /Omegatonos \012",
-"/KaiSymbol/kaiSymbol",
-"/omicron/iotapsilivaria/omicron/iotadasiavaria/omicron/iotapsilioxia/omicron/iotadasiaoxia/omicron \012/omicron/iotatonos/omicron/iotapsili/omicron/iotadasia/omicron/iotavaria/omicron/iotaoxia/omicron \012/omicron/iotadieresis/omicron/iotadieresistonos/omicron/iotadialytikaperispomeni/omicron/iotadialytikavaria/omicron/iotadialytikaoxia/omicron \012/omicron/iotavrachy/omicron/iotamacron/omicron/iotaperispomeni/omicron/iotapsiliperispomeni/omicron/iotadasiaperispomeni/omicron \012\012/Eta/Eta/Omicron/Eta/beta/iota/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotadieresis/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotadieresistonos/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotapsilivaria/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotadasiavaria/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotapsilioxia/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotadasiaoxia/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotaperispomeni/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotavrachy/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotamacron/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotadialytikavaria/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotadialytikaoxia/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotadialytikaperispomeni/beta/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/delta/iota/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotadieresis/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotadieresistonos/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotapsilivaria/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotadasiavaria/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotapsilioxia/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotadasiaoxia/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotaperispomeni/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotavrachy/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotamacron/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotadialytikavaria/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotadialytikaoxia/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotadialytikaperispomeni/delta/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/zeta/iota/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotadieresis/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotadieresistonos/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotapsilivaria/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotadasiavaria/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotapsilioxia/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotadasiaoxia/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotapsiliperispomeni/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotadasiaperispomeni/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotavaria/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotaoxia/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotaperispomeni/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotavrachy/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotamacron/zeta/eta/omicron/omicron/iota/pi/pi \012/Eta/Eta/Omicron/Eta/zeta/iotadialytikavaria/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotadialytikaoxia/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotadialytikaperispomeni/zeta/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/zeta/upsilon/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilonpsilivaria/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilondasiavaria/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilonpsilioxia/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilondasiaoxia/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilonperispomeni/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilonvrachy/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilonmacron/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilondialytikavaria/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilondialytikaoxia/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilondialytikaperispomeni/zeta/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/lambda/iota/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotadieresis/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotadieresistonos/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotapsilivaria/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotadasiavaria/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotapsilioxia/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotadasiaoxia/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotaperispomeni/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotavrachy/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotamacron/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotadialytikavaria/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotadialytikaoxia/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotadialytikaperispomeni/lambda/eta/omicron/omicron/iota/lambda \012\012/Eta/Eta/Omicron/Eta/lambda/upsilon/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/upsilondieresis/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/upsilondieresistonos/lambda/eta/omicron/omicron/lambda/iota \012/Eta/Eta/Omicron/Eta/lambda/upsilondialytikavaria/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/upsilondialytikaoxia/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/upsilondialytikaperispomeni/lambda/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/xi/iota/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotadieresis/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotadieresistonos/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotapsili/xi/eta/omicron/omicron/xi/iota/xi \012/Eta/Eta/Omicron/Eta/xi/iotadasia/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotapsilivaria/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotadasiavaria/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotapsilioxia/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotadasiaoxia/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotapsiliperispomeni/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotadasiaperispomeni/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotavaria/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotaperispomeni/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotavrachy/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotamacron/xi/eta/omicron/omicron/iota/pi/pi \012/Eta/Eta/Omicron/Eta/xi/iotadialytikavaria/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotadialytikaoxia/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotadialytikaperispomeni/xi/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/xi/upsilon/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilondieresis/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilondieresistonos/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilonpsilivaria/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilondasiavaria/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilonpsilioxia/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilondasiaoxia/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilondialytikavaria/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilondialytikaoxia/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilondialytikaperispomeni/xi/eta/omicron/omicron/iota \012\012\012\012\012"
+"/omicron/iotapsilivaria/omicron/iotadasiavaria/omicron/iotapsilioxia/omicron/iotadasiaoxia/omicron \012/omicron/iotatonos/omicron/iotapsili/omicron/iotadasia/omicron/iotavaria/omicron/iotaoxia/omicron \012/omicron/iotadieresis/omicron/iotadieresistonos/omicron/iotadialytikaperispomeni/omicron/iotadialytikavaria/omicron/iotadialytikaoxia/omicron \012/omicron/iotavrachy/omicron/iotamacron/omicron/iotaperispomeni/omicron/iotapsiliperispomeni/omicron/iotadasiaperispomeni/omicron \012\012/Eta/Eta/Omicron/Eta/beta/iota/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotadieresis/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotadieresistonos/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotapsilivaria/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotadasiavaria/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotapsilioxia/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotadasiaoxia/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotaperispomeni/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotavrachy/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotamacron/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotadialytikavaria/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotadialytikaoxia/beta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/beta/iotadialytikaperispomeni/beta/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/delta/iota/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotadieresis/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotadieresistonos/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotapsilivaria/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotadasiavaria/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotapsilioxia/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotadasiaoxia/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotaperispomeni/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotavrachy/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotamacron/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotadialytikavaria/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotadialytikaoxia/delta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/delta/iotadialytikaperispomeni/delta/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/zeta/iota/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotadieresis/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotadieresistonos/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotapsilivaria/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotadasiavaria/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotapsilioxia/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotadasiaoxia/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotapsiliperispomeni/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotadasiaperispomeni/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotavaria/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotaoxia/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotaperispomeni/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotavrachy/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotamacron/zeta/eta/omicron/omicron/iota/pi/pi \012/Eta/Eta/Omicron/Eta/zeta/iotadialytikavaria/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotadialytikaoxia/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/iotadialytikaperispomeni/zeta/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/zeta/upsilon/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilonpsilivaria/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilondasiavaria/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilonpsilioxia/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilondasiaoxia/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilonperispomeni/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilonvrachy/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilonmacron/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilondialytikavaria/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilondialytikaoxia/zeta/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/zeta/upsilondialytikaperispomeni/zeta/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/lambda/iota/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotadieresis/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotadieresistonos/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotapsilivaria/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotadasiavaria/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotapsilioxia/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotadasiaoxia/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotaperispomeni/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotavrachy/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotamacron/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotadialytikavaria/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotadialytikaoxia/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/iotadialytikaperispomeni/lambda/eta/omicron/omicron/iota/lambda \012\012/Eta/Eta/Omicron/Eta/lambda/upsilon/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/upsilondieresis/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/upsilondieresistonos/lambda/eta/omicron/omicron/lambda/iota \012/Eta/Eta/Omicron/Eta/lambda/upsilondialytikavaria/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/upsilondialytikaoxia/lambda/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/lambda/upsilondialytikaperispomeni/lambda/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/xi/iota/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotadieresis/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotadieresistonos/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotapsili/xi/eta/omicron/omicron/xi/iota/xi \012/Eta/Eta/Omicron/Eta/xi/iotadasia/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotapsilivaria/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotadasiavaria/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotapsilioxia/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotadasiaoxia/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotapsiliperispomeni/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotadasiaperispomeni/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotavaria/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotaperispomeni/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotavrachy/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotamacron/xi/eta/omicron/omicron/iota/pi/pi \012/Eta/Eta/Omicron/Eta/xi/iotadialytikavaria/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotadialytikaoxia/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/iotadialytikaperispomeni/xi/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/xi/upsilon/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilondieresis/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilondieresistonos/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilonpsilivaria/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilondasiavaria/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilonpsilioxia/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilondasiaoxia/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilondialytikavaria/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilondialytikaoxia/xi/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/xi/upsilondialytikaperispomeni/xi/eta/omicron/omicron/iota \012\012\012\012\012",
+"\012\012\012/Eta/Eta/Omicron/Eta/iotatonos/alphadasiavaria/iotatonos/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotaoxia/alphadasiavaria/iotaoxia/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotavaria/alphadasiavaria/iotavaria/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotapsili/alphadasiavaria/iotapsili/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadasia/alphadasiavaria/iotadasia/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/iotadieresis/alphadasiavaria/iotadieresis/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikaperispomeni/alphadasiavaria/iotadialytikaperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadieresistonos/alphadasiavaria/iotadieresistonos/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikaoxia/alphadasiavaria/iotadialytikaoxia/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikavaria/alphadasiavaria/iotadialytikavaria/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/iotapsilivaria/alphadasiavaria/iotapsilivaria/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadasiavaria/alphadasiavaria/iotadasiavaria/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotapsilioxia/alphadasiavaria/iotapsilioxia/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadasiaoxia/alphadasiavaria/iotadasiaoxia/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/iotapsiliperispomeni/alphadasiavaria/iotapsiliperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadasiaperispomeni/alphadasiavaria/iotadasiaperispomeni/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/iotaperispomeni/alphadasiavaria/iotaperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotavrachy/alphadasiavaria/iotavrachy/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotamacron/alphadasiavaria/iotamacron/eta/omicron/omicron/iota \012",
+"/Eta/Eta/Omicron/Eta/iotadieresis/upsilonpsilivaria/iotadieresis/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikaperispomeni/upsilonpsilivaria/iotadialytikaperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadieresistonos/upsilonpsilivaria/iotadieresistonos/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikaoxia/upsilonpsilivaria/iotadialytikaoxia/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikavaria/upsilonpsilivaria/iotadialytikavaria/eta/omicron/omicron/iota \012\012\012\012\012/Eta/Eta/Omicron/Eta/iotadieresis/upsilondasiaoxia/iotadieresis/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikaperispomeni/upsilondasiaoxia/iotadialytikaperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadieresistonos/upsilondasiaoxia/iotadieresistonos/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikaoxia/upsilondasiaoxia/iotadialytikaoxia/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikavaria/upsilondasiaoxia/iotadialytikavaria/eta/omicron/omicron/iota \012\012\012\012\012\012\012\012/Eta/Eta/Omicron/Eta/iotadieresis/upsilondasiavaria/iotadieresis/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikaperispomeni/upsilondasiavaria/iotadialytikaperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadieresistonos/upsilondasiavaria/iotadieresistonos/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikaoxia/upsilondasiavaria/iotadialytikaoxia/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikavaria/upsilondasiavaria/iotadialytikavaria/eta/omicron/omicron/iota \012\012\012\012/Eta/Eta/Omicron/Eta/iotadieresis/upsilonpsilioxia/iotadieresis/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikaperispomeni/upsilonpsilioxia/iotadialytikaperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadieresistonos/upsilonpsilioxia/iotadieresistonos/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikaoxia/upsilonpsilioxia/iotadialytikaoxia/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikavaria/upsilonpsilioxia/iotadialytikavaria/eta/omicron/omicron/iota \012\012\012\012\012",
+"\012\012\012/Eta/Eta/Omicron/Eta/iotatonos/alphadasiaoxia/iotatonos/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotaoxia/alphadasiaoxia/iotaoxia/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotavaria/alphadasiaoxia/iotavaria/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotapsili/alphadasiaoxia/iotapsili/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadasia/alphadasiaoxia/iotadasia/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/iotadieresis/alphadasiaoxia/iotadieresis/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikaperispomeni/alphadasiaoxia/iotadialytikaperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadieresistonos/alphadasiaoxia/iotadieresistonos/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikaoxia/alphadasiaoxia/iotadialytikaoxia/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadialytikavaria/alphadasiaoxia/iotadialytikavaria/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/iotapsilivaria/alphadasiaoxia/iotapsilivaria/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadasiavaria/alphadasiaoxia/iotadasiavaria/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotapsilioxia/alphadasiaoxia/iotapsilioxia/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadasiaoxia/alphadasiaoxia/iotadasiaoxia/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/iotapsiliperispomeni/alphadasiaoxia/iotapsiliperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotadasiaperispomeni/alphadasiaoxia/iotadasiaperispomeni/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/iotaperispomeni/alphadasiaoxia/iotaperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotavrachy/alphadasiaoxia/iotavrachy/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/iotamacron/alphadasiaoxia/iotamacron/eta/omicron/omicron/iota \012",
+"/epsilonpsilivaria/epsilondasiavaria/epsilonpsilioxia/epsilondasiaoxia",
+"\012__Letter:\012/Eta/Eta/Omicron/Eta/Alpha/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Beta/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Gamma/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Delta/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilon/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Zeta/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Eta/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Theta/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iota/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Kappa/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Lambda/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Mu/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Nu/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Xi/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicron/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Pi/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Rho/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Sigma/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Tau/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilon/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Phi/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Chi/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Psi/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omega/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphatonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilontonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etatonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotatonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrontonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilontonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegatonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadieresis/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondieresis/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsili/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilivaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilioxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsiliperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphavrachy/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphamacron/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsiliprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilivariaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiavariaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilioxiaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaoxiaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsiliperispomeniprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaperispomeniprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonpsili/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilondasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonpsilivaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilondasiavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonpsilioxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilondasiaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonvaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsili/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilivaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilioxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsiliperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsiliprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilivariaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiavariaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilioxiaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaoxiaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsiliperispomeniprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaperispomeniprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsili/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsilivaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasiavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsilioxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasiaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsiliperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasiaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotavrachy/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotamacron/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronpsili/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrondasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronpsilivaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrondasiavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronpsilioxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrondasiaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronvaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Rhodasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasiavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasiaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasiaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonvaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonvrachy/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonmacron/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsili/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilivaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilioxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsiliperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsiliprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilivariaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiavariaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilioxiaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaoxiaprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsiliperispomeniprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaperispomeniprosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/KaiSymbol/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alpha/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/beta/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/gamma/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/delta/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/epsilon/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/zeta/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/eta/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/theta/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iota/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/kappa/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/lambda/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/mu/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/nu/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/xi/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omicron/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/pi/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/rho/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/sigmafinal/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/sigma/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/tau/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilon/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/phi/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/chi/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/psi/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omega/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotatonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotadieresis/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotadieresistonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotadialytikavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotadialytikaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotadialytikaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilontonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilondieresis/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilondieresistonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omicrontonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegatonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphatonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/epsilontonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etatonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphapsili/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphadasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphapsilivaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphadasiavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphapsilioxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphadasiaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphapsiliperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphadasiaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphavrachy/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphamacron/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphavariaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphaoxiaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphapsiliypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphadasiaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphapsilivariaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphadasiavariaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphapsilioxiaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphadasiaoxiaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphapsiliperispomeniypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphadasiaperispomeniypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/alphaperispomeniypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/epsilonpsili/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/epsilondasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/epsilonpsilivaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/epsilondasiavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/epsilonpsilioxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/epsilondasiaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/epsilonvaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/epsilonoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etapsili/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etadasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etapsilivaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etadasiavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etapsilioxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etadasiaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etapsiliperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etadasiaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etavariaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etaoxiaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etapsiliypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etadasiaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etapsilivariaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etadasiavariaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etapsilioxiaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etadasiaoxiaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etapsiliperispomeniypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etadasiaperispomeniypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/etaperispomeniypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotapsili/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotadasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotapsilivaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotadasiavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotapsilioxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotadasiaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotapsiliperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotadasiaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotavrachy/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotamacron/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omicronpsili/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omicrondasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omicronpsilivaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omicrondasiavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omicronpsilioxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omicrondasiaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omicronvaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omicronoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/rhopsili/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/rhodasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilonpsili/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilondasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilonpsilivaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilondasiavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilonpsilioxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilondasiaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilonpsiliperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilondasiaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilonvaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilonoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilonperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilonvrachy/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilonmacron/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilondialytikavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilondialytikaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/upsilondialytikaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegapsili/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegadasia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegapsilivaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegadasiavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegapsilioxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegadasiaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegapsiliperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegadasiaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegavariaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegaoxiaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegapsiliypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegadasiaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegapsilivariaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegadasiavariaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegapsilioxiaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegadasiaoxiaypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegapsiliperispomeniypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegadasiaperispomeniypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/omegaperispomeniypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/prosgegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/kaiSymbol/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni t/ypogegrammeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota",
+"/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotadieresis/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotadieresistonos/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotadialytikavaria/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotadialytikaoxia/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeniypogegrammeni/iotadialytikaperispomeni/alphaperispomeniypogegrammeni/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/alphaperispomeni/iotadieresis/alphaperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeni/iotadieresistonos/alphaperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeni/iotadialytikavaria/alphaperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeni/iotadialytikaoxia/alphaperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphaperispomeni/iotadialytikaperispomeni/alphaperispomeni/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/alphavrachy/iotadieresis/alphavrachy/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphavrachy/iotadieresistonos/alphavrachy/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphavrachy/iotadialytikavaria/alphavrachy/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphavrachy/iotadialytikaoxia/alphavrachy/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphavrachy/iotadialytikaperispomeni/alphavrachy/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/alphamacron/iotadieresis/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotadieresistonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotadialytikavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotadialytikaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotadialytikaperispomeni/alphamacron/eta/omicron/omicron/iota t",
+"/alphaperispomeni",
+"/alphavrachy/alphamacron",
+"\012__Letter:\012/Eta/Eta/Omicron/Eta/Alpha/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Beta/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Gamma/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Delta/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilon/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Zeta/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Eta/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Theta/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iota/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Kappa/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Lambda/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Mu/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Nu/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Xi/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicron/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Pi/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Rho/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Sigma/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Tau/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilon/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Phi/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Chi/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Psi/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omega/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphatonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilontonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etatonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotatonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrontonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilontonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegatonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadieresis/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondieresis/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsili/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilivaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilioxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsiliperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphavrachy/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphamacron/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsiliprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilivariaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiavariaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilioxiaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaoxiaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsiliperispomeniprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaperispomeniprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonpsili/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilondasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonpsilivaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilondasiavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonpsilioxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilondasiaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonvaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsili/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilivaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilioxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsiliperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsiliprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilivariaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiavariaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilioxiaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaoxiaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsiliperispomeniprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaperispomeniprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsili/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsilivaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasiavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsilioxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasiaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsiliperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasiaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotavrachy/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotamacron/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronpsili/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrondasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronpsilivaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrondasiavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronpsilioxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrondasiaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronvaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Rhodasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasiavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasiaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasiaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonvaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonvrachy/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonmacron/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsili/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilivaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilioxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsiliperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsiliprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilivariaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiavariaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilioxiaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaoxiaprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsiliperispomeniprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaperispomeniprosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/KaiSymbol/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alpha/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/beta/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/gamma/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/delta/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/epsilon/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/zeta/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/eta/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/theta/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iota/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/kappa/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/lambda/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/mu/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/nu/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/xi/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omicron/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/pi/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/rho/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/sigmafinal/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/sigma/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/tau/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilon/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/phi/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/chi/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/psi/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omega/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotatonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotadieresis/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotadieresistonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilontonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilondieresis/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilondieresistonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omicrontonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegatonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphatonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/epsilontonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etatonos/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphapsili/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphadasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphapsilivaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphadasiavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphapsilioxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphadasiaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphapsiliperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphadasiaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphavrachy/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphamacron/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphavariaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphaoxiaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphapsiliypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphadasiaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphapsilivariaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphadasiavariaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphapsilioxiaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphadasiaoxiaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphapsiliperispomeniypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphadasiaperispomeniypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/alphaperispomeniypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/epsilonpsili/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/epsilondasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/epsilonpsilivaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/epsilondasiavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/epsilonpsilioxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/epsilondasiaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/epsilonvaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/epsilonoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etapsili/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etadasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etapsilivaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etadasiavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etapsilioxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etadasiaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etapsiliperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etadasiaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etavariaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etaoxiaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etapsiliypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etadasiaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etapsilivariaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etadasiavariaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etapsilioxiaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etadasiaoxiaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etapsiliperispomeniypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etadasiaperispomeniypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/etaperispomeniypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotapsili/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotadasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotapsilivaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotadasiavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotapsilioxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotadasiaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotapsiliperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotadasiaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotavrachy/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotamacron/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotadialytikavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotadialytikaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/iotadialytikaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omicronpsili/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omicrondasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omicronpsilivaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omicrondasiavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omicronpsilioxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omicrondasiaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omicronvaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omicronoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/rhopsili/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/rhodasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilonpsili/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilondasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilonpsilivaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilondasiavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilonpsilioxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilondasiaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilonpsiliperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilondasiaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilonvaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilonoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilonperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilonvrachy/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilonmacron/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilondialytikavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilondialytikaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/upsilondialytikaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegapsili/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegadasia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegapsilivaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegadasiavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegapsilioxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegadasiaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegapsiliperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegadasiaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegavaria/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegaoxia/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegaperispomeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegavariaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegaoxiaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegapsiliypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegadasiaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegapsilivariaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegadasiavariaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegapsilioxiaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegadasiaoxiaypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegapsiliperispomeniypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegadasiaperispomeniypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/omegaperispomeniypogegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/prosgegrammeni/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/kaiSymbol/alphamacron/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/alphamacron/ypogegrammeni/alphamacron/eta/omicron/omicron/iota",
+"/etaperispomeni/etaperispomeniypogegrammeni",
+"/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotapsilivaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotadasiavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotapsilioxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotadasiaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012\012/Eta/Eta/Omicron/Eta/etaperispomeni/iotapsilivaria/etaperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeni/iotadasiavaria/etaperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeni/iotapsilioxia/etaperispomeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeni/iotadasiaoxia/etaperispomeni/eta/omicron/omicron/iota",
+"\012__Letter:\012/Eta/Eta/Omicron/Eta/Alpha/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Beta/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Gamma/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Delta/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilon/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Zeta/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Eta/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Theta/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iota/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Kappa/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Lambda/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Mu/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Nu/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Xi/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicron/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Pi/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Rho/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Sigma/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Tau/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilon/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Phi/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Chi/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Psi/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omega/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphatonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilontonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etatonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotatonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrontonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilontonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegatonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadieresis/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondieresis/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsili/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilivaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilioxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsiliperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphavrachy/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphamacron/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsiliprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilivariaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiavariaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsilioxiaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaoxiaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphapsiliperispomeniprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Alphadasiaperispomeniprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonpsili/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilondasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonpsilivaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilondasiavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonpsilioxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilondasiaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonvaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Epsilonoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsili/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilivaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilioxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsiliperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsiliprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilivariaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiavariaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsilioxiaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaoxiaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etapsiliperispomeniprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Etadasiaperispomeniprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsili/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsilivaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasiavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsilioxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasiaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotapsiliperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotadasiaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotavrachy/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Iotamacron/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronpsili/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrondasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronpsilivaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrondasiavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronpsilioxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicrondasiaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronvaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omicronoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Rhodasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasiavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasiaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilondasiaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonvaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonvrachy/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Upsilonmacron/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsili/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilivaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilioxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsiliperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsiliprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilivariaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiavariaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsilioxiaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaoxiaprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegapsiliperispomeniprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/Omegadasiaperispomeniprosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/KaiSymbol/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alpha/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/beta/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/gamma/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/delta/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/epsilon/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/zeta/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/eta/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/theta/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iota/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/kappa/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/lambda/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/mu/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/nu/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/xi/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omicron/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/pi/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/rho/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/sigmafinal/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/sigma/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/tau/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilon/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/phi/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/chi/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/psi/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omega/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotatonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotadieresis/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotadieresistonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilontonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilondieresis/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilondieresistonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omicrontonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegatonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphatonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/epsilontonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etatonos/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphapsili/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphadasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphapsilivaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphadasiavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphapsilioxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphadasiaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphapsiliperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphadasiaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphavrachy/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphamacron/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphavariaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphaoxiaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphapsiliypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphadasiaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphapsilivariaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphadasiavariaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphapsilioxiaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphadasiaoxiaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphapsiliperispomeniypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphadasiaperispomeniypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/alphaperispomeniypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/epsilonpsili/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/epsilondasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/epsilonpsilivaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/epsilondasiavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/epsilonpsilioxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/epsilondasiaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/epsilonvaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/epsilonoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etapsili/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etadasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etapsilivaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etadasiavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etapsilioxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etadasiaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etapsiliperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etadasiaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etavariaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etaoxiaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etapsiliypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etadasiaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etapsilivariaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etadasiavariaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etapsilioxiaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etadasiaoxiaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etapsiliperispomeniypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etadasiaperispomeniypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/etaperispomeniypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotapsili/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotadasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotapsilivaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotadasiavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotapsilioxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotadasiaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotapsiliperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotadasiaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeni/iotavrachy/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotamacron/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotadialytikavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotadialytikaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/iotadialytikaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omicronpsili/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omicrondasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omicronpsilivaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omicrondasiavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omicronpsilioxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omicrondasiaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omicronvaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omicronoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/rhopsili/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/rhodasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilonpsili/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilondasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilonpsilivaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilondasiavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilonpsilioxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilondasiaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilonpsiliperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilondasiaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilonvaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilonoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilonperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilonvrachy/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilonmacron/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilondialytikavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilondialytikaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/upsilondialytikaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegapsili/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegadasia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegapsilivaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegadasiavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegapsilioxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegadasiaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegapsiliperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegadasiaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegavaria/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegaoxia/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegaperispomeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegavariaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegaoxiaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegapsiliypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegadasiaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegapsilivariaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegadasiavariaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegapsilioxiaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegadasiaoxiaypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegapsiliperispomeniypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegadasiaperispomeniypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/omegaperispomeniypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/prosgegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/kaiSymbol/etaperispomeniypogegrammeni/eta/omicron/omicron/iota \012/Eta/Eta/Omicron/Eta/etaperispomeniypogegrammeni/ypogegrammeni/etaperispomeniypogegrammeni/eta/omicron/omicron/iota"
 );
 classes = (
 {
@@ -55007,7 +55015,7 @@ rightMetricsKey = "=l-4";
 unicode = 03B1;
 },
 {
-color = 0;
+color = 5;
 glyphname = beta;
 layers = (
 {
@@ -55552,7 +55560,7 @@ rightMetricsKey = "=nu";
 unicode = 03B3;
 },
 {
-color = 0;
+color = 5;
 glyphname = delta;
 layers = (
 {
@@ -56241,7 +56249,7 @@ rightMetricsKey = "=e-25";
 unicode = 03B5;
 },
 {
-color = 0;
+color = 5;
 glyphname = zeta;
 layers = (
 {
@@ -57398,7 +57406,7 @@ rightMetricsKey = "=k+5";
 unicode = 03BA;
 },
 {
-color = 3;
+color = 5;
 glyphname = lambda;
 layers = (
 {
@@ -58120,7 +58128,7 @@ rightMetricsKey = "=v+15";
 unicode = 03BD;
 },
 {
-color = 0;
+color = 5;
 glyphname = xi;
 layers = (
 {
@@ -61297,6 +61305,7 @@ rightMetricsKey = "=o+5";
 unicode = 03C9;
 },
 {
+color = 0;
 glyphname = iotatonos;
 layers = (
 {
@@ -61344,6 +61353,7 @@ rightKerningGroup = iota;
 unicode = 03AF;
 },
 {
+color = 0;
 glyphname = iotadieresis;
 layers = (
 {
@@ -61391,6 +61401,7 @@ rightKerningGroup = iota;
 unicode = 03CA;
 },
 {
+color = 0;
 glyphname = iotadieresistonos;
 layers = (
 {
@@ -61438,6 +61449,7 @@ rightKerningGroup = iota;
 unicode = 0390;
 },
 {
+color = 5;
 glyphname = upsilontonos;
 layers = (
 {
@@ -61581,6 +61593,7 @@ rightKerningGroup = omicron;
 unicode = 03B0;
 },
 {
+color = 5;
 glyphname = omicrontonos;
 layers = (
 {
@@ -61628,6 +61641,7 @@ rightKerningGroup = omicron;
 unicode = 03CC;
 },
 {
+color = 5;
 glyphname = omegatonos;
 layers = (
 {
@@ -61675,6 +61689,7 @@ rightKerningGroup = omicron;
 unicode = 03CE;
 },
 {
+color = 5;
 glyphname = alphatonos;
 layers = (
 {
@@ -61722,6 +61737,7 @@ rightKerningGroup = alpha;
 unicode = 03AC;
 },
 {
+color = 5;
 glyphname = epsilontonos;
 layers = (
 {
@@ -61769,6 +61785,7 @@ rightKerningGroup = epsilon;
 unicode = 03AD;
 },
 {
+color = 5;
 glyphname = etatonos;
 layers = (
 {
@@ -61816,6 +61833,7 @@ rightKerningGroup = eta;
 unicode = 03AE;
 },
 {
+color = 5;
 glyphname = alphapsili;
 layers = (
 {
@@ -61863,6 +61881,7 @@ rightKerningGroup = alpha;
 unicode = 1F00;
 },
 {
+color = 5;
 glyphname = alphadasia;
 layers = (
 {
@@ -61910,6 +61929,7 @@ rightKerningGroup = alpha;
 unicode = 1F01;
 },
 {
+color = 5;
 glyphname = alphapsilivaria;
 layers = (
 {
@@ -61957,6 +61977,7 @@ rightKerningGroup = alpha;
 unicode = 1F02;
 },
 {
+color = 5;
 glyphname = alphadasiavaria;
 layers = (
 {
@@ -62004,6 +62025,7 @@ rightKerningGroup = alpha;
 unicode = 1F03;
 },
 {
+color = 5;
 glyphname = alphapsilioxia;
 layers = (
 {
@@ -62051,6 +62073,7 @@ rightKerningGroup = alpha;
 unicode = 1F04;
 },
 {
+color = 5;
 glyphname = alphadasiaoxia;
 layers = (
 {
@@ -62098,6 +62121,7 @@ rightKerningGroup = alpha;
 unicode = 1F05;
 },
 {
+color = 5;
 glyphname = alphapsiliperispomeni;
 layers = (
 {
@@ -62145,6 +62169,7 @@ rightKerningGroup = alpha;
 unicode = 1F06;
 },
 {
+color = 5;
 glyphname = alphadasiaperispomeni;
 layers = (
 {
@@ -62192,6 +62217,7 @@ rightKerningGroup = alpha;
 unicode = 1F07;
 },
 {
+color = 5;
 glyphname = alphavaria;
 layers = (
 {
@@ -62239,6 +62265,7 @@ rightKerningGroup = alpha;
 unicode = 1F70;
 },
 {
+color = 5;
 glyphname = alphaoxia;
 layers = (
 {
@@ -62286,6 +62313,7 @@ rightKerningGroup = alpha;
 unicode = 1F71;
 },
 {
+color = 5;
 glyphname = alphaperispomeni;
 layers = (
 {
@@ -62333,6 +62361,7 @@ rightKerningGroup = alpha;
 unicode = 1FB6;
 },
 {
+color = 5;
 glyphname = alphavrachy;
 layers = (
 {
@@ -62380,6 +62409,7 @@ rightKerningGroup = alpha;
 unicode = 1FB0;
 },
 {
+color = 5;
 glyphname = alphamacron;
 layers = (
 {
@@ -62427,6 +62457,7 @@ rightKerningGroup = alpha;
 unicode = 1FB1;
 },
 {
+color = 5;
 glyphname = alphaypogegrammeni;
 layers = (
 {
@@ -62474,6 +62505,7 @@ rightKerningGroup = alpha;
 unicode = 1FB3;
 },
 {
+color = 5;
 glyphname = alphavariaypogegrammeni;
 layers = (
 {
@@ -62533,6 +62565,7 @@ rightKerningGroup = alpha;
 unicode = 1FB2;
 },
 {
+color = 5;
 glyphname = alphaoxiaypogegrammeni;
 layers = (
 {
@@ -62592,6 +62625,7 @@ rightKerningGroup = alpha;
 unicode = 1FB4;
 },
 {
+color = 5;
 glyphname = alphapsiliypogegrammeni;
 layers = (
 {
@@ -62651,6 +62685,7 @@ rightKerningGroup = alpha;
 unicode = 1F80;
 },
 {
+color = 5;
 glyphname = alphadasiaypogegrammeni;
 layers = (
 {
@@ -62710,6 +62745,7 @@ rightKerningGroup = alpha;
 unicode = 1F81;
 },
 {
+color = 5;
 glyphname = alphapsilivariaypogegrammeni;
 layers = (
 {
@@ -62769,6 +62805,7 @@ rightKerningGroup = alpha;
 unicode = 1F82;
 },
 {
+color = 5;
 glyphname = alphadasiavariaypogegrammeni;
 layers = (
 {
@@ -62828,6 +62865,7 @@ rightKerningGroup = alpha;
 unicode = 1F83;
 },
 {
+color = 5;
 glyphname = alphapsilioxiaypogegrammeni;
 layers = (
 {
@@ -62887,6 +62925,7 @@ rightKerningGroup = alpha;
 unicode = 1F84;
 },
 {
+color = 5;
 glyphname = alphadasiaoxiaypogegrammeni;
 layers = (
 {
@@ -62946,6 +62985,7 @@ rightKerningGroup = alpha;
 unicode = 1F85;
 },
 {
+color = 5;
 glyphname = alphapsiliperispomeniypogegrammeni;
 layers = (
 {
@@ -63005,6 +63045,7 @@ rightKerningGroup = alpha;
 unicode = 1F86;
 },
 {
+color = 5;
 glyphname = alphadasiaperispomeniypogegrammeni;
 layers = (
 {
@@ -63064,6 +63105,7 @@ rightKerningGroup = alpha;
 unicode = 1F87;
 },
 {
+color = 5;
 glyphname = alphaperispomeniypogegrammeni;
 layers = (
 {
@@ -63123,6 +63165,7 @@ rightKerningGroup = alpha;
 unicode = 1FB7;
 },
 {
+color = 5;
 glyphname = epsilonpsili;
 layers = (
 {
@@ -63170,6 +63213,7 @@ rightKerningGroup = epsilon;
 unicode = 1F10;
 },
 {
+color = 5;
 glyphname = epsilondasia;
 layers = (
 {
@@ -63217,6 +63261,7 @@ rightKerningGroup = epsilon;
 unicode = 1F11;
 },
 {
+color = 5;
 glyphname = epsilonpsilivaria;
 layers = (
 {
@@ -63264,6 +63309,7 @@ rightKerningGroup = epsilon;
 unicode = 1F12;
 },
 {
+color = 5;
 glyphname = epsilondasiavaria;
 layers = (
 {
@@ -63311,6 +63357,7 @@ rightKerningGroup = epsilon;
 unicode = 1F13;
 },
 {
+color = 5;
 glyphname = epsilonpsilioxia;
 layers = (
 {
@@ -63358,6 +63405,7 @@ rightKerningGroup = epsilon;
 unicode = 1F14;
 },
 {
+color = 5;
 glyphname = epsilondasiaoxia;
 layers = (
 {
@@ -63405,6 +63453,7 @@ rightKerningGroup = epsilon;
 unicode = 1F15;
 },
 {
+color = 5;
 glyphname = epsilonvaria;
 layers = (
 {
@@ -63452,6 +63501,7 @@ rightKerningGroup = epsilon;
 unicode = 1F72;
 },
 {
+color = 5;
 glyphname = epsilonoxia;
 layers = (
 {
@@ -63499,6 +63549,7 @@ rightKerningGroup = epsilon;
 unicode = 1F73;
 },
 {
+color = 5;
 glyphname = etapsili;
 layers = (
 {
@@ -63546,6 +63597,7 @@ rightKerningGroup = eta;
 unicode = 1F20;
 },
 {
+color = 5;
 glyphname = etadasia;
 layers = (
 {
@@ -63593,6 +63645,7 @@ rightKerningGroup = eta;
 unicode = 1F21;
 },
 {
+color = 5;
 glyphname = etapsilivaria;
 layers = (
 {
@@ -63640,6 +63693,7 @@ rightKerningGroup = eta;
 unicode = 1F22;
 },
 {
+color = 5;
 glyphname = etadasiavaria;
 layers = (
 {
@@ -63687,6 +63741,7 @@ rightKerningGroup = eta;
 unicode = 1F23;
 },
 {
+color = 5;
 glyphname = etapsilioxia;
 layers = (
 {
@@ -63734,6 +63789,7 @@ rightKerningGroup = eta;
 unicode = 1F24;
 },
 {
+color = 5;
 glyphname = etadasiaoxia;
 layers = (
 {
@@ -63781,6 +63837,7 @@ rightKerningGroup = eta;
 unicode = 1F25;
 },
 {
+color = 5;
 glyphname = etapsiliperispomeni;
 layers = (
 {
@@ -63828,6 +63885,7 @@ rightKerningGroup = eta;
 unicode = 1F26;
 },
 {
+color = 5;
 glyphname = etadasiaperispomeni;
 layers = (
 {
@@ -63875,6 +63933,7 @@ rightKerningGroup = eta;
 unicode = 1F27;
 },
 {
+color = 5;
 glyphname = etavaria;
 layers = (
 {
@@ -63922,6 +63981,7 @@ rightKerningGroup = eta;
 unicode = 1F74;
 },
 {
+color = 5;
 glyphname = etaoxia;
 layers = (
 {
@@ -63969,6 +64029,7 @@ rightKerningGroup = eta;
 unicode = 1F75;
 },
 {
+color = 5;
 glyphname = etaperispomeni;
 layers = (
 {
@@ -64016,6 +64077,7 @@ rightKerningGroup = eta;
 unicode = 1FC6;
 },
 {
+color = 5;
 glyphname = etaypogegrammeni;
 layers = (
 {
@@ -64063,6 +64125,7 @@ rightKerningGroup = eta;
 unicode = 1FC3;
 },
 {
+color = 5;
 glyphname = etavariaypogegrammeni;
 layers = (
 {
@@ -64122,6 +64185,7 @@ rightKerningGroup = eta;
 unicode = 1FC2;
 },
 {
+color = 5;
 glyphname = etaoxiaypogegrammeni;
 layers = (
 {
@@ -64181,6 +64245,7 @@ rightKerningGroup = eta;
 unicode = 1FC4;
 },
 {
+color = 5;
 glyphname = etapsiliypogegrammeni;
 layers = (
 {
@@ -64240,6 +64305,7 @@ rightKerningGroup = eta;
 unicode = 1F90;
 },
 {
+color = 5;
 glyphname = etadasiaypogegrammeni;
 layers = (
 {
@@ -64299,6 +64365,7 @@ rightKerningGroup = eta;
 unicode = 1F91;
 },
 {
+color = 5;
 glyphname = etapsilivariaypogegrammeni;
 layers = (
 {
@@ -64358,6 +64425,7 @@ rightKerningGroup = eta;
 unicode = 1F92;
 },
 {
+color = 5;
 glyphname = etadasiavariaypogegrammeni;
 layers = (
 {
@@ -64417,6 +64485,7 @@ rightKerningGroup = eta;
 unicode = 1F93;
 },
 {
+color = 5;
 glyphname = etapsilioxiaypogegrammeni;
 layers = (
 {
@@ -64476,6 +64545,7 @@ rightKerningGroup = eta;
 unicode = 1F94;
 },
 {
+color = 5;
 glyphname = etadasiaoxiaypogegrammeni;
 layers = (
 {
@@ -64535,6 +64605,7 @@ rightKerningGroup = eta;
 unicode = 1F95;
 },
 {
+color = 5;
 glyphname = etapsiliperispomeniypogegrammeni;
 layers = (
 {
@@ -64594,6 +64665,7 @@ rightKerningGroup = eta;
 unicode = 1F96;
 },
 {
+color = 5;
 glyphname = etadasiaperispomeniypogegrammeni;
 layers = (
 {
@@ -64653,6 +64725,7 @@ rightKerningGroup = eta;
 unicode = 1F97;
 },
 {
+color = 5;
 glyphname = etaperispomeniypogegrammeni;
 layers = (
 {
@@ -64712,6 +64785,7 @@ rightKerningGroup = eta;
 unicode = 1FC7;
 },
 {
+color = 0;
 glyphname = iotapsili;
 layers = (
 {
@@ -64759,6 +64833,7 @@ rightKerningGroup = iota;
 unicode = 1F30;
 },
 {
+color = 0;
 glyphname = iotadasia;
 layers = (
 {
@@ -64806,6 +64881,7 @@ rightKerningGroup = iota;
 unicode = 1F31;
 },
 {
+color = 0;
 glyphname = iotapsilivaria;
 layers = (
 {
@@ -64853,6 +64929,7 @@ rightKerningGroup = iota;
 unicode = 1F32;
 },
 {
+color = 0;
 glyphname = iotadasiavaria;
 layers = (
 {
@@ -64900,6 +64977,7 @@ rightKerningGroup = iota;
 unicode = 1F33;
 },
 {
+color = 0;
 glyphname = iotapsilioxia;
 layers = (
 {
@@ -64955,6 +65033,7 @@ rightKerningGroup = iota;
 unicode = 1F34;
 },
 {
+color = 0;
 glyphname = iotadasiaoxia;
 layers = (
 {
@@ -65013,6 +65092,7 @@ rightKerningGroup = iota;
 unicode = 1F35;
 },
 {
+color = 0;
 glyphname = iotapsiliperispomeni;
 layers = (
 {
@@ -65060,6 +65140,7 @@ rightKerningGroup = iota;
 unicode = 1F36;
 },
 {
+color = 0;
 glyphname = iotadasiaperispomeni;
 layers = (
 {
@@ -65107,6 +65188,7 @@ rightKerningGroup = iota;
 unicode = 1F37;
 },
 {
+color = 0;
 glyphname = iotavaria;
 layers = (
 {
@@ -65154,6 +65236,7 @@ rightKerningGroup = iota;
 unicode = 1F76;
 },
 {
+color = 0;
 glyphname = iotaoxia;
 layers = (
 {
@@ -65201,6 +65284,7 @@ rightKerningGroup = iota;
 unicode = 1F77;
 },
 {
+color = 0;
 glyphname = iotaperispomeni;
 layers = (
 {
@@ -65248,6 +65332,7 @@ rightKerningGroup = iota;
 unicode = 1FD6;
 },
 {
+color = 0;
 glyphname = iotavrachy;
 layers = (
 {
@@ -65295,6 +65380,7 @@ rightKerningGroup = iota;
 unicode = 1FD0;
 },
 {
+color = 0;
 glyphname = iotamacron;
 layers = (
 {
@@ -65342,6 +65428,7 @@ rightKerningGroup = iota;
 unicode = 1FD1;
 },
 {
+color = 0;
 glyphname = iotadialytikavaria;
 layers = (
 {
@@ -65389,6 +65476,7 @@ rightKerningGroup = iota;
 unicode = 1FD2;
 },
 {
+color = 0;
 glyphname = iotadialytikaoxia;
 layers = (
 {
@@ -65436,6 +65524,7 @@ rightKerningGroup = iota;
 unicode = 1FD3;
 },
 {
+color = 0;
 glyphname = iotadialytikaperispomeni;
 layers = (
 {
@@ -65483,6 +65572,7 @@ rightKerningGroup = iota;
 unicode = 1FD7;
 },
 {
+color = 5;
 glyphname = omicronpsili;
 layers = (
 {
@@ -65530,6 +65620,7 @@ rightKerningGroup = omicron;
 unicode = 1F40;
 },
 {
+color = 5;
 glyphname = omicrondasia;
 layers = (
 {
@@ -65577,6 +65668,7 @@ rightKerningGroup = omicron;
 unicode = 1F41;
 },
 {
+color = 5;
 glyphname = omicronpsilivaria;
 layers = (
 {
@@ -65624,6 +65716,7 @@ rightKerningGroup = omicron;
 unicode = 1F42;
 },
 {
+color = 5;
 glyphname = omicrondasiavaria;
 layers = (
 {
@@ -65671,6 +65764,7 @@ rightKerningGroup = omicron;
 unicode = 1F43;
 },
 {
+color = 5;
 glyphname = omicronpsilioxia;
 layers = (
 {
@@ -65718,6 +65812,7 @@ rightKerningGroup = omicron;
 unicode = 1F44;
 },
 {
+color = 5;
 glyphname = omicrondasiaoxia;
 layers = (
 {
@@ -65765,6 +65860,7 @@ rightKerningGroup = omicron;
 unicode = 1F45;
 },
 {
+color = 5;
 glyphname = omicronvaria;
 layers = (
 {
@@ -65812,6 +65908,7 @@ rightKerningGroup = omicron;
 unicode = 1F78;
 },
 {
+color = 5;
 glyphname = omicronoxia;
 layers = (
 {
@@ -65859,6 +65956,7 @@ rightKerningGroup = omicron;
 unicode = 1F79;
 },
 {
+color = 5;
 glyphname = rhopsili;
 layers = (
 {
@@ -65906,6 +66004,7 @@ rightKerningGroup = omicron;
 unicode = 1FE4;
 },
 {
+color = 5;
 glyphname = rhodasia;
 layers = (
 {
@@ -65953,6 +66052,7 @@ rightKerningGroup = omicron;
 unicode = 1FE5;
 },
 {
+color = 5;
 glyphname = upsilonpsili;
 layers = (
 {
@@ -66000,6 +66100,7 @@ rightKerningGroup = omicron;
 unicode = 1F50;
 },
 {
+color = 5;
 glyphname = upsilondasia;
 layers = (
 {
@@ -66047,6 +66148,7 @@ rightKerningGroup = omicron;
 unicode = 1F51;
 },
 {
+color = 5;
 glyphname = upsilonpsilivaria;
 layers = (
 {
@@ -66094,6 +66196,7 @@ rightKerningGroup = omicron;
 unicode = 1F52;
 },
 {
+color = 5;
 glyphname = upsilondasiavaria;
 layers = (
 {
@@ -66141,6 +66244,7 @@ rightKerningGroup = omicron;
 unicode = 1F53;
 },
 {
+color = 5;
 glyphname = upsilonpsilioxia;
 layers = (
 {
@@ -66188,6 +66292,7 @@ rightKerningGroup = omicron;
 unicode = 1F54;
 },
 {
+color = 5;
 glyphname = upsilondasiaoxia;
 layers = (
 {
@@ -66235,6 +66340,7 @@ rightKerningGroup = omicron;
 unicode = 1F55;
 },
 {
+color = 5;
 glyphname = upsilonpsiliperispomeni;
 layers = (
 {
@@ -66282,6 +66388,7 @@ rightKerningGroup = omicron;
 unicode = 1F56;
 },
 {
+color = 5;
 glyphname = upsilondasiaperispomeni;
 layers = (
 {
@@ -66329,6 +66436,7 @@ rightKerningGroup = omicron;
 unicode = 1F57;
 },
 {
+color = 5;
 glyphname = upsilonvaria;
 layers = (
 {
@@ -66376,6 +66484,7 @@ rightKerningGroup = omicron;
 unicode = 1F7A;
 },
 {
+color = 5;
 glyphname = upsilonoxia;
 layers = (
 {
@@ -66704,6 +66813,7 @@ rightKerningGroup = omicron;
 unicode = 1FE7;
 },
 {
+color = 5;
 glyphname = omegapsili;
 layers = (
 {
@@ -66751,6 +66861,7 @@ rightKerningGroup = omicron;
 unicode = 1F60;
 },
 {
+color = 5;
 glyphname = omegadasia;
 layers = (
 {
@@ -66798,6 +66909,7 @@ rightKerningGroup = omicron;
 unicode = 1F61;
 },
 {
+color = 5;
 glyphname = omegapsilivaria;
 layers = (
 {
@@ -66845,6 +66957,7 @@ rightKerningGroup = omicron;
 unicode = 1F62;
 },
 {
+color = 5;
 glyphname = omegadasiavaria;
 layers = (
 {
@@ -66892,6 +67005,7 @@ rightKerningGroup = omicron;
 unicode = 1F63;
 },
 {
+color = 5;
 glyphname = omegapsilioxia;
 layers = (
 {
@@ -66939,6 +67053,7 @@ rightKerningGroup = omicron;
 unicode = 1F64;
 },
 {
+color = 5;
 glyphname = omegadasiaoxia;
 layers = (
 {
@@ -66986,6 +67101,7 @@ rightKerningGroup = omicron;
 unicode = 1F65;
 },
 {
+color = 5;
 glyphname = omegapsiliperispomeni;
 layers = (
 {
@@ -67033,6 +67149,7 @@ rightKerningGroup = omicron;
 unicode = 1F66;
 },
 {
+color = 5;
 glyphname = omegadasiaperispomeni;
 layers = (
 {
@@ -67080,6 +67197,7 @@ rightKerningGroup = omicron;
 unicode = 1F67;
 },
 {
+color = 5;
 glyphname = omegavaria;
 layers = (
 {
@@ -67127,6 +67245,7 @@ rightKerningGroup = omicron;
 unicode = 1F7C;
 },
 {
+color = 5;
 glyphname = omegaoxia;
 layers = (
 {
@@ -67174,6 +67293,7 @@ rightKerningGroup = omicron;
 unicode = 1F7D;
 },
 {
+color = 5;
 glyphname = omegaperispomeni;
 layers = (
 {
@@ -67221,6 +67341,7 @@ rightKerningGroup = omicron;
 unicode = 1FF6;
 },
 {
+color = 5;
 glyphname = omegaypogegrammeni;
 layers = (
 {
@@ -67268,6 +67389,7 @@ rightKerningGroup = omicron;
 unicode = 1FF3;
 },
 {
+color = 5;
 glyphname = omegavariaypogegrammeni;
 layers = (
 {
@@ -67327,6 +67449,7 @@ rightKerningGroup = omicron;
 unicode = 1FF2;
 },
 {
+color = 5;
 glyphname = omegaoxiaypogegrammeni;
 layers = (
 {
@@ -67386,6 +67509,7 @@ rightKerningGroup = omicron;
 unicode = 1FF4;
 },
 {
+color = 5;
 glyphname = omegapsiliypogegrammeni;
 layers = (
 {
@@ -67445,6 +67569,7 @@ rightKerningGroup = omicron;
 unicode = 1FA0;
 },
 {
+color = 5;
 glyphname = omegadasiaypogegrammeni;
 layers = (
 {
@@ -67504,6 +67629,7 @@ rightKerningGroup = omicron;
 unicode = 1FA1;
 },
 {
+color = 5;
 glyphname = omegapsilivariaypogegrammeni;
 layers = (
 {
@@ -67563,6 +67689,7 @@ rightKerningGroup = omicron;
 unicode = 1FA2;
 },
 {
+color = 5;
 glyphname = omegadasiavariaypogegrammeni;
 layers = (
 {
@@ -67622,6 +67749,7 @@ rightKerningGroup = omicron;
 unicode = 1FA3;
 },
 {
+color = 5;
 glyphname = omegapsilioxiaypogegrammeni;
 layers = (
 {
@@ -67681,6 +67809,7 @@ rightKerningGroup = omicron;
 unicode = 1FA4;
 },
 {
+color = 5;
 glyphname = omegadasiaoxiaypogegrammeni;
 layers = (
 {
@@ -67740,6 +67869,7 @@ rightKerningGroup = omicron;
 unicode = 1FA5;
 },
 {
+color = 5;
 glyphname = omegapsiliperispomeniypogegrammeni;
 layers = (
 {
@@ -67799,6 +67929,7 @@ rightKerningGroup = omicron;
 unicode = 1FA6;
 },
 {
+color = 5;
 glyphname = omegadasiaperispomeniypogegrammeni;
 layers = (
 {
@@ -67858,6 +67989,7 @@ rightKerningGroup = omicron;
 unicode = 1FA7;
 },
 {
+color = 5;
 glyphname = omegaperispomeniypogegrammeni;
 layers = (
 {
@@ -106880,7 +107012,7 @@ zeta = 0;
 "@MMK_R_Eta" = 0;
 "@MMK_R_Etapsiliperispomeni" = 345;
 "@MMK_R_Etapsilivaria" = 340;
-"@MMK_R_Etatonos" = 140;
+"@MMK_R_Etatonos" = 150;
 "@MMK_R_Omegapsiliperispomeni" = 380;
 "@MMK_R_Omicron" = 0;
 "@MMK_R_Omicronpsilivaria" = 340;
@@ -107249,6 +107381,9 @@ omega = -5;
 phi = -5;
 psi = -10;
 xi = 0;
+iotadialytikavaria = -5;
+iotadieresistonos = -5;
+iotadialytikaoxia = -5;
 };
 "@MMK_L_chi" = {
 "@MMK_R_chi" = 0;
@@ -107272,6 +107407,19 @@ xi = -15;
 "@MMK_R_pi" = 0;
 "@MMK_R_rho" = -10;
 "@MMK_R_tau" = 0;
+"@MMK_R_iota" = 0;
+iotamacron = -10;
+iotavrachy = 0;
+iotaperispomeni = 0;
+iotapsilivaria = 0;
+iotadasiavaria = 0;
+iotapsilioxia = 0;
+iotadasiaoxia = 0;
+iotadialytikavaria = 0;
+iotadialytikaoxia = 0;
+iotadieresistonos = 0;
+iotadialytikaperispomeni = 0;
+iotadieresis = 0;
 };
 "@MMK_L_eta" = {
 "@MMK_R_chi" = -5;
@@ -107280,6 +107428,16 @@ xi = -15;
 "@MMK_R_lambda" = -5;
 "@MMK_R_nu" = -20;
 "@MMK_R_tau" = -10;
+iotadialytikaperispomeni = 0;
+iotadieresistonos = 0;
+iotadialytikaoxia = 0;
+iotadialytikavaria = 0;
+iotapsilivaria = 0;
+iotadasiavaria = 0;
+iotadieresis = 0;
+iotavrachy = 0;
+iotapsilioxia = 0;
+iotadasiaoxia = 0;
 };
 "@MMK_L_iota" = {
 "@MMK_R_Omicron" = -15;
@@ -107292,6 +107450,15 @@ xi = -15;
 "@MMK_R_tau" = -25;
 beta = 0;
 psi = -15;
+"@MMK_R_eta" = 0;
+etadasiavaria = 0;
+etadasiavariaypogegrammeni = 0;
+etapsilioxiaypogegrammeni = 0;
+etapsilioxia = 0;
+epsilonpsilivaria = 0;
+epsilondasiavaria = 0;
+epsilondasiaoxia = 0;
+epsilonpsilioxia = 0;
 };
 "@MMK_L_kappa" = {
 "@MMK_R_Omicron" = 10;
@@ -107346,8 +107513,6 @@ phi = 0;
 "@MMK_R_rho" = 0;
 "@MMK_R_tau" = -10;
 theta = 0;
-iotadieresis = 0;
-iotadieresistonos = 0;
 };
 "@MMK_L_pi" = {
 "@MMK_R_chi" = 0;
@@ -107395,37 +107560,37 @@ phi = 10;
 "@MMK_R_pi" = 0;
 "@MMK_R_rho" = -15;
 "@MMK_R_tau" = 0;
-delta = -10;
-xi = 10;
-zeta = 20;
-iotadieresis = 125;
-iotadieresistonos = 150;
-iotapsili = 5;
-iotadasia = -15;
-iotapsilivaria = 120;
-iotadasiavaria = 110;
-iotapsilioxia = 110;
-iotadasiaoxia = 95;
-iotapsiliperispomeni = 15;
-iotadasiaperispomeni = -10;
-iotavaria = 20;
-iotaperispomeni = 85;
-iotavrachy = 100;
-iotamacron = 90;
-iotadialytikavaria = 190;
-iotadialytikaoxia = 150;
-iotadialytikaperispomeni = 125;
-upsilondieresis = -10;
-upsilondieresistonos = 15;
-upsilondialytikavaria = 55;
-upsilondialytikaoxia = 15;
-upsilondialytikaperispomeni = -10;
 alphapsilivaria = -15;
 alphapsilivariaypogegrammeni = -15;
-epsilonpsilivaria = 0;
+delta = -10;
+epsilondasiaoxia = -20;
 epsilondasiavaria = 0;
 epsilonpsilioxia = 0;
-epsilondasiaoxia = -20;
+epsilonpsilivaria = 0;
+iotadasia = -15;
+iotadasiaoxia = 95;
+iotadasiaperispomeni = -10;
+iotadasiavaria = 110;
+iotadialytikaoxia = 150;
+iotadialytikaperispomeni = 125;
+iotadialytikavaria = 190;
+iotadieresis = 125;
+iotadieresistonos = 150;
+iotamacron = 90;
+iotaperispomeni = 85;
+iotapsili = 5;
+iotapsilioxia = 110;
+iotapsiliperispomeni = 15;
+iotapsilivaria = 120;
+iotavaria = 20;
+iotavrachy = 100;
+upsilondialytikaoxia = 15;
+upsilondialytikaperispomeni = -10;
+upsilondialytikavaria = 55;
+upsilondieresis = -10;
+upsilondieresistonos = 15;
+xi = 10;
+zeta = 20;
 };
 "@MMK_L_zeta" = {
 "@MMK_R_Omicron" = -35;
@@ -107487,6 +107652,7 @@ upsilon = -70;
 upsilondasiaoxia = -40;
 upsilondasiavaria = -20;
 upsilondialytikaoxia = 15;
+upsilondialytikaperispomeni = -10;
 upsilondialytikavaria = 55;
 upsilondieresis = -15;
 upsilondieresistonos = 10;
@@ -107497,126 +107663,308 @@ upsilonpsilivaria = -15;
 upsilonvrachy = -35;
 xi = 10;
 zeta = 20;
-upsilondialytikaperispomeni = -10;
 };
 Eta = {
 "@MMK_R_iota" = 0;
 psi = 0;
+iotadieresis = 65;
+iotadialytikaperispomeni = 70;
+iotadieresistonos = 85;
+iotadialytikaoxia = 85;
+iotadialytikavaria = 125;
+iotapsilivaria = 50;
+iotadasiavaria = 50;
+iotapsilioxia = 40;
+iotadasiaoxia = 35;
+iotaperispomeni = 35;
+iotavrachy = 40;
+iotamacron = 35;
 };
 Iotavrachy = {
 Iotamacron = 85;
 };
 beta = {
-"@MMK_R_lambda" = -20;
-iotadieresis = 55;
 "@MMK_R_iota" = 0;
-iotadieresistonos = 85;
-iotapsilivaria = 35;
-iotadasiavaria = 45;
-iotapsilioxia = 25;
+"@MMK_R_lambda" = -20;
 iotadasiaoxia = 25;
-iotaperispomeni = 45;
-iotavrachy = 10;
-iotamacron = 30;
-iotadialytikavaria = 125;
+iotadasiavaria = 45;
 iotadialytikaoxia = 85;
 iotadialytikaperispomeni = 55;
+iotadialytikavaria = 125;
+iotadieresis = 55;
+iotadieresistonos = 85;
+iotamacron = 30;
+iotaperispomeni = 45;
+iotapsilioxia = 25;
+iotapsilivaria = 35;
+iotavrachy = 10;
 };
 delta = {
+"@MMK_R_iota" = 0;
 "@MMK_R_lambda" = -20;
 "@MMK_R_nu" = -20;
 "@MMK_R_pi" = -10;
 "@MMK_R_tau" = -25;
-iotadieresis = 80;
-iotadieresistonos = 100;
-"@MMK_R_iota" = 0;
-iotapsilivaria = 70;
-iotadasiavaria = 70;
-iotapsilioxia = 60;
 iotadasiaoxia = 50;
-iotaperispomeni = 30;
-iotavrachy = 55;
-iotamacron = 35;
-iotadialytikavaria = 140;
+iotadasiavaria = 70;
 iotadialytikaoxia = 100;
 iotadialytikaperispomeni = 80;
+iotadialytikavaria = 140;
+iotadieresis = 80;
+iotadieresistonos = 100;
+iotamacron = 35;
+iotaperispomeni = 30;
+iotapsilioxia = 60;
+iotapsilivaria = 70;
+iotavrachy = 55;
 };
 etapsiliperispomeni = {
 "@MMK_R_Tau" = 0;
 };
+iotadasiaoxia = {
+"@MMK_R_lambda" = 35;
+"@MMK_R_omicron" = -15;
+lambda = 40;
+xi = 25;
+zeta = 30;
+};
 iotadasiavaria = {
 "@MMK_R_Omicron" = -20;
 "@MMK_R_omicron" = -15;
-zeta = 15;
 xi = 0;
+zeta = 15;
 };
 iotadialytikaoxia = {
 "@MMK_R_Omicron" = 80;
-beta = 55;
-delta = 75;
 "@MMK_R_lambda" = 125;
 "@MMK_R_omicron" = -15;
-zeta = 120;
+beta = 55;
+delta = 75;
 lambda = 125;
 xi = 110;
+zeta = 120;
+omicronpsilivaria = 75;
+omicrondasiavaria = 70;
+omicronpsilioxia = 65;
+omicrondasiaoxia = 50;
+"@MMK_R_iota" = -10;
+upsilonpsilioxia = 80;
+upsilondasiavaria = 85;
+upsilondasiaoxia = 65;
+upsilonpsilivaria = 95;
+"@MMK_R_eta" = 50;
+etapsilivaria = 65;
+etapsilivariaypogegrammeni = 65;
+etadasiaoxia = 35;
+etadasiaoxiaypogegrammeni = 35;
+etadasiavaria = 55;
+etadasiavariaypogegrammeni = 55;
+etapsilioxia = 50;
+alphapsilioxia = 80;
+alphadasiavaria = 85;
+alphadasiavariaypogegrammeni = 85;
+alphapsilioxiaypogegrammeni = 80;
+alphadasiaoxia = 70;
+alphadasiaoxiaypogegrammeni = 70;
+alphapsilivaria = 95;
+alphapsilivariaypogegrammeni = 95;
+epsilondasiaoxia = 85;
+epsilonpsilioxia = 100;
+epsilondasiavaria = 105;
+epsilonpsilivaria = 105;
+alphaperispomeniypogegrammeni = 70;
+alphaperispomeni = 70;
+alphavrachy = 75;
+alphamacron = 60;
 };
 iotadialytikaperispomeni = {
 "@MMK_R_Omicron" = 10;
 "@MMK_R_lambda" = 70;
-"@MMK_R_omicron" = 0;
 delta = 5;
-zeta = 55;
 lambda = 70;
 xi = 45;
+zeta = 55;
+omicronpsilivaria = 10;
+"@MMK_R_omicron" = -15;
+omicrondasiavaria = 5;
+omicronpsilioxia = 0;
+"@MMK_R_iota" = -10;
+upsilonpsilioxia = 20;
+upsilondasiavaria = 25;
+upsilondasiaoxia = 5;
+upsilonpsilivaria = 30;
+alphapsilioxia = 20;
+alphadasiavaria = 25;
+alphadasiavariaypogegrammeni = 25;
+alphapsilioxiaypogegrammeni = 20;
+alphadasiaoxia = 10;
+alphadasiaoxiaypogegrammeni = 10;
+alphapsilivaria = 30;
+alphapsilivariaypogegrammeni = 30;
+epsilondasiaoxia = 20;
+epsilonpsilioxia = 35;
+epsilondasiavaria = 40;
+epsilonpsilivaria = 40;
+alphaperispomeniypogegrammeni = -5;
+alphaperispomeni = -5;
+alphavrachy = 5;
+alphamacron = -5;
 };
 iotadialytikavaria = {
 "@MMK_R_Omicron" = 35;
-beta = 15;
-delta = 35;
 "@MMK_R_lambda" = 85;
 "@MMK_R_omicron" = -15;
-zeta = 80;
+beta = 15;
+delta = 35;
 lambda = 85;
 xi = 70;
+zeta = 80;
+omicronpsilivaria = 35;
+omicrondasiavaria = 30;
+omicronpsilioxia = 25;
+omicrondasiaoxia = 10;
+upsilonpsilioxia = 40;
+"@MMK_R_iota" = -10;
+upsilondasiavaria = 45;
+upsilondasiaoxia = 25;
+upsilonpsilivaria = 50;
+etapsilivaria = 20;
+etapsilivariaypogegrammeni = 20;
+etadasiavaria = 15;
+etadasiavariaypogegrammeni = 15;
+etapsilioxiaypogegrammeni = 10;
+etapsilioxia = 10;
+alphapsilioxia = 40;
+alphadasiavaria = 45;
+alphadasiavariaypogegrammeni = 45;
+alphapsilioxiaypogegrammeni = 40;
+alphadasiaoxia = 30;
+alphadasiaoxiaypogegrammeni = 30;
+alphapsilivaria = 50;
+alphapsilivariaypogegrammeni = 50;
+epsilondasiaoxia = 45;
+epsilonpsilioxia = 60;
+epsilondasiavaria = 65;
+epsilonpsilivaria = 65;
+alphaperispomeniypogegrammeni = 30;
+alphaperispomeni = 30;
+alphavrachy = 30;
+alphamacron = 20;
 };
 iotadieresis = {
 "@MMK_R_Omicron" = 5;
 "@MMK_R_lambda" = 60;
 delta = 5;
-"@MMK_R_omicron" = -15;
-zeta = 55;
 lambda = 65;
 xi = 45;
+zeta = 55;
+omicronpsilivaria = 15;
+omicrondasiavaria = 5;
+omicronpsilioxia = 0;
+"@MMK_R_iota" = -10;
+upsilonpsilioxia = 20;
+upsilondasiavaria = 25;
+upsilondasiaoxia = 5;
+upsilonpsilivaria = 30;
+alphapsilioxia = 20;
+alphadasiavaria = 25;
+alphadasiavariaypogegrammeni = 25;
+alphapsilioxiaypogegrammeni = 20;
+alphadasiaoxia = 10;
+alphadasiaoxiaypogegrammeni = 15;
+alphapsilivaria = 30;
+alphapsilivariaypogegrammeni = 30;
+epsilondasiaoxia = 20;
+epsilonpsilioxia = 35;
+epsilondasiavaria = 40;
+epsilonpsilivaria = 40;
+alphaperispomeni = 5;
+alphavrachy = 10;
+"@MMK_R_omicron" = -15;
+alphamacron = -5;
 };
 iotadieresistonos = {
 "@MMK_R_Omicron" = 75;
-beta = 55;
-delta = 75;
 "@MMK_R_lambda" = 125;
 "@MMK_R_omicron" = -15;
-zeta = 120;
+beta = 55;
+delta = 75;
 lambda = 125;
 xi = 110;
+zeta = 120;
+omicronpsilivaria = 75;
+omicrondasiavaria = 70;
+omicronpsilioxia = 65;
+omicrondasiaoxia = 50;
+"@MMK_R_iota" = -10;
+upsilonpsilioxia = 80;
+upsilondasiavaria = 85;
+upsilondasiaoxia = 65;
+upsilonpsilivaria = 95;
+"@MMK_R_eta" = 50;
+etapsilivaria = 65;
+etapsilivariaypogegrammeni = 65;
+etadasiaoxia = 35;
+etadasiaoxiaypogegrammeni = 35;
+etadasiavaria = 55;
+etadasiavariaypogegrammeni = 55;
+etapsilioxia = 50;
+alphapsilioxia = 80;
+alphadasiavaria = 85;
+alphadasiavariaypogegrammeni = 85;
+alphapsilioxiaypogegrammeni = 80;
+alphadasiaoxia = 70;
+alphadasiaoxiaypogegrammeni = 70;
+alphapsilivaria = 95;
+alphapsilivariaypogegrammeni = 95;
+epsilondasiaoxia = 85;
+epsilonpsilioxia = 100;
+epsilondasiavaria = 105;
+epsilonpsilivaria = 105;
+alphaperispomeniypogegrammeni = 70;
+alphaperispomeni = 70;
+alphavrachy = 75;
+alphamacron = 60;
 };
 iotamacron = {
 "@MMK_R_Omicron" = -20;
 "@MMK_R_omicron" = -15;
-zeta = 30;
 xi = 10;
+zeta = 30;
+epsilonpsilivaria = 10;
+epsilondasiavaria = 10;
 };
 iotaperispomeni = {
 "@MMK_R_Omicron" = -30;
 "@MMK_R_lambda" = 45;
 "@MMK_R_omicron" = -15;
-zeta = 30;
 lambda = 45;
 xi = 25;
+zeta = 30;
+epsilonpsilivaria = 15;
+epsilondasiavaria = 15;
+};
+iotapsilioxia = {
+"@MMK_R_lambda" = 25;
+"@MMK_R_omicron" = -15;
+lambda = 35;
+xi = 25;
+zeta = 30;
 };
 iotapsilivaria = {
 "@MMK_R_Omicron" = -20;
 "@MMK_R_omicron" = -15;
-zeta = 15;
 xi = 5;
+zeta = 15;
+};
+iotavrachy = {
+"@MMK_R_lambda" = 30;
+"@MMK_R_omicron" = -15;
+lambda = 30;
+xi = 15;
+zeta = 20;
+epsilonpsilivaria = 5;
+epsilondasiavaria = 5;
 };
 mu = {
 "@MMK_R_chi" = -30;
@@ -107657,26 +108005,40 @@ upsilondasiaoxia = {
 "@MMK_R_chi" = -20;
 "@MMK_R_pi" = 5;
 "@MMK_R_tau" = 0;
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 75;
+iotadialytikaoxia = 35;
+iotadieresistonos = 35;
+iotadialytikaperispomeni = 15;
+iotadieresis = 15;
 };
 upsilondasiaperispomeni = {
 "@MMK_R_chi" = -20;
 "@MMK_R_pi" = 5;
 "@MMK_R_tau" = 0;
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 15;
 };
 upsilondasiavaria = {
 "@MMK_R_chi" = -20;
 "@MMK_R_pi" = 5;
 "@MMK_R_tau" = 0;
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 75;
+iotadialytikaoxia = 30;
+iotadieresistonos = 30;
+iotadialytikaperispomeni = 10;
+iotadieresis = 10;
 };
 upsilondialytikaoxia = {
 "@MMK_R_chi" = -20;
-"@MMK_R_pi" = 5;
-"@MMK_R_tau" = 0;
 "@MMK_R_lambda" = 10;
 "@MMK_R_omicron" = 10;
-zeta = 10;
+"@MMK_R_pi" = 5;
+"@MMK_R_tau" = 0;
 lambda = 10;
 xi = 10;
+zeta = 10;
 };
 upsilondialytikaperispomeni = {
 "@MMK_R_chi" = -20;
@@ -107685,9 +108047,9 @@ upsilondialytikaperispomeni = {
 };
 upsilondialytikavaria = {
 "@MMK_R_chi" = -20;
+"@MMK_R_lambda" = -30;
 "@MMK_R_pi" = 5;
 "@MMK_R_tau" = 0;
-"@MMK_R_lambda" = -30;
 lambda = -30;
 };
 upsilondieresis = {
@@ -107697,9 +108059,9 @@ upsilondieresis = {
 };
 upsilondieresistonos = {
 "@MMK_R_chi" = -25;
+"@MMK_R_lambda" = 10;
 "@MMK_R_pi" = 5;
 "@MMK_R_tau" = 0;
-"@MMK_R_lambda" = 10;
 lambda = 10;
 };
 upsilonmacron = {
@@ -107726,6 +108088,12 @@ upsilonpsilioxia = {
 "@MMK_R_chi" = -20;
 "@MMK_R_pi" = 5;
 "@MMK_R_tau" = 0;
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 75;
+iotadialytikaoxia = 35;
+iotadieresistonos = 35;
+iotadialytikaperispomeni = 15;
+iotadieresis = 15;
 };
 upsilonpsiliperispomeni = {
 "@MMK_R_chi" = -20;
@@ -107736,6 +108104,12 @@ upsilonpsilivaria = {
 "@MMK_R_chi" = -20;
 "@MMK_R_pi" = 5;
 "@MMK_R_tau" = 0;
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 75;
+iotadialytikaoxia = 35;
+iotadieresistonos = 35;
+iotadialytikaperispomeni = 10;
+iotadieresis = 10;
 };
 upsilontonos = {
 "@MMK_R_chi" = -25;
@@ -107752,65 +108126,358 @@ upsilonvrachy = {
 "@MMK_R_pi" = 5;
 "@MMK_R_tau" = 0;
 };
-iotapsilioxia = {
-"@MMK_R_omicron" = -15;
-zeta = 30;
-"@MMK_R_lambda" = 25;
-lambda = 35;
-xi = 25;
-};
-iotadasiaoxia = {
-"@MMK_R_lambda" = 35;
-"@MMK_R_omicron" = -15;
-zeta = 30;
-lambda = 40;
-xi = 25;
-};
-iotavrachy = {
-"@MMK_R_lambda" = 30;
-"@MMK_R_omicron" = -15;
-zeta = 20;
-lambda = 30;
-xi = 15;
-};
-zeta = {
-iotapsiliperispomeni = 15;
+xi = {
+iotadasia = -15;
+iotadasiaoxia = 95;
 iotadasiaperispomeni = 0;
-iotavaria = 20;
-iotaoxia = -40;
-iotadialytikavaria = 190;
-iotadialytikaoxia = 150;
+iotadasiavaria = 110;
 iotadialytikaperispomeni = 125;
-upsilonpsilivaria = -15;
-upsilondasiavaria = -20;
-upsilonpsilioxia = -25;
-upsilondasiaoxia = -40;
-upsilonperispomeni = -45;
-upsilonvrachy = -35;
-upsilonmacron = -40;
-upsilondialytikavaria = 55;
+iotadialytikavaria = 190;
+iotamacron = 90;
+iotaperispomeni = 85;
+iotapsili = 5;
+iotapsilioxia = 110;
+iotapsiliperispomeni = 15;
+iotapsilivaria = 120;
+iotavaria = 20;
 upsilondialytikaoxia = 15;
 upsilondialytikaperispomeni = -10;
-};
-xi = {
-iotapsili = 5;
-iotadasia = -15;
-iotapsilivaria = 120;
-iotadasiavaria = 110;
-iotapsilioxia = 110;
-iotadasiaoxia = 95;
-iotapsiliperispomeni = 15;
-iotadasiaperispomeni = 0;
-iotavaria = 20;
-iotaperispomeni = 85;
-iotamacron = 90;
-iotadialytikavaria = 190;
-iotadialytikaperispomeni = 125;
+upsilondialytikavaria = 60;
 upsilondieresis = -10;
 upsilondieresistonos = 15;
-upsilondialytikavaria = 60;
+};
+zeta = {
+iotadasiaperispomeni = 0;
+iotadialytikaoxia = 150;
+iotadialytikaperispomeni = 125;
+iotadialytikavaria = 190;
+iotaoxia = -40;
+iotapsiliperispomeni = 15;
+iotavaria = 20;
+upsilondasiaoxia = -40;
+upsilondasiavaria = -20;
 upsilondialytikaoxia = 15;
 upsilondialytikaperispomeni = -10;
+upsilondialytikavaria = 55;
+upsilonmacron = -40;
+upsilonperispomeni = -45;
+upsilonpsilioxia = -25;
+upsilonpsilivaria = -15;
+upsilonvrachy = -35;
+};
+rhodasia = {
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 10;
+};
+omicrondasia = {
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 15;
+};
+omicronoxia = {
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 10;
+};
+omicrontonos = {
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 10;
+};
+omicronpsilivaria = {
+iotadasiavaria = 10;
+iotapsilivaria = 10;
+iotadialytikavaria = 90;
+iotadialytikaoxia = 45;
+iotadieresistonos = 45;
+iotadialytikaperispomeni = 20;
+"@MMK_R_iota" = 0;
+iotadieresis = 20;
+};
+omicrondasiavaria = {
+"@MMK_R_iota" = 0;
+iotadasiavaria = 5;
+iotapsilivaria = 5;
+iotadialytikavaria = 85;
+iotadialytikaoxia = 45;
+iotadieresistonos = 45;
+iotadialytikaperispomeni = 20;
+iotadieresis = 20;
+};
+omicronpsilioxia = {
+"@MMK_R_iota" = 0;
+iotapsilioxia = 10;
+iotadasiavaria = 15;
+iotapsilivaria = 25;
+iotadialytikavaria = 90;
+iotadialytikaoxia = 50;
+iotadieresistonos = 50;
+iotadialytikaperispomeni = 30;
+iotadieresis = 30;
+};
+omicrondasiaoxia = {
+"@MMK_R_iota" = 0;
+iotapsilioxia = 10;
+iotadasiavaria = 15;
+iotapsilivaria = 20;
+iotadialytikavaria = 90;
+iotadialytikaoxia = 50;
+iotadieresistonos = 50;
+iotadialytikaperispomeni = 30;
+iotadieresis = 30;
+};
+etaoxia = {
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 15;
+};
+etaoxiaypogegrammeni = {
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 15;
+};
+etadasiaypogegrammeni = {
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 15;
+};
+etadasia = {
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 15;
+};
+etatonos = {
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 15;
+};
+epsilontonos = {
+"@MMK_R_iota" = 0;
+iotadieresis = 10;
+iotadialytikaperispomeni = 10;
+iotadieresistonos = 30;
+iotadialytikaoxia = 30;
+iotadialytikavaria = 70;
+};
+epsilonoxia = {
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 70;
+iotadialytikaoxia = 30;
+iotadieresistonos = 30;
+iotadialytikaperispomeni = 10;
+iotadieresis = 10;
+};
+epsilondasia = {
+"@MMK_R_iota" = 0;
+iotadieresis = 10;
+iotadialytikaperispomeni = 10;
+iotadieresistonos = 30;
+iotadialytikaoxia = 30;
+iotadialytikavaria = 70;
+};
+epsilonpsili = {
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 50;
+iotadialytikaoxia = 10;
+iotadieresistonos = 10;
+iotadialytikaperispomeni = 10;
+iotadieresis = 10;
+};
+epsilonvaria = {
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 30;
+};
+etadasiaperispomeni = {
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 15;
+};
+etadasiaperispomeniypogegrammeni = {
+"@MMK_R_iota" = 0;
+iotadialytikavaria = 15;
+};
+etapsilivaria = {
+"@MMK_R_iota" = 10;
+iotadieresis = 20;
+iotadialytikaperispomeni = 20;
+iotadieresistonos = 50;
+iotadialytikaoxia = 50;
+iotadialytikavaria = 90;
+iotapsilioxia = 0;
+iotapsilivaria = 15;
+};
+etapsilivariaypogegrammeni = {
+"@MMK_R_iota" = 0;
+iotadieresis = 20;
+iotadialytikaperispomeni = 20;
+iotadieresistonos = 50;
+iotadialytikaoxia = 50;
+iotadialytikavaria = 90;
+iotapsilivaria = 15;
+iotadasiavaria = 10;
+};
+etadasiaoxia = {
+iotadieresis = 30;
+iotadialytikaperispomeni = 30;
+iotadieresistonos = 50;
+iotadialytikaoxia = 50;
+iotadialytikavaria = 90;
+};
+etadasiaoxiaypogegrammeni = {
+iotadieresis = 30;
+iotadialytikaperispomeni = 30;
+iotadieresistonos = 50;
+iotadialytikaoxia = 50;
+iotadialytikavaria = 90;
+};
+etadasiavaria = {
+iotadieresis = 15;
+iotadialytikaperispomeni = 15;
+iotadieresistonos = 35;
+iotadialytikaoxia = 35;
+iotadialytikavaria = 85;
+iotapsilivaria = 15;
+iotadasiavaria = 10;
+};
+etadasiavariaypogegrammeni = {
+iotadieresis = 15;
+iotadialytikaperispomeni = 15;
+iotadieresistonos = 35;
+iotadialytikaoxia = 45;
+iotadialytikavaria = 85;
+iotadasiavaria = 10;
+iotapsilivaria = 15;
+};
+etapsilioxia = {
+iotadieresis = 30;
+iotadialytikaperispomeni = 30;
+iotadieresistonos = 50;
+iotadialytikaoxia = 50;
+iotadialytikavaria = 90;
+iotapsilivaria = 20;
+iotadasiavaria = 15;
+};
+etapsilioxiaypogegrammeni = {
+iotadieresis = 30;
+iotadialytikaperispomeni = 30;
+iotadieresistonos = 50;
+iotadialytikaoxia = 50;
+iotadialytikavaria = 90;
+iotapsilivaria = 20;
+iotadasiavaria = 15;
+};
+alphapsilioxia = {
+iotadialytikavaria = 35;
+};
+alphapsilioxiaypogegrammeni = {
+iotadialytikavaria = 35;
+};
+alphadasiavaria = {
+iotadialytikavaria = 30;
+};
+alphadasiavariaypogegrammeni = {
+iotadialytikavaria = 30;
+};
+alphapsilivaria = {
+iotadialytikavaria = 35;
+};
+alphapsilivariaypogegrammeni = {
+iotadialytikavaria = 35;
+};
+alphadasiaoxia = {
+iotadialytikavaria = 40;
+};
+alphadasiaoxiaypogegrammeni = {
+iotadialytikavaria = 40;
+};
+epsilondasiaoxia = {
+iotamacron = 45;
+iotavrachy = 60;
+iotaperispomeni = 35;
+iotapsilivaria = 80;
+iotadasiavaria = 70;
+iotapsilioxia = 60;
+iotadasiaoxia = 50;
+iotadialytikavaria = 145;
+iotadialytikaoxia = 100;
+iotadieresistonos = 100;
+iotadialytikaperispomeni = 85;
+iotadieresis = 85;
+};
+epsilonpsilioxia = {
+iotamacron = 45;
+iotaperispomeni = 35;
+iotavrachy = 60;
+iotapsilivaria = 75;
+iotadasiavaria = 70;
+iotapsilioxia = 65;
+iotadasiaoxia = 45;
+iotadialytikavaria = 145;
+iotadialytikaoxia = 100;
+iotadieresistonos = 100;
+iotadialytikaperispomeni = 85;
+iotadieresis = 85;
+};
+epsilondasiavaria = {
+iotamacron = 35;
+iotavrachy = 45;
+iotaperispomeni = 50;
+iotapsilivaria = 65;
+iotadasiavaria = 60;
+iotapsilioxia = 55;
+iotadasiaoxia = 40;
+iotadialytikavaria = 140;
+iotadialytikaoxia = 95;
+iotadieresistonos = 95;
+iotadialytikaperispomeni = 80;
+iotadieresis = 80;
+};
+epsilonpsilivaria = {
+iotamacron = 35;
+iotavrachy = 45;
+iotaperispomeni = 50;
+iotapsilivaria = 65;
+iotadasiavaria = 60;
+iotapsilioxia = 55;
+iotadasiaoxia = 40;
+iotadialytikavaria = 145;
+iotadieresis = 85;
+iotadialytikaperispomeni = 85;
+iotadialytikaoxia = 100;
+iotadieresistonos = 100;
+};
+alphaperispomeniypogegrammeni = {
+iotadialytikaoxia = 5;
+iotadialytikavaria = 45;
+iotadieresistonos = 5;
+};
+alphaperispomeni = {
+iotadieresistonos = 5;
+iotadialytikavaria = 45;
+iotadialytikaoxia = 5;
+};
+alphavrachy = {
+iotadieresistonos = 0;
+iotadialytikavaria = 40;
+iotadialytikaoxia = 0;
+};
+alphamacron = {
+iotadialytikavaria = 35;
+};
+etaperispomeni = {
+iotadieresis = 40;
+iotadieresistonos = 60;
+iotadialytikavaria = 100;
+iotadialytikaoxia = 55;
+iotadialytikaperispomeni = 40;
+iotavrachy = 20;
+iotapsilivaria = 30;
+iotadasiavaria = 25;
+iotapsilioxia = 20;
+iotadasiaoxia = 10;
+};
+etaperispomeniypogegrammeni = {
+iotadialytikaperispomeni = 40;
+iotadialytikaoxia = 55;
+iotadialytikavaria = 100;
+iotadieresistonos = 60;
+iotadieresis = 40;
+iotavrachy = 20;
+iotadasiaoxia = 10;
+iotapsilioxia = 20;
+iotadasiavaria = 25;
+iotapsilivaria = 30;
 };
 };
 };
