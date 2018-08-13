@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb_macroncomb" format="2">
+	<advance width="585"/>
+	<outline>
+		<component base="dotaccentcomb.loclVIET" xOffset="147"/>
+		<component base="macroncomb" xOffset="49" yOffset="186"/>
+	</outline>
+</glyph>

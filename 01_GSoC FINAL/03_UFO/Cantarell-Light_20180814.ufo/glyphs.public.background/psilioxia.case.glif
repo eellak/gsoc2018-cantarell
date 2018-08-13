@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psilioxia.case" format="2">
+	<outline>
+		<component base="psilioxia" yOffset="-40"/>
+	</outline>
+	<anchor name="_topleft" x="259" y="694"/>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb.case" format="2">
+	<advance width="362"/>
+	<outline>
+		<component base="circumflexcomb" yOffset="177"/>
+	</outline>
+	<anchor name="_top" x="177" y="694"/>
+	<anchor name="top" x="177" y="834"/>
+	<anchor name="top_viet" x="302" y="779"/>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oxia" format="2">
+	<unicode hex="1FFD"/>
+	<advance width="337"/>
+	<outline>
+		<component base="tonos"/>
+	</outline>
+	<anchor name="_top" x="141" y="490"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>tonos</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>tonos</string>
+			<key>public.markColor</key>
+			<string>0.97,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

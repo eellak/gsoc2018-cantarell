@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.dnom" format="2">
+	<advance width="469"/>
+	<outline>
+		<contour>
+			<point x="235" y="-7" type="curve" smooth="yes"/>
+			<point x="346" y="-7"/>
+			<point x="420" y="46"/>
+			<point x="420" y="126" type="curve" smooth="yes"/>
+			<point x="420" y="281"/>
+			<point x="141" y="246"/>
+			<point x="141" y="355" type="curve" smooth="yes"/>
+			<point x="141" y="393"/>
+			<point x="176" y="418"/>
+			<point x="230" y="418" type="curve" smooth="yes"/>
+			<point x="286" y="418"/>
+			<point x="326" y="391"/>
+			<point x="326" y="351" type="curve" smooth="yes"/>
+			<point x="326" y="311"/>
+			<point x="287" y="279"/>
+			<point x="229" y="270" type="curve"/>
+			<point x="283" y="243" type="line"/>
+			<point x="355" y="264"/>
+			<point x="398" y="309"/>
+			<point x="398" y="364" type="curve" smooth="yes"/>
+			<point x="398" y="432"/>
+			<point x="332" y="479"/>
+			<point x="237" y="479" type="curve" smooth="yes"/>
+			<point x="135" y="479"/>
+			<point x="68" y="426"/>
+			<point x="68" y="348" type="curve" smooth="yes"/>
+			<point x="68" y="190"/>
+			<point x="345" y="229"/>
+			<point x="345" y="121" type="curve" smooth="yes"/>
+			<point x="345" y="80"/>
+			<point x="306" y="55"/>
+			<point x="243" y="55" type="curve" smooth="yes"/>
+			<point x="172" y="55"/>
+			<point x="125" y="86"/>
+			<point x="125" y="132" type="curve" smooth="yes"/>
+			<point x="125" y="176"/>
+			<point x="168" y="209"/>
+			<point x="233" y="216" type="curve"/>
+			<point x="187" y="245" type="line"/>
+			<point x="104" y="232"/>
+			<point x="51" y="183"/>
+			<point x="51" y="120" type="curve" smooth="yes"/>
+			<point x="51" y="44"/>
+			<point x="125" y="-7"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>68</integer>
+				<key>weight</key>
+				<integer>-7</integer>
+				<key>width</key>
+				<integer>74</integer>
+			</dict>
+		</dict>
+	</lib>
+	<note>
+		eight
+	</note>
+</glyph>

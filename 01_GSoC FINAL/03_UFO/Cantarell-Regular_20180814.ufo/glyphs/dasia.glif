@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dasia" format="2">
+	<unicode hex="1FFE"/>
+	<advance width="254"/>
+	<outline>
+		<component base="psili" xScale="-1" xOffset="254"/>
+	</outline>
+	<anchor name="_top" x="118" y="482"/>
+	<anchor name="top" x="118" y="694"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.97,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

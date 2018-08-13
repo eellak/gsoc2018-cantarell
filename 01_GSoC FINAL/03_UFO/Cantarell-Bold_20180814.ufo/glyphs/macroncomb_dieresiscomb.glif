@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb_dieresiscomb" format="2">
+	<advance width="598"/>
+	<outline>
+		<component base="macroncomb.loclVIET" xOffset="53"/>
+		<component base="dieresiscomb" xOffset="23" yOffset="194"/>
+	</outline>
+</glyph>

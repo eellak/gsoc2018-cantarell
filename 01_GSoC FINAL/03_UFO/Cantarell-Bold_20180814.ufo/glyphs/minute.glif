@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minute" format="2">
+	<unicode hex="2032"/>
+	<advance width="276"/>
+	<outline>
+		<component base="quotesingle" yxScale="0.19201" xOffset="-106"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>=quoteright</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=quoteright</string>
+		</dict>
+	</lib>
+	<note>
+		minute
+	</note>
+</glyph>

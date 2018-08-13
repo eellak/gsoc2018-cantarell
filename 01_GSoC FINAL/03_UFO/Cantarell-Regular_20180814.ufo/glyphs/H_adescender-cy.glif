@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hadescender-cy" format="2">
+	<unicode hex="04B2"/>
+	<advance width="649"/>
+	<outline>
+		<component base="Ha-cy"/>
+		<component base="descender-cy.case" xOffset="480"/>
+	</outline>
+</glyph>
