@@ -2,6 +2,11 @@
 
 ## Journal
 
+**01.08.–14.08.**<br />
+- Kerning still in progress 
+- Completed documentation for the final evaluation
+<br>
+
 **24.07.–31.07.**<br />
 - Adjusted lowercase letters in all weights according to the feedback from 14.07. 
 - Started kerning
