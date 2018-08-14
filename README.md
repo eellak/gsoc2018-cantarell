@@ -5,7 +5,7 @@
 ### **Links**
 
 - [GSoC project page](https://summerofcode.withgoogle.com/organizations/4954936912117760/#6670474218569728)
-- [Gist with the final report](https://gist.github.com/grautesk/10976a29576e26e7ec27b4b4a32f6623)
+- [Gist with the final report](https://gist.github.com/grautesk/a8513e1b668be03238140b2cebfe18ac)
 
 ---
 
@@ -19,7 +19,7 @@ The family is currently growing to support additional writing systems. After ini
 
 ## Process
 
-There is a detailed résumé of this project in a [gist](https://gist.github.com/grautesk/10976a29576e26e7ec27b4b4a32f6623). [00_Process](https://github.com/eellak/gsoc2018-cantarell/tree/master/00_PROCESS) in this repository was the work in progress folder during Google Summer of Code. [01_GSoC FINAL](https://github.com/eellak/gsoc2018-cantarell/tree/master/01_GSoC%20FINAL) comprises the status on the day of the final evaluation in mid August 2018, including the [GLYPHS-file](https://github.com/eellak/gsoc2018-cantarell/tree/master/01_GSoC%20FINAL/02_GLYPHS), exported [UFOs](https://github.com/eellak/gsoc2018-cantarell/tree/master/01_GSoC%20FINAL/03_UFO) and installable [fonts](https://github.com/eellak/gsoc2018-cantarell/tree/master/01_GSoC%20FINAL/04_Fonts).
+There is a detailed résumé of this project in a [gist](https://gist.github.com/grautesk/a8513e1b668be03238140b2cebfe18ac). [00_Process](https://github.com/eellak/gsoc2018-cantarell/tree/master/00_PROCESS) in this repository was the work in progress folder during Google Summer of Code. [01_GSoC FINAL](https://github.com/eellak/gsoc2018-cantarell/tree/master/01_GSoC%20FINAL) comprises the status on the day of the final evaluation in mid August 2018, including the [GLYPHS-file](https://github.com/eellak/gsoc2018-cantarell/tree/master/01_GSoC%20FINAL/02_GLYPHS), exported [UFOs](https://github.com/eellak/gsoc2018-cantarell/tree/master/01_GSoC%20FINAL/03_UFO) and installable [fonts](https://github.com/eellak/gsoc2018-cantarell/tree/master/01_GSoC%20FINAL/04_Fonts).
 
 ![Cantarell Greek](https://raw.githubusercontent.com/eellak/gsoc2018-cantarell/master/01_GSoC%20FINAL/01_Resources/Cantarell_Specimen_20180814.jpg)
 
